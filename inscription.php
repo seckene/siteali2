@@ -1,5 +1,4 @@
 <?php 
-var_dump($_POST)
 
 ?>
 
@@ -81,5 +80,7 @@ var_dump($_POST)
     </form>
   </div>
 </body>
+
+<script src="ex.js"></script>
 </html>
 

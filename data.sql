@@ -10,6 +10,6 @@ CREATE TABLE user (
         Email VARCHAR(100) NOT NULL,
          Ville VARCHAR(100) NOT NULL,
          Sexe  VARCHAR(100) NOT NULL
-         
+
 );
  
