@@ -17,7 +17,7 @@ $options = [
  
 try {
     $pdo = new PDO($dsn, $user, $pass, $options); // Connexion à la base de données avec PDO
-    echo "ok connected";
+    
 } catch (PDOException $e) {
     throw new PDOException($e->getMessage(), (int)$e->getCode()); // En cas d'erreur, on affiche le message
 }
@@ -85,6 +85,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         </nav>
     </header>
 <body>
+    <div class="site">
+  <h1>Inscriptions Hadj 2025</h1>
+
   <div class="salif">
     <form method="post">
 
@@ -117,8 +120,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 
     </form>
+    
+  </div>
   </div>
 </body>
+
 
     <script src="ex.js"></script>
 </html>
