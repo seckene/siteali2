@@ -93,7 +93,7 @@ height: 34rem;
     width: 40%;
     border: none;
     background-color: white;
-    border:2px solid black;
+    
     border-radius:10%;
  font-family: "Boldonse";
     color: rgb(238, 185, 117);
@@ -103,7 +103,7 @@ height: 34rem;
     height: 3rem;
     border: none;
     background-color: white;
-    border:2px solid black;
+  
     border-radius:10%;
  font-family: "Boldonse";
     color: rgb(238, 185, 117);
