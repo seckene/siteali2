@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style1.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -86,6 +86,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     </header>
 <body>
     <div class="site">
+        
   <h1>Inscriptions Hadj 2025</h1>
 
   <div class="salif">
