@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <div class="fab">
                     <button class="croix">X</button>
                     <li id="ays"><a href="index.php"> Accueil</a></li>
-                    <li id="ays"><a href="">Omra 2025</a></li>
+                    <li id="ays"><a href="omra.php">Omra 2025</a></li>
                     <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
                     <li id="ays"><a href=""> Contact</a></li>
 
@@ -96,22 +96,22 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       <input type="text" id="nom" name="nom" required>
 
       <label for="cin">Numéro de CIN / Passeport</label>
-      <input type="text" id="cin" name="cin" required>
+      <input type="text" id="nom" name="cin" required>
 
       <label for="date_naissance">Date de naissance</label>
-      <input type="date" id="date_naissance" name="date_naissance" required>
+      <input type="date" id="nom" name="date_naissance" required>
 
       <label for="telephone">Téléphone</label>
-      <input type="tel" id="telephone" name="telephone" required>
+      <input type="tel" id="nom" name="telephone" required>
 
       <label for="email">Email (facultatif)</label>
-      <input type="email" id="email" name="email">
+      <input type="email" id="nom" name="email">
 
       <label for="ville">Ville de résidence</label>
-      <input type="text" id="ville" name="ville" required>
+      <input type="text" id="nom" name="ville" required>
 
       <label for="sexe">Sexe</label>
-      <select id="sexe" name="sexe" required>
+      <select id="nom" name="sexe" required>
         <option value="">-- Sélectionnez --</option>
         <option value="Homme">Homme</option>
         <option value="Femme">Femme</option>

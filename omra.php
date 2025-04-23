@@ -27,8 +27,8 @@
             <ul class="reste">
                 <div class="fab">
                     <button class="croix">X</button>
-                    <li id="ays"><a href=""> Accueil</a></li>
-                    <li id="ays"><a href="omra.php">Omra 2025</a></li>
+                    <li id="ays"><a href="index.php"> Accueil</a></li>
+                    <li id="ays"><a href="">Omra 2025</a></li>
                     <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
                     <li id="ays"><a href=""> Contact</a></li>
 
@@ -42,25 +42,17 @@
         </nav>
     </header>
 
-    <div class="ctrl">
-        <div class="gauche"></div>
-        <div class="droit">
-            <div class="text2">
-               <p class="tex4"> Al dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra pas cher
+    
+    <h1>Omra 2025</h1>
+    <div class="text2">
+               <p class="tex4"> Al dar as'salam Voyages MC Travel est une agence de voyages Omra pas cher
                      agréée par le Ministère du Hajj en Arabie Saoudite sous le numéro 5084.<br>
                     Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                    années, notre agence de voyages Hajj et Omra pas cher propose différentes formules adaptées à votre
+                    années, notre agence de voyages pas cher propose différentes formules adaptées à votre
                     budget afin de permettre à un grand nombre de personnes de se rendre sur les terres saintes de
                     Médine et de Makkah.
                 </p>
             </div>
-            <div class="text3">
-                <button class="chef">Nous contacter</button>
-                <button class="chef">En savoir plus</button>
-            </div>
-        </div>
-    </div>
-    <h1>Omra & Hadj 2025</h1>
     <div class="centre">
         <div class="goos">
             <span>
@@ -102,59 +94,53 @@
         <button class="chef1">En savoir plus</button>
     </div>
     <div class="centre">
-    
-    </div>
-    <div class="centre">
+        
         <div class="goos">
             <span>
-                <p class="Omra20256">Hadj 2025</p>
-                <p class="unt"></p>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">février</p>
             </span>
-            <p class="deuxx">20 jours</p>
-            <p class="trois">(Du 20 Mars au 31 Mars)</p>
+            <p class="deuxx">10 jours</p>
+            <p class="trois">(Du 20 février au 31 février)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
             </div>
         </div>
-    </div>
-    <div class="text33">
-        <button class="chef1">Nous contacter</button>
-        <button class="chef1">Inscription</button>
-    </div>
-    
-    <h2>Accompagnement Administratif</h2>
-    <div class="tex444">
-    <p class="tex44"> 
-        Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
-        
-        
-        La demande de visa pour le Hajj ou la Omra
-        
-        L’aide pour les personnes ayant un passeport étranger
-        
-        Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
-    </p>
-</div>
-    <section id="www">
-   
-    <div class="goos2">
-            <p class="Omra20255">Passeports Etrangers</p>
-            <br>
-   </div>
   
-   <div class="goos3">
-    <span>
-       
-        <p class="unt"></p>
-    </span>
-   
-  </section>
+</div>
+<div class="text33">
+    <button class="chef1">Nous contacter</button>
+    <button class="chef1">En savoir plus</button>
+</div>
+<div class="centre">
+        
+        <div class="goos">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">février</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <p class="trois">(Du 20 février au 31 février)</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+
+            </div>
+        </div>
+  
+</div>
+<div class="text33">
+    <button class="chef1">Nous contacter</button>
+    <button class="chef1">En savoir plus</button>
+</div>
+
+
 
 
  
-  <footer>
+<footer>
     <p class="lol">   </p>
     <h4>Nos partenaire</H4>
     
@@ -178,10 +164,7 @@
     </ul>
    
   </footer>
- 
-    <script src="ex.js"></script>
+
+  
+  <script src="ex.js"></script>
 </body>
-
-</html>
-
-
