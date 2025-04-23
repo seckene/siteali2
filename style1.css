@@ -75,7 +75,7 @@ height: 37rem;
     display: flex;
     justify-content: center;
     margin-bottom: 10%;
-
+margin-top: 10%;
 }
 
 .text3{
@@ -114,7 +114,7 @@ height: 37rem;
 .tex4{
   
 width:80%;  
-margin-top: 0%;
+margin-top: 10%;
 
 text-align: center;
 font-size: 1.8rem;
@@ -379,7 +379,7 @@ h4{
         }
 form{
     
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
 }
