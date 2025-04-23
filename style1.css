@@ -74,8 +74,8 @@ height: 37rem;
     height: 70%;
     display: flex;
     justify-content: center;
-    margin-bottom: 10%;
-margin-top: 10%;
+    margin-bottom: 15%;
+
 }
 
 .text3{
@@ -114,10 +114,10 @@ margin-top: 10%;
 .tex4{
   
 width:80%;  
-margin-top: 10%;
-
+margin-top: 5%;
+font-family: "Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
 text-align: center;
-font-size: 1.8rem;
+font-size: 1.7rem;
 }
 
 .boss{
@@ -235,8 +235,8 @@ h1{
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-bottom:0%;
-    margin-top:5%;
+    margin-bottom:10%;
+    margin-top:10%;
     font-size: 2.5rem;
     text-decoration: underline #a79f8f;
     color: burlywood;
@@ -359,15 +359,16 @@ h4{
    justify-content: center;
    align-items: center;
    text-align: center;
+ 
     }
     .tex44{
-        width:80%;  
-        font-size: 1rem;
+        width:85%;  
+        text-align: center;
+        font-size: 1.3rem;
         font-family: "Boldonse";
         color: #a79f8f;
         }
 
-        
         
         
 
@@ -375,28 +376,28 @@ h4{
             display: block;
         font-size: 0.6rem;
         font-family:"boldonse";
-    
+        width: 70%;
         }
-form{
-    
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
+
+        .salif{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
 
 
         #nom{
             height: 1.5rem;
             width: 100%;
-            background-color: aqua;
         }
        
-        
+        form{
+         width: 70%;
+    
+        }
 .site{
- 
    display: block;
-   justify-content: center;
-   align-items: center  ;
+  
 }
 
 @media (min-width: 1400px) and (max-width: 3000px) { 
@@ -449,10 +450,17 @@ form{
 
 @media (min-width: 990px) and (max-width: 1075px) { 
     .text3{
-        margin-top: 20%;   
+        margin-top: 0%;
+        height: 10%;
+    }
+    .text2{
+        margin-bottom: 15%;
     }
     .tex4{
-        margin-top: 5%;
+        font-size: 1.5rem;
+        width:85%;  
+        margin-top: 10%;
+        
         }
         .rond{
             height: 35vh;
@@ -496,15 +504,17 @@ form{
             }
 
             .text3{
-                margin-top: 4%;
-                height: 15%;
+                margin-top: 0%;
+                height: 10%;
             }
             .text2{
+                height: 65%;
                 margin-bottom: 0%;
             }
             .tex4{
-  
-                width:70%;  
+            
+                font-size: 1.5rem;
+                width:85%;  
                 margin-top: 10%;
                 
                 }
@@ -561,7 +571,7 @@ form{
                             }
 
                             .chef1{
-                                width: 40%;
+                                width: 20%;
                                 
                             }
                             footer{
@@ -580,20 +590,19 @@ form{
         }  
         .droit{
             width: 100%;
-            height: 38rem;
+            height: 30rem;
             }
-            
-            
+          
             .text3{
-                margin-top: 8%;
+                margin-top: 15%;
                 height: 10%;
             }
             .text2{
                 margin-bottom: 0%;
             }
             .tex4{
-  
-                width:70%;  
+                font-size: 1.5rem;
+                width:85%;  
                 margin-top: 10%;
                 
                 }
@@ -722,19 +731,20 @@ form{
         }  
         .droit{
             width: 100%;
-            height: 40rem;
+            height: 30rem;
             }
             
-            
             .text3{
-                margin-top: 25%;
+                margin-top: 0%;
                 height: 10%;
             }
             .text2{
-                margin-bottom: 0%;
+                margin-bottom: 20%;
+                height: 60%;
+                
             }
             .tex4{
-  
+                font-size: 1.3rem;
                 width:85%;  
                 margin-top: 10%;
                 
@@ -865,7 +875,7 @@ form{
         }  
         .droit{
             width: 100%;
-            height: 38rem;
+            height: 36rem;
             }
             
             
@@ -874,6 +884,7 @@ form{
                 height: 10%;
             }
             .text2{
+                height: 60%;
                 margin-bottom: 0%;
             }
             .tex4{
