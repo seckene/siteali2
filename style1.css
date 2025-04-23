@@ -236,11 +236,11 @@ h1{
     align-items: center;
     text-align: center;
     margin-bottom:10%;
-    margin-top:10%;
-    font-size: 2.5rem;
-    text-decoration: underline #a79f8f;
+    margin-top:5%;
+    font-size: 2rem;
+    text-decoration: underline black;
     color: burlywood;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:"Boldonse";
 }
 
 #www{
@@ -466,6 +466,10 @@ h4{
             height: 35vh;
             width: 35%;
             margin-left: 65%;
+        }
+        .goos{
+            width: 70%;
+            height: 35rem;
         }
          .goos2{
                                 height: 25em;
@@ -1002,11 +1006,11 @@ h4{
                               
                             }
                             h2{
-                                font-size: 1.5rem;
+                                font-size: 1.3rem;
                                 justify-content: center;
                                text-align: center;
-                               color: burlywood;
-                               text-decoration: underline #a79f8f;
+                               color: a79f8f;
+                               text-decoration: underline burlywood;
                                margin-top: 20%;
                                margin-bottom: 10%;
                               font-family: "Boldonse";
@@ -1019,7 +1023,7 @@ h4{
                               footer{
                                 margin-top: 15%;
                                 background-color: black;
-                                height: 12rem;
+                                height: 13rem;
                                 
                             }
                             .foll{

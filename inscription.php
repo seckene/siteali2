@@ -85,9 +85,29 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         </nav>
     </header>
 <body>
+<h1>Inscriptions Hadj 2025</h1>
+<div class="centre">
+        <div class="goos">
+            <span>
+                <p class="Omra20256">Hadj 2025</p>
+                <p class="unt"></p>
+            </span>
+            <p class="deuxx">20 jours</p>
+            <p class="trois">(Du 20 Mars au 31 Mars)</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="text33">
+        <button class="chef1">Nous contacter</button>
+        <button class="chef1">Inscription</button>
+    </div>
     <div class="site">
         
-  <h1>Inscriptions Hadj 2025</h1>
+  <h2>Formulaire d'inscriptions Hadj 2025</h2>
 
   <div class="salif">
     <form method="post">
@@ -124,6 +144,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     
   </div>
   </div>
+
+
+  
 </body>
 
 
