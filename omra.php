@@ -98,13 +98,13 @@
         <div class="goos">
             <span>
                 <p class="Omra2025">Omra</p>
-                <p class="unt">février</p>
+                <p class="unt">Mars</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 février au 31 février)</p>
+            <p class="trois">(Du 20 Mars au 31 Mars)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
-                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+                <p class="cinque">Du<bR> 20 Mars au 31 Mars</p>
 
             </div>
         </div>
@@ -119,13 +119,13 @@
         <div class="goos">
             <span>
                 <p class="Omra2025">Omra</p>
-                <p class="unt">février</p>
+                <p class="unt">Avril</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 février au 31 février)</p>
+            <p class="trois">(Du 20 Avril au 31 Avril)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
-                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+                <p class="cinque">Du<bR> 20 Avril au 31 Avril</p>
 
             </div>
         </div>
