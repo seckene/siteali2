@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
- background-color: rgb(199, 12, 12); 
+ background-color: whitesmoke; 
 }
 .navb{display: flex;
     align-items: center;
@@ -132,7 +132,6 @@ font-size: 1.7rem;
     display: none;
 }
 .goos{
-border: 3px solid black;
     height: 32rem;
     width: 50%;
     margin-top: 2%;
@@ -362,9 +361,9 @@ h4{
  
     }
     .tex44{
-        width:85%;  
+        width:75%;  
         text-align: center;
-        font-size: 1.3rem;
+        font-size: 1rem;
         font-family: "Boldonse";
         color: #a79f8f;
         }
