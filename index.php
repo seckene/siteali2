@@ -104,6 +104,7 @@
     <div class="centre">
     
     </div>
+    <h1>hajj 2025 </h1>
     <div class="centre">
         <div class="goos">
             <span>
@@ -113,7 +114,7 @@
             <p class="deuxx">20 jours</p>
             <p class="trois">(Du 20 Mars au 31 Mars)</p>
             <div class="rond">
-                <p class="quatre">A partir de 1400€</p>
+                <p class="quatre">A partir de 7500€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
             </div>
@@ -124,7 +125,7 @@
         <button class="chef1">Inscription</button>
     </div>
     
-    <h2>Accompagnement Administratif</h2>
+    <h1>Accompagnement Administratif</h1>
     <div class="tex444">
     <p class="tex44"> 
         Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
