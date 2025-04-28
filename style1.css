@@ -525,9 +525,16 @@ h4{
                                 
 }
 .logetnom{
-    width: 30%;
-    font-size: 1.5rem;
-    margin-right: 0%;
+    display: flex ;
+    font-size: 1.7rem;
+    margin-right: 1%;
+    width: 35%;
+    
+}
+#ays{
+   
+   font-size: 0.8rem;
+
 }
 
  }
@@ -577,10 +584,6 @@ h4{
                 }
                 .titre{
                     font-size: 0.9rem;
-                }
-                .logetnom{
-                    width: 38%;
-                    margin-right: 0%;
                 }
                 
                 .rond{
@@ -644,6 +647,11 @@ h4{
                                     font-size: 1.2rem; 
                                 
 }
+#ays{
+   
+    font-size: 0.8rem;
+ 
+ }
  }
 
  @media (min-width: 500px) and (max-width: 599px) { 
