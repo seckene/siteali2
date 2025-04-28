@@ -29,8 +29,9 @@
                     <button class="croix">X</button>
                     <li id="ays"><a href="index.php"> Accueil</a></li>
                     <li id="ays"><a href="">Omra 2025</a></li>
-                    <li id="ays"><a href="administratif.php">Administratif</a></li>
                     <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
+                    <li id="ays"><a href="administratif.php">Administratif</a></li>
+             
                     <li id="ays"><a href=""> Contact</a></li>
 
                 </div>
