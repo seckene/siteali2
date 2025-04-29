@@ -137,7 +137,90 @@
     <button class="chef1">En savoir plus</button>
 </div>
 
+<div class="centre">
+        
+        <div class="goos">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">Mai</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <p class="trois">(Du 20 Mai au 31 Mai)</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 Mai au 31 Mai</p>
 
+            </div>
+        </div>
+  
+</div>
+<div class="text33">
+    <button class="chef1">Nous contacter</button>
+    <button class="chef1">En savoir plus</button>
+</div>
+<div class="centre">
+        
+        <div class="goos">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">juin</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <p class="trois">(Du 20 juin au 31 juin)</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 juin au 31 juin</p>
+
+            </div>
+        </div>
+  
+</div>
+<div class="text33">
+    <button class="chef1">Nous contacter</button>
+    <button class="chef1">En savoir plus</button>
+</div>
+<div class="centre">
+        
+        <div class="goos">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">juillet</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <p class="trois">(Du 20 juillet au 31 juillet)</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 juillet au 31 juillet</p>
+
+            </div>
+        </div>
+  
+</div>
+<div class="text33">
+    <button class="chef1">Nous contacter</button>
+    <button class="chef1">En savoir plus</button>
+</div>
+<div class="centre">
+        
+        <div class="goos">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">aout</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <p class="trois">(Du 20 aout au 31 aout)</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 aout au 31 aout</p>
+
+            </div>
+        </div>
+  
+</div>
+<div class="text33">
+    <button class="chef1">Nous contacter</button>
+    <button class="chef1">En savoir plus</button>
+</div>
 
 
  

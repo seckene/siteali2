@@ -89,7 +89,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <body>
 <h1>Inscriptions Hadj 2025</h1>
 <div class="centre">
-        <div class="goos">
+        <div class="goos5">
             <span>
                 <p class="Omra20256">Hadj 2025</p>
                 <p class="unt"></p>

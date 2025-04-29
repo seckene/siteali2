@@ -103,19 +103,19 @@ height: 37rem;
     width: 15%;
     height: 3rem;
     border: none;
-    background-color: white;
-  
+   border: 2px solid burlywood;
+  background-color: #a79f8f;
     border-radius:10%;
  font-family: "Boldonse";
-    color: rgb(238, 185, 117);
+    color: white;
     margin-right: 2%;
 }
 
 .tex4{
-  
-width:80%;  
+  color: #8b8373;
+width:85%;  
 margin-top: 5%;
-font-family: "Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: center;
 font-size: 1.7rem;
 }
@@ -583,7 +583,8 @@ h4{
                     font-size: 1rem;
                 }
                 .titre{
-                    font-size: 0.9rem;
+                    font-size: 0.8rem;
+                    width: 100%;
                 }
                 
                 .rond{
@@ -627,7 +628,7 @@ h4{
                             }
 
                             .chef1{
-                                width: 20%;
+                                width: 30%;
                                 
                             }
                             footer{
