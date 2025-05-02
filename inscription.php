@@ -103,10 +103,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             </div>
         </div>
     </div>
-    <div class="text33">
-        <button class="chef1">Nous contacter</button>
-        <button class="chef1">Inscription</button>
-    </div>
+   
     <div class="site">
         
   <h2>Formulaire d'inscriptions Hadj 2025</h2>
