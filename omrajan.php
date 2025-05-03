@@ -47,18 +47,14 @@
     
     <h1>Programe Omra </h1>
     <div class="centre">
-        <div class="goos">
+        <div class="goos22">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Programe</p>
             </span>
             <p class="deuxx">10 jours</p>
             <p class="trois">(Du 20 janvier au 31 février)</p>
-            <div class="rond">
-                <p class="quatre">A partir de 1400€</p>
-                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
-
-            </div>
+            
         </div>
     </div>
 
@@ -130,6 +126,17 @@
 
 
 </div>
+
+<div class="centre">
+        <div class="goos23">
+            <span>
+                <p class="Omra2025">Petit déjeuner inclus</p>
+               
+            </span>
+            
+        </div>
+        
+    </div>
   <footer>
     <p class="lol">   </p>
     <h4>Nos partenaire</H4>
