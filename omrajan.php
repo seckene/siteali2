@@ -44,30 +44,13 @@
         </nav>
     </header>
 
-    <div class="ctrl">
-        <div class="gauche"></div>
-        <div class="droit">
-            <div class="text2">
-               <p class="tex4"> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra pas cher
-                     agréée par le Ministère du Hajj en Arabie Saoudite sous le numéro 5084.<br>
-                    Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                    années, notre agence de voyages Hajj et Omra pas cher propose différentes formules adaptées à votre
-                    budget afin de permettre à un grand nombre de personnes de se rendre sur les terres saintes de
-                    Médine et de Makkah.
-                </p>
-            </div>
-            <div class="text3">
-                <button class="chef">Nous contacter</button>
-                <button class="chef">En savoir plus</button>
-            </div>
-        </div>
-    </div>
-    <h1>Omra & Hadj 2025</h1>
+    
+    <h1>Programe Omra </h1>
     <div class="centre">
         <div class="goos">
             <span>
                 <p class="Omra2025">Omra</p>
-                <p class="unt">Janvier</p>
+                <p class="unt">Programe</p>
             </span>
             <p class="deuxx">10 jours</p>
             <p class="trois">(Du 20 janvier au 31 février)</p>
@@ -78,96 +61,75 @@
             </div>
         </div>
     </div>
-    <div class="text33">
-        <button class="chef1"><a href="">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan"> En savoir plus<a></button>
-    </div>
-    <div class="centre">
-        
-            <div class="goos">
-                <span>
-                    <p class="Omra2025">Omra</p>
-                    <p class="unt">février</p>
-                </span>
-                <p class="deuxx">10 jours</p>
-                <p class="trois">(Du 20 février au 31 février)</p>
-                <div class="rond">
-                    <p class="quatre">A partir de 1400€</p>
-                    <p class="cinque">Du<bR> 20 janvier au 31 février</p>
-    
-                </div>
-            </div>
-      
-    </div>
-    <div class="text33">
-        <button class="chef1"><a href="">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
-    </div>
-    <div class="centre">
-    
-    </div>
-    <div class="centre">
-        <div class="goos">
-            <span>
-                <p class="Omra2025">Omra</p>
-                <p class="unt">MARS</p>
-            </span>
-            <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 MARS au 31 MARS)</p>
-            <div class="rond">
-                <p class="quatre">A partir de 1400€</p>
-                <p class="cinque">Du<bR> 20 MARS au 31 MARS</p>
 
-            </div>
-        </div>
-    </div>
-    <div class="text33">
-        <button class="chef1"><a href="">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
-    </div>
-    <div class="centre">
-        <div class="goos">
-            <span>
-                <p class="Omra2025">Omra</p>
-                <p class="unt">AVRIL</p>
-            </span>
-            <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 AVRIL au 31 AVRIL)</p>
-            <div class="rond">
-                <p class="quatre">A partir de 1400€</p>
-                <p class="cinque">Du<bR> 20 AVRIL au 31 AVRIL</p>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Premier jours</h2>
+   </div>
+    <div class="janajan">
+   <p31> -Départ / Arrivée : Paris CDG / Médine </p31><br>
+   <p31>-Transfert : Bus climatisés – de l’aéroport de Médine à l’hôtel.</p31><br>
+   <p31>-Hébergement : Séjour à Médine dans un hôtel situé à 450m de l’Esplanade</p31><br>
+    <p31>-Durée : 4 nuits</p31>
+</div>
 
-            </div>
-        </div>
-    </div>
-    <div class="text33">
-        <button class="chef1"><a href="">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
-    </div>
-    <h1>hajj 2025 </h1>
-    <div class="centre">
-        <div class="goos5">
-            <span>
-                <p class="Omra20256">Hadj 2025</p>
-                <p class="unt"></p>
-            </span>
-            <p class="deuxx">20 jours</p>
-            <p class="trois">(Du 20 Mars au 31 Mars)</p>
-            <div class="rond">
-                <p class="quatre">A partir de 7500€</p>
-                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Deuxième jour</h2>
+   </div>
+    <div class="janajan">
+<p31> -Programme libre : Profitez pleinement de la Mosquée du Prophète ﷺ<br>
+</p31>
+<p31>-Visite de lieux historiques de la ville de Médine 
+</p31>
+<p31> (Mosquée de Quba, visite du cimetière des martyrs d’Ouhoud,…)<br>
+</p31>
+<p31>-Cours de préparation à la Omra </p31>
+</div>
 
-            </div>
-        </div>
-    </div>
-    <div class="text33">
-        <button class="chef1"><a href="">Nous contacter<a></button>
-        <button class="chef1"><a href="inscription.php">Inscription<a></button>
-    </div>
-    
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Troisième jour</h2>
+   </div>
+    <div class="janajan">
+<p31> -Transfert : Bus climatisés – Après la prière de Dhor<br>
+</p31>
+<p31>-Arrivée : Prévue en début de soirée<br>
+</p31>
+<p31>-Hébergement : Séjour à La Mecque dans un hôtel situé à 800m de l’Esplanade <br>
+</p31>
+<p31>-Durée : 5 nuits
+</p31>
+<p31>-Rites : Accomplissement de la Omra </p31><br>
+</div>
+
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Quatrième-Neuvième jour</h2>
+   </div>
+    <div class="janajan">
+   <p31>- Programme libre :
+   Profitez pleinement de la Mosquée Sacrée où une prière en à la récompense de cent milles </p31>
+  
+</div>
+
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Dixième jour</h2>
+   </div>
+    <div class="janajan">
+   <p31> -Transfert : Bus climatisés<br> – De l’hôtel vers l’aéroport
+   Vol : Régulier Jeddah – Paris (CDG) </p31>
  
+</div>
 
- 
+
+
+</div>
   <footer>
     <p class="lol">   </p>
     <h4>Nos partenaire</H4>
@@ -197,5 +159,3 @@
 </body>
 
 </html>
-
-

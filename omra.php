@@ -70,8 +70,8 @@
         </div>
     </div>
     <div class="text33">
-        <button class="chef1">Nous contacter</button>
-        <button class="chef1">En savoir plus</button>
+        <button class="chef1"><a href="">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
     </div>
     <div class="centre">
         
@@ -91,8 +91,8 @@
       
     </div>
     <div class="text33">
-        <button class="chef1">Nous contacter</button>
-        <button class="chef1">En savoir plus</button>
+        <button class="chef1"><a href="">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
     </div>
     <div class="centre">
         
@@ -112,8 +112,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1">Nous contacter</button>
-    <button class="chef1">En savoir plus</button>
+    <button class="chef1"><a href="">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -133,8 +133,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1">Nous contacter</button>
-    <button class="chef1">En savoir plus</button>
+    <button class="chef1"><a href="">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
 </div>
 
 <div class="centre">
@@ -155,8 +155,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1">Nous contacter</button>
-    <button class="chef1">En savoir plus</button>
+    <button class="chef1"><a href="">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -176,8 +176,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1">Nous contacter</button>
-    <button class="chef1">En savoir plus</button>
+    <button class="chef1"><a href="">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -197,8 +197,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1">Nous contacter</button>
-    <button class="chef1">En savoir plus</button>
+    <button class="chef1"><a href="">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -218,8 +218,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1">Nous contacter</button>
-    <button class="chef1">En savoir plus</button>
+    <button class="chef1"><a href="">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
 </div>
 
 
