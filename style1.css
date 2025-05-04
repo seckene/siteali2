@@ -1144,9 +1144,8 @@ p31{
             height: 25rem;
             }
             
-            
             .text3{
-                margin-top: 30%;
+                margin-top: 15%;
                 height: 10%;
             }
             .text2{
@@ -1155,12 +1154,12 @@ p31{
             }
             .tex4{
   
-                width:100%;  
+                width:90%;  
                 margin: 1%;
                 margin-top: 10%;
-                margin-bottom: 5%;
-                font-size: 1.2rem;
-                text-align:center;
+                margin-bottom: 0%;
+                font-size: 1rem;
+        
                 
                 }
                 .gauche{
