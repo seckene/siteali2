@@ -959,7 +959,7 @@ p31{
 }   
 
 }
-@media (min-width: 430px) and (max-width: 499px) { 
+@media (min-width: 421px) and (max-width: 499px) { 
    
     .ctrl{
         display: block;
@@ -967,7 +967,7 @@ p31{
         }  
         .droit{
             width: 100%;
-            height: 25rem;
+            height: 15rem;
             }
             
             .text3{
@@ -980,9 +980,13 @@ p31{
                 
             }
             .tex4{
-                font-size: 1.3rem;
-                width:85%;  
+  
+                width:90%;  
+                margin: 1%;
                 margin-top: 10%;
+                margin-bottom: 0%;
+                font-size: 1rem;
+        
                 
                 }
                 .gauche{
@@ -1166,7 +1170,7 @@ p31{
                 
 
 
-@media (min-width: 300px) and (max-width: 429px) { 
+@media (min-width: 300px) and (max-width: 420px) { 
    
     .ctrl{
         display: block;
@@ -1265,7 +1269,7 @@ p31{
             }
 
             .rond{
-                height: 22vh;
+                height: 25vh;
                 width: 60%;
                 margin-left: 2%;
             }
