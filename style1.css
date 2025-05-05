@@ -429,13 +429,22 @@ h4{
             justify-content: center;
             align-items: center;
         }
-
+        .salif2{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 6rem;
+        }
 
         #nom{
             height: 1.5rem;
             width: 100%;
         }
-       
+        #nom2{
+            height: 15rem;
+            width: 100%;
+            text-align: center;
+        }
         form{
          width: 70%;
     
@@ -444,7 +453,6 @@ h4{
    display: block;
   
 }
-
 
 .KAKALA{
     display: flex;
@@ -502,6 +510,11 @@ p29{
     margin-left: 1rem;
     font-family:"Oswald" ;
     text-align:left;
+}
+
+.tgggggg{
+    justify-content: center;
+    align-items: center;
 }
 @media (min-width: 1400px) and (max-width: 3000px) {
     .droit{
