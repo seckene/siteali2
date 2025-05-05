@@ -3,7 +3,7 @@
     margin: 0%;
     box-sizing: border-box;
 }
-body{  background-color: #f9f9f9;
+body{  background-color:whitesmoke;
 }
 .navb{display: flex;
     align-items: center;
@@ -1269,7 +1269,7 @@ p31{
             }
 
             .rond{
-                height: 25vh;
+                height: 23vh;
                 width: 60%;
                 margin-left: 2%;
             }
