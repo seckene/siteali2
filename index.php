@@ -56,10 +56,7 @@
                     Médine et de Makkah.
                 </p>
             </div>
-            <div class="text3">
-                <button class="chef">Nous contacter</button>
-                <button class="chef">En savoir plus</button>
-            </div>
+           
         </div>
     </div>
     <h1>Omra & Hadj 2025</h1>

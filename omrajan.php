@@ -52,8 +52,8 @@
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Programe</p>
             </span>
-            <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 janvier au 31 février)</p>
+            <p class="trois3">Offrez-vous un séjour unique dans cette chambre 5 étoiles alliant confort moderne et élégance. Spacieuse et soigneusement décorée, elle dispose d’un lit king-size, d’un mobilier haut de gamme et d’une atmosphère apaisante. Depuis votre fenêtre, profitez d’une vue directe et majestueuse sur la Kaaba, un privilège rare et inoubliable pour un moment spirituel et apaisant.</p>
+            <p class="trois">( Du 20 janvier au 31 février)</p>
             
         </div>
     </div>
@@ -129,14 +129,105 @@
 
 <div class="centre">
         <div class="goos23">
-            <span>
-                <p class="Omra2025">Petit déjeuner inclus</p>
-               
+        <h1>Hôtel 5 étoiles</h1>
+            <span class="metsa">
+                <p class="trois">-Petit déjeuner inclus</p>
+                <p class="trois"> -Déjeuner inclus</p>
+                
+                <p class="trois"> -Dîner </p>
             </span>
             
         </div>
         
     </div>
+    <?php 
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+ 
+// Connexion PDO à la base de données
+$host = 'localhost';
+$db = 'siteali2';
+$user = 'root';
+$pass = '';
+$charset = 'utf8mb4';
+ 
+$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+$options = [
+    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, // Active l'affichage des erreurs PDO en tant qu'exceptions
+    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC, // Retourne les résultats sous forme de tableau associatif
+];
+ 
+try {
+    $pdo = new PDO($dsn, $user, $pass, $options); // Connexion à la base de données avec PDO
+    
+} catch (PDOException $e) {
+    throw new PDOException($e->getMessage(), (int)$e->getCode()); // En cas d'erreur, on affiche le message
+}
+// Si formulaire soumis
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    $nom = $_POST['nom'];
+    $cin = $_POST['cin'];
+    $date_naissance = $_POST['date_naissance'];
+    $telephone = $_POST['telephone'];
+    $email = $_POST['email'] ?? null; // Email est facultatif
+    $ville = $_POST['ville'];
+    $sexe = $_POST['sexe'];
+
+    // Requête SQL pour insérer les données
+    $sql = "INSERT INTO user_omra (nomcomplet, Numéro_de_CIN, Date_de_naissance, Téléphone, Email, Ville, Sexe)
+            VALUES (?, ?, ?, ?, ?, ?, ?)";
+    $stmt = $pdo->prepare($sql);
+    $stmt->execute([$nom, $cin, $date_naissance, $telephone, $email, $ville, $sexe]);
+
+    $message = "✅ Inscription enregistrée avec succès !";
+}
+?>
+<h1>inscription Omra</h1>
+  <div class="salif">
+    <form method="post">
+
+    <label for="nom">Nom complet</label>
+      <input type="text" id="nom" name="nom" required>
+
+      <label for="cin">Numéro de CIN / Passeport</label>
+      <input type="text" id="nom" name="cin" required>
+
+      <label for="date_naissance">Date de naissance</label>
+      <input type="date" id="nom" name="date_naissance" required>
+
+      <label for="telephone">Téléphone</label>
+      <input type="tel" id="nom" name="telephone" required>
+
+      <label for="email">Email (facultatif)</label>
+      <input type="email" id="nom" name="email">
+
+      <label for="ville">Ville de résidence</label>
+      <input type="text" id="nom" name="ville" required>
+
+      <label for="sexe">Sexe</label>
+      <select id="nom" name="sexe" required>
+        <option value="">-- Sélectionnez --</option>
+        <option value="Homme">Homme</option>
+        <option value="Femme">Femme</option>
+      </select>
+
+      <button type="submit">S'inscrire</button>
+
+
+    </form>
+    
+  </div>
+  </div>
+
+
+  
+</body>
+
+
+    <script src="ex.js"></script>
+</html>
+
+
   <footer>
     <p class="lol">   </p>
     <h4>Nos partenaire</H4>

@@ -52,7 +52,7 @@ margin: 0.2%;
 
 .droit{
 width: 40%;
-background-color:whitesmoke;
+
 height: 37rem;
 
 }
@@ -115,7 +115,7 @@ width:85%;
 margin-top: 5%;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: center;
-font-size: 1.7rem;
+font-size: 1.8rem;
 }
 
 .boss{
@@ -199,6 +199,14 @@ span{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 margin-bottom: 16%;
 }        
+.trois3{
+    display: flex;
+    font-size: 1rem;
+    color: white;
+    margin-top: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 1%;
+}
 .rond{
     background-color: black;
     border: 1px solid burlywood;
@@ -298,7 +306,7 @@ h1{
         width: 60%;
         margin-top: 2%;
         display: block;
-     background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/da/39/a7/anwar-al-madinah-movenpick.jpg?w=1200&h=-1&s=1");
+     background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/562349970.jpg?k=2061be325cb2645208dc3a4b792bae747edbb4f24d8eaf506f17f425227b9e99&o=&hp=1");
      background-repeat: no-repeat;
      background-size: cover;
     border-radius: 1rem;
@@ -308,9 +316,10 @@ h1{
     .goos23{
         height: 35rem;
         width: 60%;
-        margin-top: 2%;
+        margin-top: 10%;
+
         display: block;
-     background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/192903362.jpg?k=c70536b3e35cf3d459d6f36b2f8675f90aa65d83a3bc69bf911be8666ff46200&o=&hp=1");
+     background-image: url("https://www.ubparis.com/cache/img/hotel-urban-bivouac-petit-dejeuner-206198-1920-1280-landscape.jpg");
      background-repeat: no-repeat;
      background-size: cover;
     border-radius: 1rem;
@@ -481,6 +490,19 @@ p29{
     width: 80%;
     font-family:"Boldonse" ;
 }
+.metsa{
+    display: flex;
+}
+.trois3{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    font-family:"Oswald" ;
+    text-align:left;
+}
 @media (min-width: 1400px) and (max-width: 3000px) {
     .droit{
     height: 60rem;
@@ -550,7 +572,7 @@ p29{
         margin-bottom: 15%;
     }
     .tex4{
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         width:85%;  
         margin-top: 10%;
         
@@ -621,7 +643,7 @@ p29{
         }  
         .droit{
             width: 100%;
-            height: 25rem;
+            height: 20rem;
             }
             
             
@@ -745,7 +767,7 @@ p29{
         }  
         .droit{
             width: 100%;
-            height: 30rem;
+            height: 25rem;
             }
           
             .text3{
@@ -932,7 +954,10 @@ p31{
     text-align: center;
     
 }
-            
+.metsa{
+    display: block;
+}   
+
 }
 @media (min-width: 430px) and (max-width: 499px) { 
    
@@ -942,7 +967,7 @@ p31{
         }  
         .droit{
             width: 100%;
-            height: 30rem;
+            height: 25rem;
             }
             
             .text3{
@@ -1127,6 +1152,14 @@ p31{
     text-align: center;
     
 }
+.metsa{
+    display: block;
+}  
+.trois3{
+
+    font-size: 0.8rem;
+   
+}
 }
             
 
@@ -1141,7 +1174,7 @@ p31{
         }  
         .droit{
             width: 100%;
-            height: 25rem;
+            height: 20rem;
             }
             
             .text3{
@@ -1232,7 +1265,7 @@ p31{
             }
 
             .rond{
-                height: 20vh;
+                height: 22vh;
                 width: 60%;
                 margin-left: 2%;
             }
@@ -1368,6 +1401,14 @@ p31{
 
     text-align: center;
     
+}
+.metsa{
+    display: block;
+}  
+.trois3{
+  
+    font-size: 0.8rem;
+   
 }
 }
 
