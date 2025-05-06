@@ -134,7 +134,7 @@ font-size: 1.8rem;
     width: 60%;
     margin-top: 2%;
     display: block;
- background-image: url("https://omraprivee.com/wp-content/uploads/2024/04/illuminated-minaret-symbolizes-spirituality-famous-blue-mosque-generated-by-ai-scaled.jpg");
+ background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
  background-repeat: no-repeat;
  background-size: cover;
 border-radius: 1rem;
@@ -207,11 +207,13 @@ margin-bottom: 16%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 margin-bottom: 1%;
 }
+
 .rond{
-    background-color: black;
-    border: 1px solid burlywood;
+    background-color: wheat;
+border: 2px solid whitesmoke;
     height: 28vh;
     width: 28%;
+
     font-family: "Oswald";
     margin-left: 72%;
     border-radius: 10%;
@@ -1296,9 +1298,11 @@ p31{
             }
 
             .rond{
-                height: 23vh;
-                width: 60%;
+               
+                height: 22vh;
+                width: 50%;
                 margin-left: 2%;
+                margin-top: 3rem;
             }
             .goos{
                     height: 23rem;
