@@ -56,6 +56,7 @@
        </div>
     <div class="centre">
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Janvier</p>
@@ -67,6 +68,7 @@
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
             </div>
+</a>
         </div>
     </div>
     <div class="text33">
@@ -76,6 +78,7 @@
     <div class="centre">
         
             <div class="goos">
+            <a href="omrajan.php">
                 <span>
                     <p class="Omra2025">Omra</p>
                     <p class="unt">février</p>
@@ -87,6 +90,7 @@
                     <p class="cinque">Du<bR> 20 janvier au 31 février</p>
     
                 </div>
+</a>
             </div>
       
     </div>
@@ -97,6 +101,7 @@
     <div class="centre">
         
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Mars</p>
@@ -108,6 +113,7 @@
                 <p class="cinque">Du<bR> 20 Mars au 31 Mars</p>
 
             </div>
+</a>
         </div>
   
 </div>
@@ -118,6 +124,7 @@
 <div class="centre">
         
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Avril</p>
@@ -129,6 +136,7 @@
                 <p class="cinque">Du<bR> 20 Avril au 31 Avril</p>
 
             </div>
+</a>
         </div>
   
 </div>
@@ -140,6 +148,7 @@
 <div class="centre">
         
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Mai</p>
@@ -151,6 +160,7 @@
                 <p class="cinque">Du<bR> 20 Mai au 31 Mai</p>
 
             </div>
+</a>
         </div>
   
 </div>
@@ -161,6 +171,7 @@
 <div class="centre">
         
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">juin</p>
@@ -172,7 +183,8 @@
                 <p class="cinque">Du<bR> 20 juin au 31 juin</p>
 
             </div>
-        </div>
+            </a> 
+       </div>
   
 </div>
 <div class="text33">
@@ -182,6 +194,7 @@
 <div class="centre">
         
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">juillet</p>
@@ -193,6 +206,7 @@
                 <p class="cinque">Du<bR> 20 juillet au 31 juillet</p>
 
             </div>
+             </a>
         </div>
   
 </div>
@@ -203,6 +217,7 @@
 <div class="centre">
         
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">aout</p>
@@ -214,6 +229,7 @@
                 <p class="cinque">Du<bR> 20 aout au 31 aout</p>
 
             </div>
+</a>
         </div>
   
 </div>

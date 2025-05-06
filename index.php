@@ -62,6 +62,7 @@
     <h1>Omra & Hadj 2025</h1>
     <div class="centre">
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Janvier</p>
@@ -74,6 +75,7 @@
 
             </div>
         </div>
+        </a>
     </div>
     <div class="text33">
         <button class="chef1"><a href="contact.php">Nous contacter<a></button>
@@ -82,6 +84,7 @@
     <div class="centre">
         
             <div class="goos">
+            <a href="omrajan.php">
                 <span>
                     <p class="Omra2025">Omra</p>
                     <p class="unt">février</p>
@@ -93,8 +96,9 @@
                     <p class="cinque">Du<bR> 20 janvier au 31 février</p>
     
                 </div>
+                </a>
             </div>
-      
+           
     </div>
     <div class="text33">
         <button class="chef1"><a href="contact.php">Nous contacter<a></button>
@@ -105,6 +109,7 @@
     </div>
     <div class="centre">
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">MARS</p>
@@ -116,6 +121,7 @@
                 <p class="cinque">Du<bR> 20 MARS au 31 MARS</p>
 
             </div>
+            </a>
         </div>
     </div>
     <div class="text33">
@@ -124,6 +130,7 @@
     </div>
     <div class="centre">
         <div class="goos">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">AVRIL</p>
@@ -135,6 +142,7 @@
                 <p class="cinque">Du<bR> 20 AVRIL au 31 AVRIL</p>
 
             </div>
+</a>
         </div>
     </div>
     <div class="text33">
@@ -144,6 +152,7 @@
     <h1>hajj 2025 </h1>
     <div class="centre">
         <div class="goos5">
+        <a href="inscription.php">
             <span>
                 <p class="Omra20256">Hadj 2025</p>
                 <p class="unt"></p>
@@ -155,6 +164,7 @@
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
             </div>
+</a>
         </div>
     </div>
     <div class="text33">
