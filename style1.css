@@ -209,7 +209,7 @@ margin-bottom: 1%;
 }
 
 .rond{
-    background-color: wheat;
+    background-color: rgba(219, 166, 96, 0.568);
 border: 2px solid whitesmoke;
     height: 28vh;
     width: 28%;
@@ -1299,10 +1299,10 @@ p31{
 
             .rond{
                
-                height: 22vh;
+                height: 20vh;
                 width: 50%;
                 margin-left: 2%;
-                margin-top: 3rem;
+                margin-top: 2rem;
             }
             .goos{
                     height: 23rem;
