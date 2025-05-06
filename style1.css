@@ -516,6 +516,20 @@ p29{
     justify-content: center;
     align-items: center;
 }
+
+#valide{
+    margin-top: 2%;
+    background-color: #007BFF;      /* Couleur de fond (bleu) */
+    color: white;                   /* Couleur du texte */
+    border: none;                   /* Pas de bordure */
+    padding: 10px 20px;             /* Espace intérieur */
+    font-size: 16px;                /* Taille de la police */
+    border-radius: 5px;             /* Coins arrondis */
+    cursor: pointer;                /* Curseur en forme de main */
+    transition: background-color 0.3s ease; /* Animation fluide */
+
+  }
+
 @media (min-width: 1400px) and (max-width: 3000px) {
     .droit{
     height: 60rem;

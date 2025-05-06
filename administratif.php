@@ -33,7 +33,7 @@
                     <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
                     <li id="ays"><a href="administratif.php">Administratif</a></li>
                 
-                    <li id="ays"><a href=""> Contact</a></li>
+                    <li id="ays"><a href="contact.php"> Contact</a></li>
 
                 </div>
             </ul>

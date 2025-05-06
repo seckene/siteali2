@@ -32,7 +32,7 @@
                     <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
                     <li id="ays"><a href="administratif.php">Administratif</a></li>
                    
-                    <li id="ays"><a href=""> Contact</a></li>
+                    <li id="ays"><a href="contact.php"> Contact</a></li>
 
                 </div>
             </ul>
@@ -70,3 +70,36 @@
   </div>
   </div>
     </div>
+
+
+    <footer>
+    <p class="lol">   </p>
+    <h4>Nos partenaire</H4>
+    
+    <ul class="sprat" >
+         
+           
+        <li class="foll2"><img src="hotel noir.png" alt=""></li>
+        <li class="foll2"><img src="hotel noir.png" alt=""></li>
+        <li class="foll2"><img src="hotel noir.png" alt=""></li>
+       
+        
+    </ul>
+    
+    <ul class="spra">
+        <span class="voix"></span>
+          
+        <li class="foll">Omra 2025</li> 
+        <li class="foll">Inscription Hadj 2025</li> 
+          <li class="foll">En savoir plus</li>  
+            <li  class="foll"> Contact</li>    
+    </ul>
+   
+  </footer>
+ 
+    <script src="ex.js"></script>
+</body>
+
+</html>
+
+

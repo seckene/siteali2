@@ -32,7 +32,7 @@
                     <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
                     <li id="ays"><a href="administratif.php">Administratif</a></li>
                    
-                    <li id="ays"><a href=""> Contact</a></li>
+                    <li id="ays"><a href="contact.php"> Contact</a></li>
 
                 </div>
             </ul>
@@ -211,8 +211,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <option value="Femme">Femme</option>
       </select>
 
-      <button type="submit">S'inscrire</button>
-
+     
+      <button type="submit" id="valide">S'inscrire</button>
 
     </form>
     
