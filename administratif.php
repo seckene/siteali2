@@ -49,7 +49,7 @@
 <h1>Accompagnement Administratif</h1>
     <div class="tex444">
     <p class="tex44"> 
-        Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
+        Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme 
         
         
         La demande de visa pour le Hajj ou la Omra

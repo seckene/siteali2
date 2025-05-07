@@ -77,10 +77,11 @@
     <div class="janajan">
 <p31> -Programme libre : Profitez pleinement de la Mosquée du Prophète ﷺ<br>
 </p31>
-<p31>-Visite de lieux historiques de la ville de Médine 
+<br>
+<p31>-Visite de lieux historiques de la ville de Médine (Mosquée de Quba, visite du cimetière des martyrs d’Ouhoud,…)
 </p31>
-<p31> (Mosquée de Quba, visite du cimetière des martyrs d’Ouhoud,…)<br>
-</p31>
+<br>
+
 <p31>-Cours de préparation à la Omra </p31>
 </div>
 
@@ -94,9 +95,7 @@
 </p31>
 <p31>-Arrivée : Prévue en début de soirée<br>
 </p31>
-<p31>-Hébergement : Séjour à La Mecque dans un hôtel situé à 800m de l’Esplanade <br>
-</p31>
-<p31>-Durée : 5 nuits
+<p31>-Hébergement : Séjour à La Mecque dans un hôtel situé à 800m de l’Esplanade Durée : 5 nuits<br>
 </p31>
 <p31>-Rites : Accomplissement de la Omra </p31><br>
 </div>
@@ -119,7 +118,7 @@
    </div>
     <div class="janajan">
    <p31> -Transfert : Bus climatisés<br> – De l’hôtel vers l’aéroport
-   Vol : Régulier Jeddah – Paris (CDG) </p31>
+   Vol : Régulier Jeddah Paris (CDG) </p31>
  
 </div>
 
@@ -129,7 +128,7 @@
 
 <div class="centre">
         <div class="goos23">
-        <h1>Hôtel 5 étoiles</h1>
+        <h2>Hôtel 5 étoiles</h2>
             <span class="metsa">
                 <p class="trois">-Petit déjeuner inclus</p>
                 <p class="trois"> -Déjeuner inclus</p>
@@ -214,6 +213,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
      
       <button type="submit" id="valide">S'inscrire</button>
 
+      </span>
     </form>
     
   </div>
