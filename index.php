@@ -38,7 +38,7 @@
                    
                     <li id="ays"><a href="contact.php"> Contact</a></li>
 
-                </div>
+                
             </ul>
             <svg xmlns="http://www.w3.org/2000/svg" height="32" width="28" viewBox="0 0 448 512"
                 class="boss"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
@@ -116,7 +116,7 @@
         <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
-                <p class="unt">MARS</p>
+                <p class="unt">Mars</p>
             </span>
             <p class="deuxx">10 jours</p>
             <p class="trois">(Du 20 MARS au 31 MARS)</p>
@@ -137,7 +137,7 @@
         <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
-                <p class="unt">AVRIL</p>
+                <p class="unt">Avril</p>
             </span>
             <p class="deuxx">10 jours</p>
             <p class="trois">(Du 20 AVRIL au 31 AVRIL)</p>
@@ -180,7 +180,7 @@
 
     <h1>Accompagnement Administratif</h1>
     <div class="tex444">
-    <p class="tex4"> 
+    <p class="tex44"> 
         Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
         
         

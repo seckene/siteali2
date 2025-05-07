@@ -75,7 +75,7 @@
     <h2>Deuxième jour</h2>
    </div>
     <div class="janajan">
-<p31> -Programme libre : Profitez pleinement de la Mosquée du Prophète ﷺ<br>
+<p31> -Programme libre : Profitez pleinement de la Mosquée du Prophète ﷺ
 </p31>
 <br>
 <p31>-Visite de lieux historiques de la ville de Médine (Mosquée de Quba, visite du cimetière des martyrs d’Ouhoud,…)
