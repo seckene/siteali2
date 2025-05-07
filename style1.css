@@ -110,10 +110,11 @@ height: 37rem;
 }
 
 .tex4{
-  color: #8b8373;
-width:85%;  
+  color: black;
+  font-family:"Inter";
+width:90%;  
 margin-top: 5%;
-font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 text-align: center;
 font-size: 1.8rem;
 }
@@ -245,9 +246,10 @@ h1{
     margin-bottom:2%;
     margin-top:8%;
     font-size: 2rem;
-    text-decoration: underline black;
+
     color: burlywood;
-    font-family:"Boldonse";
+    
+    font-family:"Inter";
 }
 
 #www{
@@ -405,14 +407,17 @@ h4{
    justify-content: center;
    align-items: center;
    text-align: center;
+   color: black;
+   
  
     }
     .tex44{
-        width:75%;  
+        width:70%;  
         text-align: center;
-        font-size: 1rem;
-        font-family: "Boldonse";
-        color: #a79f8f;
+        font-size: 1.8rem;
+        color: black;
+   font-family:"Inter";
+
         margin-bottom: 5%;
         }
 
@@ -602,7 +607,7 @@ p29{
         margin-bottom: 15%;
     }
     .tex4{
-        font-size: 1.6rem;
+        font-size: 1.5rem;
         width:85%;  
         margin-top: 10%;
         
@@ -641,10 +646,9 @@ p29{
                             }
                             .tex44{
                                 width:80%;  
-                                font-size: 1rem;
+                                font-size: 1.6rem;
                                 margin-bottom: 0%;
-                                font-family: "Boldonse";
-                                color: #a79f8f;
+                               
                                 }
                                 h1{
                                     font-size: 1.5rem; 
@@ -773,10 +777,9 @@ p29{
                             }
                             .tex44{
                                 width:80%;  
-                                font-size: 0.8rem;
+                                font-size: 1.4rem;
                                 margin-bottom: 5%;
-                                font-family: "Boldonse";
-                                color: #a79f8f;
+                            
                                 }
                                 h1{
                                     font-size: 1.2rem; 
@@ -941,10 +944,9 @@ p29{
                             }
                             .tex44{
                                 width:80%;  
-                                font-size: 0.6rem;
+                                font-size: 1.3rem;
                                 margin-bottom: 5%;
-                                font-family: "Boldonse";
-                                color: #a79f8f;
+                               
                                 }
                                 h1{
                                     font-size: 1.2rem; 
@@ -1146,10 +1148,9 @@ p31{
                             }
                             .tex44{
                                 width:95%;  
-                                font-size: 0.6rem;
+                                font-size: 1.2rem;
                                 margin-bottom: 5%;
-                                font-family: "Boldonse";
-                                color: #a79f8f;
+                               
                                 }
                                 h1{
                                     font-size: 1.2rem; 
@@ -1396,10 +1397,9 @@ p31{
                             
                             .tex44{
                                 width:95%;  
-                                font-size: 0.6rem;
+                                font-size: 1rem;
                                 margin-bottom: 5%;
-                                font-family: "Boldonse";
-                                color: #a79f8f;
+                               
                                 }
                                 h1{
                                     font-size: 1.2rem; 
