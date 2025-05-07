@@ -174,6 +174,36 @@
     
  
 
+    <h1>Accompagnement Administratif</h1>
+    <div class="tex444">
+    <p class="tex44"> 
+        Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
+        
+        
+        La demande de visa pour le Hajj ou la Omra
+        
+        L’aide pour les personnes ayant un passeport étranger
+        
+        Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
+    </p>
+</div>
+    <section id="www">
+   
+    <div class="goos2">
+            <p class="Omra20255">Passeports Etrangers</p>
+            <br>
+   </div>
+  
+   <div class="goos3">
+    <span>
+       
+        <p class="unt"></p>
+    </span>
+   
+  </section>
+
+
+  
  
   <footer>
     <p class="lol">   </p>
