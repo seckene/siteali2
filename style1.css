@@ -539,59 +539,71 @@ p29{
 
 @media (min-width: 1400px) and (max-width: 3000px) {
     .droit{
-    height: 60rem;
-    }
-    .gauche{
-    height: 50rem;
-    }
-    .text3{
-    margin-top: 0%;
-    }
-    .navb{
-    padding: 2rem;
-    }
-    .tex4{
-    width:90%;
-    margin-top: 25%;
-    text-align: center;
-    font-size: 2.2rem;
-    }
+        height: 60rem;
+        }
+        .gauche{
+        height: 55rem;
+        }
+        .text3{
+        margin-top: 0%;
+        }
+        .navb{
+        padding: 2rem;
+        }
+        .tex4{
+        width:90%;
+        margin-top: 25%;
+        text-align: center;
+        font-size: 2.2rem;
+        }
+        
+        .trois{
+        margin-bottom: 0%;
+        }
+        .rond{
+        height: 15vh;
+        margin-top: 20rem;
+        margin-left: 70%;
+        }
+        .quatre{
+        margin-top: 10%;
+        }
+        .goos{
+        height: 55rem;
+        }
+        .goos5{
+        height: 55rem;
+        }
+        .goos3{
+        height: 40rem;
+        width: 40%;
+        }
+        .goos2{
+        height: 40rem;
+        width: 40%;
+        }
+        footer{
+        height: 30rem;
+        }
+        .Omra20256{
+        margin-left: 0%;
+        }
+        
+        .deuxx{
+        margin-left: 7%;
+        }
     
-    .trois{
-    margin-bottom: 0%;
-    }
-    .rond{
-    height: 15vh;
-    margin-top: 20rem;
-    margin-left: 70%;
-    }
-    .quatre{
-    margin-top: 10%;
-    }
-    .goos{
-    height: 50rem;
-    }
-    .goos5{
-    height: 55rem;
-    }
-    .goos3{
-    height: 40rem;
-    width: 40%;
-    }
-    .goos2{
-    height: 40rem;
-    width: 40%;
-    }
-    footer{
-    height: 30rem;
-    }
-    .Omra20256{
-    margin-left: 0%;
-    }
     
-    .deuxx{
-    margin-left: 7%;
-    }
+        .goos22{
+            height: 60rem;
+    
+    
+        }
+        .goos23{
+            height: 60rem;
+    
+    
+        }
     }
     
     
