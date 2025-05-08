@@ -428,6 +428,7 @@ h4{
             display: block;
         font-size: 0.6rem;
         font-family:"boldonse";
+        color:burlywood;
         width: 70%;
         }
 
@@ -506,7 +507,7 @@ p29{
     font-family:"Boldonse" ;
 }
 .metsa{
-    display: flex;
+    display: block;
 }
 .trois3{
     width: 80%;
@@ -517,6 +518,15 @@ p29{
     margin-left: 1rem;
     font-family:"Oswald" ;
     text-align:left;
+}
+.trois4{
+    font-size: 1.8rem;
+    color:black;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 100%;
+  font-family:"Inter";
+margin-bottom: 16%;
 }
 
 .tgggggg{
@@ -532,11 +542,17 @@ p29{
     padding: 10px 20px;             /* Espace intérieur */
     font-size: 16px;                /* Taille de la police */
     border-radius: 5px;             /* Coins arrondis */
-    cursor: pointer;                /* Curseur en forme de main */
+    cursor: pointer;      
+       /* Curseur en forme de main */
     transition: background-color 0.3s ease; /* Animation fluide */
 
   }
 
+  .valide2{
+    display: flex;
+    justify-content: flex-end;    
+    align-items: flex-end;  
+  }
 @media (min-width: 1400px) and (max-width: 3000px) {
     .droit{
         height: 60rem;

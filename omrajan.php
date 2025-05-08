@@ -125,15 +125,15 @@
 
 
 </div>
-
+<h2>Hôtel 5 étoiles</h2>
 <div class="centre">
         <div class="goos23">
-        <h2>Hôtel 5 étoiles</h2>
+        
             <span class="metsa">
-                <p class="trois">-Petit déjeuner inclus</p>
-                <p class="trois"> -Déjeuner inclus</p>
+                <p class="trois">-Petit déjeuner </p>
+                <p class="trois"> -Déjeuner </p>
                 
-                <p class="trois"> -Dîner </p>
+                <p class="trois"> -Dîner inclus </p>
             </span>
             
         </div>
@@ -209,11 +209,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <option value="Homme">Homme</option>
         <option value="Femme">Femme</option>
       </select>
-
-     
-      <button type="submit" id="valide">S'inscrire</button>
-
       </span>
+
+      
+      <div class="valide2">
+      <button type="submit" id="valide">S'inscrire</button>
+      </div>
     </form>
     
   </div>
@@ -244,11 +245,13 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     
     <ul class="spra">
         <span class="voix"></span>
-          
-        <li class="foll">Omra 2025</li> 
-        <li class="foll">Inscription Hadj 2025</li> 
-          <li class="foll">En savoir plus</li>  
-            <li  class="foll"> Contact</li>    
+            
+        <li class="foll"><a href="omra.php">Omra 2025</a></li> 
+        <li class="foll"><a href="inscription.php">Inscription Hadj 2025</a></li>                 
+            <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
+            <li  class="foll"><a href="administratif.php">Administratif</a></li> 
+            <li class="foll"><a href="index.php">En savoir plus</a></li>  
+            <li  class="foll"> <a href="contact.php">Contact</a></li>     
     </ul>
    
   </footer>

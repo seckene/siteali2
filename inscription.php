@@ -133,11 +133,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <option value="Homme">Homme</option>
         <option value="Femme">Femme</option>
       </select>
-      <button type="submit" id="valide">S'inscrire</button>
-
+      
       </span>
       
-
+      <div class="valide2">
+      <button type="submit" id="valide">S'inscrire</button>
+      </div>
     </form>
     
   </div>
