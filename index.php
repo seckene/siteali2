@@ -193,10 +193,6 @@
 </div>
     <section id="www">
    
-    <div class="goos2">
-            <p class="Omra20255">Passeports Etrangers</p>
-            <br>
-   </div>
   
    <div class="goos3">
     <span>
