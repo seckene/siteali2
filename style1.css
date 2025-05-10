@@ -112,11 +112,11 @@ height: 37rem;
 .tex4{
   color: black;
   font-family:"Inter";
-width:90%;  
-margin-top: 5%;
+width:95%;  
+margin-top: 10%;
 
 text-align: center;
-font-size: 1.8rem;
+font-size: 1.7rem;
 }
 
 .boss{
@@ -428,7 +428,6 @@ h4{
             display: block;
         font-size: 0.6rem;
         font-family:"boldonse";
-        color:burlywood;
         width: 70%;
         }
 
@@ -507,7 +506,7 @@ p29{
     font-family:"Boldonse" ;
 }
 .metsa{
-    display: block;
+    display: flex;
 }
 .trois3{
     width: 80%;
@@ -518,15 +517,6 @@ p29{
     margin-left: 1rem;
     font-family:"Oswald" ;
     text-align:left;
-}
-.trois4{
-    font-size: 1.8rem;
-    color:black;
-    margin-top: 2%;
-    margin-left: 2%;
-    width: 100%;
-  font-family:"Inter";
-margin-bottom: 16%;
 }
 
 .tgggggg{
@@ -542,23 +532,22 @@ margin-bottom: 16%;
     padding: 10px 20px;             /* Espace intérieur */
     font-size: 16px;                /* Taille de la police */
     border-radius: 5px;             /* Coins arrondis */
-    cursor: pointer;      
-       /* Curseur en forme de main */
+    cursor: pointer;                /* Curseur en forme de main */
     transition: background-color 0.3s ease; /* Animation fluide */
 
   }
-
   .valide2{
     display: flex;
     justify-content: flex-end;    
     align-items: flex-end;  
   }
-@media (min-width: 1400px) and (max-width: 3000px) {
+  
+@media (min-width: 1981px) and (max-width: 3000px) {
     .droit{
-        height: 60rem;
+        height: 40rem;
         }
         .gauche{
-        height: 55rem;
+        height: 45rem;
         }
         .text3{
         margin-top: 0%;
@@ -568,7 +557,7 @@ margin-bottom: 16%;
         }
         .tex4{
         width:90%;
-        margin-top: 25%;
+        margin-top: 15%;
         text-align: center;
         font-size: 2.2rem;
         }
@@ -629,6 +618,83 @@ margin-bottom: 16%;
     
     
     
+
+@media (min-width: 1400px) and (max-width: 1980px) {
+    .droit{
+        height: 40rem;
+        }
+        .gauche{
+        height: 45rem;
+        }
+        .text3{
+        margin-top: 0%;
+        }
+        .navb{
+        padding: 2rem;
+        }
+        .tex4{
+        width:95%;
+        margin-top: 10%;
+        text-align: center;
+        font-size: 2.2rem;
+        }
+        .tex44{
+            width:60%;
+            
+            text-align: center;
+            font-size: 2.2rem;
+            }
+        .trois{
+        margin-bottom: 0%;
+        }
+        .rond{
+        height: 20vh;
+        margin-top: 10rem;
+        margin-left: 70%;
+        }
+        .quatre{
+        margin-top: 10%;
+        }
+        .goos{
+        height: 40rem;
+        }
+        .goos5{
+        height: 40rem;
+        }
+        .goos3{
+        height: 35rem;
+        width: 40%;
+        }
+        .goos2{
+        height: 40rem;
+        width: 40%;
+        }
+        footer{
+        height: 30rem;
+        }
+        .Omra20256{
+        margin-left: 0%;
+        }
+        
+        .deuxx{
+        margin-left: 7%;
+        }
+    
+    
+        .goos22{
+            height: 40rem;
+    
+    
+        }
+        .goos23{
+            height: 40rem;
+    
+    
+        }
+    }
+    
+    
+    
     
     
 @media (min-width: 990px) and (max-width: 1075px) { 
@@ -641,8 +707,8 @@ margin-bottom: 16%;
     }
     .tex4{
         font-size: 1.5rem;
-        width:85%;  
-        margin-top: 10%;
+        width:95%;  
+        margin-top: 15%;
         
         }
         .rond{
@@ -710,7 +776,7 @@ margin-bottom: 16%;
         }  
         .droit{
             width: 100%;
-            height: 20rem;
+            height: 25rem;
             }
             
             
@@ -731,7 +797,7 @@ margin-bottom: 16%;
             .tex4{
             
                 font-size: 1.5rem;
-             
+             width: 80%;
                 margin-top: 10%;
                 
                 }
@@ -833,7 +899,7 @@ margin-bottom: 16%;
         }  
         .droit{
             width: 100%;
-            height: 25rem;
+            height: 30rem;
             }
           
             .text3{
@@ -845,8 +911,9 @@ margin-bottom: 16%;
             }
             .tex4{
                 font-size: 1.5rem;
-                width:85%;  
+                width:90%;  
                 margin-top: 10%;
+                margin-bottom: 4%;
                 
                 }
                 .gauche{
