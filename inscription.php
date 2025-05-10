@@ -98,10 +98,16 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
+                
             </div>
+            
         </div>
+   
     </div>
    
+    
+
+
     <div class="site">
         
   <h2>Formulaire d'inscriptions Hadj 2025</h2>
