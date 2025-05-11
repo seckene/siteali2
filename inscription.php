@@ -105,6 +105,64 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
    
     </div>
    
+    <h1>Programe hajj </h1>
+    
+
+<div class="folome">
+    <div class="premierjan">
+    <h2>Premier jours</h2>
+   </div>
+    <div class="janajan">
+   <p31> -Départ / Arrivée : Paris CDG / Médine </p31><br>
+   <p31>-Transfert : Bus climatisés – de l’aéroport de Médine à l’hôtel.</p31><br>
+   <p31>-Hébergement : Séjour à Médine dans un hôtel situé à 450m de l’Esplanade</p31><br>
+    <p31>-Durée : 4 nuits</p31>
+</div>
+
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Deuxième jour</h2>
+   </div>
+    <div class="janajan">
+<p31> -Programme libre : Profitez pleinement de la Mosquée du Prophète ﷺ
+</p31>
+<br>
+<p31>-Visite de lieux historiques de la ville de Médine (Mosquée de Quba, visite du cimetière des martyrs d’Ouhoud,…)
+</p31>
+<br>
+
+<p31>-Cours de préparation à la Omra </p31>
+</div>
+
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Troisième jour</h2>
+   </div>
+    <div class="janajan">
+<p31> -Transfert : Bus climatisés – Après la prière de Dhor<br>
+</p31>
+<p31>-Arrivée : Prévue en début de soirée<br>
+</p31>
+<p31>-Hébergement : Séjour à La Mecque dans un hôtel situé à 800m de l’Esplanade Durée : 5 nuits<br>
+</p31>
+<p31>-Rites : Accomplissement de la Omra </p31><br>
+</div>
+
+</div>
+<div class="folome">
+    <div class="premierjan">
+    <h2>Quatrième-Neuvième jour</h2>
+   </div>
+    <div class="janajan">
+   <p31>- Programme libre :
+   Profitez pleinement de la Mosquée Sacrée où une prière en à la récompense de cent milles </p31>
+  
+</div>
+
+
+</div>
     
 
 
