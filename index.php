@@ -191,17 +191,19 @@
         Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
     </p>
 </div>
+
+<a href="administatif2">
     <section id="www">
    
-  
    <div class="goos3">
+
     <span>
        
         <p class="unt"></p>
     </span>
    
   </section>
-
+  <a>
 
   
  
