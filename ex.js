@@ -1,6 +1,7 @@
 let reste =document.querySelector(".reste")
 let burger=document.querySelector(".boss")
 let  fab=document.querySelector(".fab")
+
 console.log(reste)
 burger.addEventListener("click",()=>{
     reste.style.display= "block" ;
@@ -30,4 +31,5 @@ goos2.addEventListener("mouseover", (e) => {
 });
 
 
+ 
 

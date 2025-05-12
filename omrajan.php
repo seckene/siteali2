@@ -53,7 +53,7 @@
                 <p class="unt">Programe</p>
             </span>
             <p class="trois3">Offrez-vous un séjour unique dans cette chambre 5 étoiles alliant confort moderne et élégance. Spacieuse et soigneusement décorée, elle dispose d’un lit king-size, d’un mobilier haut de gamme et d’une atmosphère apaisante. Depuis votre fenêtre, profitez d’une vue directe et majestueuse sur la Kaaba, un privilège rare et inoubliable pour un moment spirituel et apaisant.</p>
-            <p class="trois">( Du 20 janvier au 31 février)</p>
+        
             
         </div>
     </div>

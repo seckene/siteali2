@@ -8,6 +8,8 @@ body{  background-color:whitesmoke;
 .navb{display: flex;
     align-items: center;
     background-color: rgba(245, 245, 245, 0.87);
+  
+    
 }
 li{
     display: flex;
@@ -18,7 +20,7 @@ text-align: center;
     margin-left: 5%;
     font-size: 1.4rem;
     font-family: "Boldonse";
-    color: rgb(238, 185, 117);
+    color: burlywood;
     text-decoration: underline;
     
 }
@@ -38,7 +40,7 @@ text-align: center;
 }
 
 a{
-    color:  #a79f8f;
+    color:#8b8373;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
 }
@@ -60,7 +62,7 @@ height: 37rem;
 .gauche{
     width: 60%;
     height: 34rem;
-    background-image: url("https://rp-cms.imgix.net/wp-content/uploads/sam-riz-ceNCWYqL8DY-unsplash-scaled.jpg?fit=max");
+    background-image: url("https://mediaim.expedia.com/destination/1/ea0d78a1d2c847a1d7c5c6f460da2c67.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   
@@ -111,7 +113,9 @@ height: 37rem;
 
 .tex4{
   color: black;
-  font-family:"Inter";
+  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
 width:95%;  
 margin-top: 10%;
 
@@ -170,7 +174,7 @@ span{
 .Omra20256{
     display: flex;
     font-size: 2.6rem;
-    color: burlywood;
+    color: whitesmoke;
     margin-top: 4%;
     text-decoration: none;
     margin-left: 5%;
@@ -194,7 +198,7 @@ span{
 .trois{
     display: flex;
     font-size: 1.5rem;
-    color: white;
+    color: whitesmoke;
     margin-top: 2%;
     margin-left: 2%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -301,7 +305,7 @@ h1{
      background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
      background-repeat: no-repeat;
      background-size: cover;
-     
+  
     border-radius: 1rem;
     
     }
@@ -314,7 +318,7 @@ h1{
      background-repeat: no-repeat;
      background-size: cover;
     border-radius: 1rem;
-   
+
     
     }
     .goos23{
@@ -416,7 +420,8 @@ h4{
         text-align: center;
         font-size: 1.8rem;
         color: black;
-   font-family:"Inter";
+   
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
         margin-bottom: 5%;
         }
@@ -428,7 +433,7 @@ h4{
             display: block;
         font-size: 0.8rem;
         font-family:"boldonse";
-        width: 70%;
+        width: 90%;
         color: burlywood;
       
         }
@@ -457,7 +462,7 @@ h4{
             text-align: center;
         }
         form{
-         width: 70%;
+         width: 50%;
     
         }
 .site{
@@ -509,7 +514,8 @@ p29{
     font-family:"Boldonse" ;
 }
 .metsa{
-    display: flex;
+    display: block;
+    margin-top:10rem ;
 }
 .trois3{
     width: 80%;
@@ -639,6 +645,7 @@ p29{
     
         .goos22{
             height: 55rem;
+         
     
     
         }
@@ -651,83 +658,79 @@ p29{
     
     
     
-
-@media (min-width: 1400px) and (max-width: 1980px) {
-    .droit{
-        height: 40rem;
-        }
-        .gauche{
-        height: 45rem;
-        }
-        .text3{
-        margin-top: 0%;
-        }
-        .navb{
-        padding: 2rem;
-        }
-        .tex4{
-        width:95%;
-        margin-top: 10%;
-        text-align: center;
-        font-size: 2.2rem;
-        }
-        .tex44{
-            width:60%;
-            
+    @media (min-width: 1400px) and (max-width: 1980px) {
+        .droit{
+            height: 40rem;
+            }
+            .gauche{
+            height: 45rem;
+            }
+            .text3{
+            margin-top: 0%;
+            }
+            .navb{
+            padding: 2rem;
+            }
+            .tex4{
+            width:95%;
+            margin-top: 10%;
             text-align: center;
             font-size: 2.2rem;
             }
-        .trois{
-        margin-bottom: 0%;
-        }
-        .rond{
-        height: 20vh;
-        margin-top: 10rem;
-        margin-left: 70%;
-        }
-        .quatre{
-        margin-top: 10%;
-        }
-        .goos{
-        height: 40rem;
-        }
-        .goos5{
-        height: 40rem;
-        }
-        .goos3{
-        height: 35rem;
-        width: 40%;
-        }
-        .goos2{
-        height: 40rem;
-        width: 40%;
-        }
-        footer{
-        height: 30rem;
-        }
-        .Omra20256{
-        margin-left: 0%;
-        }
-        
-        .deuxx{
-        margin-left: 7%;
-        }
-    
-    
-        .goos22{
+            .tex44{
+                width:70%;
+                margin-bottom: 0%;
+                text-align: center;
+                font-size: 2.2rem;
+                }
+            .trois{
+            margin-bottom: 0%;
+            }
+            .rond{
+            height: 20vh;
+            margin-top: 10rem;
+            margin-left: 70%;
+            }
+            .quatre{
+            margin-top: 10%;
+            }
+            .goos{
             height: 40rem;
-    
-    
-        }
-        .goos23{
+            }
+            .goos5{
             height: 40rem;
-    
-    
+            }
+            .goos3{
+            height: 38rem;
+            width: 50%;
+            }
+            .goos2{
+            height: 40rem;
+            width: 40%;
+            }
+            footer{
+            height: 30rem;
+            }
+            .Omra20256{
+            margin-left: 0%;
+            }
+           
+            .deuxx{
+            margin-left: 7%;
+            }
+       
+       
+            .goos22{
+                height: 40rem;
+       
+       
+            }
+            .goos23{
+                height: 40rem;
+       
+       
+            }
         }
-    }
-    
-    
-    
     
     
 @media (min-width: 990px) and (max-width: 1075px) { 
@@ -922,6 +925,10 @@ p29{
     font-size: 0.8rem;
  
  }
+ form{
+    width: 80%;
+
+   }
  }
 
  @media (min-width: 500px) and (max-width: 599px) { 
@@ -986,7 +993,7 @@ p29{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:black;
+                    background-color:rgba(0, 0, 0, 0.555);;
                     height: 100vh;
                 }
 
@@ -1001,13 +1008,14 @@ p29{
                 }
                 a{
                     margin-top: 5%;
+                    color:#9b9488;
                 }
                 
               .croix{
                 width: 30%;
                 height: 5%;
                 border-radius: 2%;
-                background-color: black;
+                background-color: rgba(0, 0, 0, 0.555);;
                 color: white;
                 border:none ;
                 display: block;
@@ -1122,7 +1130,10 @@ p31{
 .metsa{
     display: block;
 }   
+form{
+    width: 80%;
 
+   }
 }
 @media (min-width: 421px) and (max-width: 499px) { 
    
@@ -1189,7 +1200,7 @@ p31{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:black;
+                    background-color:rgba(0, 0, 0, 0.555);;
                     height: 90vh;
                 }
                 #ays{
@@ -1203,6 +1214,7 @@ p31{
                 }
                 a{
                     margin-top: 5%;
+                    color:#9b9488;
                 }
                 
               .croix{
@@ -1210,7 +1222,7 @@ p31{
                 height: 5%;
                 border-radius: 3%;
                 border:none ;
-                background-color: black;
+                background-color: rgba(0, 0, 0, 0.555);;
                 color: white;
                 display: block;
               }
@@ -1328,6 +1340,10 @@ p31{
     font-size: 0.8rem;
    
 }
+form{
+    width: 90%;
+
+   }
 }
             
 
@@ -1401,7 +1417,7 @@ p31{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:black;
+                    background-color:rgba(0, 0, 0, 0.555);
                     height: 90vh;
 
                 }
@@ -1416,6 +1432,7 @@ p31{
                 }
                 a{
                     margin-top: 5%;
+                    color:#9b9488;
                 }
                 
               .croix{
@@ -1423,7 +1440,7 @@ p31{
                 height: 5%;
                 border-radius: 2%;
                 border:none ;
-                background-color: black;
+                background-color:rgba(0, 0, 0, 0.555);
                 color:white ;
                 display: block;
               }
@@ -1579,5 +1596,9 @@ width: 80%;
     font-size: 0.8rem;
    
 }
+form{
+    width: 90%;
+
+   }
 }
 
