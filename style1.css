@@ -49,8 +49,12 @@ a{
 
 .ctrl{
 display: flex;
+justify-content: center;
+align-items: center;
+
 margin: 0.2%;
 }
+
 
 .droit{
 width: 40%;
