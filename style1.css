@@ -49,12 +49,9 @@ a{
 
 .ctrl{
 display: flex;
-justify-content: center;
-align-items: center;
-
+margin-top: 2rem;
 margin: 0.2%;
 }
-
 
 .droit{
 width: 40%;
@@ -79,7 +76,7 @@ height: 37rem;
     height: 70%;
     display: flex;
     justify-content: center;
-    margin-bottom: 15%;
+    margin-bottom: 10%;
 
 }
 
@@ -121,10 +118,10 @@ height: 37rem;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 width:95%;  
-margin-top: 10%;
+margin-top: 25%;
 
 text-align: center;
-font-size: 1.7rem;
+font-size: 1.5rem;
 }
 
 .boss{
@@ -518,7 +515,7 @@ p29{
     font-family:"Boldonse" ;
 }
 .metsa{
-    display: block;
+    display: flex;
     margin-top:10rem ;
 }
 .trois3{
@@ -746,9 +743,9 @@ p29{
         margin-bottom: 15%;
     }
     .tex4{
-        font-size: 1.5rem;
+        font-size: 1.7rem;
         width:95%;  
-        margin-top: 15%;
+        margin-top: 25%;
         
         }
         .rond{
