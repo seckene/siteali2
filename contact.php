@@ -45,9 +45,8 @@
     </header>
 
     <div class="ctrl">
-        <div class="gauche"></div>
+        
   
-        <div class="droit">
        
                       
   <div class="salif2">

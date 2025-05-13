@@ -7,8 +7,7 @@ body{  background-color:whitesmoke;
 }
 .navb{display: flex;
     align-items: center;
-    background-color: rgba(245, 245, 245, 0.87);
-  
+    margin-bottom: 1rem;
     
 }
 li{
@@ -48,26 +47,30 @@ a{
 
 
 .ctrl{
-display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 margin-top: 2rem;
+width: 100%;
 margin: 0.2%;
 }
 
 .droit{
-width: 40%;
+width: 70%;
 
-height: 37rem;
+height: 15rem;
 
 }
 
 .gauche{
-    width: 60%;
+    width: 100%;
     height: 34rem;
-    background-image: url("https://mediaim.expedia.com/destination/1/ea0d78a1d2c847a1d7c5c6f460da2c67.jpg");
+    background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
     background-repeat: no-repeat;
     background-size: cover;
   
-    border-radius: 0px 2rem 2rem 0px   ;
+    border-radius: 1rem   ;
 
 }
 
@@ -118,7 +121,7 @@ height: 37rem;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 width:95%;  
-margin-top: 30%;
+margin-top: 2%;
 
 text-align: center;
 font-size: 1.5rem;
@@ -131,6 +134,7 @@ font-size: 1.5rem;
     display: flex;
     justify-content: space-evenly;
     width: 100%;
+    
 }
 .croix{
     display: none;
@@ -284,7 +288,7 @@ h1{
     .goos3{
        
             height: 30rem;
-            width: 50%;
+            width: 55%;
             margin-top: 2%;
             display: block;
          background-image: url("https://www.alhayat-voyages.com/wp-content/uploads/2025/02/OMRA-2025-3-1024x1024.png");
@@ -745,7 +749,7 @@ p29{
     .tex4{
         font-size: 1.7rem;
         width:95%;  
-        margin-top: 25%;
+        margin-top: 10%;
         
         }
         .rond{
@@ -813,7 +817,7 @@ p29{
         }  
         .droit{
             width: 100%;
-            height: 25rem;
+            height: 20rem;
             }
             
             

@@ -22,6 +22,10 @@
 
 <body>
     <header>
+    <div class="ctrl">
+        <div class="gauche">
+            
+        
         <nav class="navb">
             <ul class="logetnom">
                 <img src="android-icon-96x96.png">
@@ -48,8 +52,10 @@
         </nav>
     </header>
 
+   </div>
+   </div>
+        
     <div class="ctrl">
-        <div class="gauche"></div>
         <div class="droit">
             <div class="text2">
                <p class="tex4"> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra pas cher
@@ -61,6 +67,7 @@
            
         </div>
     </div>
+</div>
     <h1>Omra & Hadj 2025</h1>
     <div class="centre">
         <div class="goos">
