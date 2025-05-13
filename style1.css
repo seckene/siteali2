@@ -7,7 +7,7 @@ body{  background-color:whitesmoke;
 }
 .navb{display: flex;
     align-items: center;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     
 }
 li{
@@ -19,7 +19,7 @@ text-align: center;
     margin-left: 5%;
     font-size: 1.4rem;
     font-family: "Boldonse";
-    color: burlywood;
+    color: white;
     text-decoration: underline;
     
 }
@@ -58,19 +58,19 @@ margin: 0.2%;
 
 .droit{
 width: 70%;
-
+margin-bottom: 10rem;
 height: 15rem;
 
 }
 
 .gauche{
     width: 100%;
-    height: 34rem;
-    background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
+    height: 38rem;
+    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
-
+margin-bottom:2rem;
 }
 
 .text2{
@@ -78,7 +78,8 @@ height: 15rem;
     height: 70%;
     display: flex;
     justify-content: center;
-    margin-bottom: 10%;
+    text-align: center;
+    
 
 }
 
@@ -115,15 +116,14 @@ height: 15rem;
 }
 
 .tex4{
-  color: black;
+  color: #8b8373;
   
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-
-width:95%;  
-margin-top: 2%;
-
+  width: 95%; 
+margin-top: 6rem;
+margin-bottom: 10rem;
 text-align: center;
-font-size: 1.5rem;
+font-size: 1.7rem;
 }
 
 .boss{
@@ -290,7 +290,7 @@ h1{
             width: 55%;
             margin-top: 2%;
             display: block;
-         background-image: url("https://www.alhayat-voyages.com/wp-content/uploads/2025/02/OMRA-2025-3-1024x1024.png");
+         background-image: url("https://i.etsystatic.com/18301877/r/il/0d1195/4551327485/il_570xN.4551327485_hcln.jpg");
          background-repeat: no-repeat;
          background-size: cover;
         border-radius: 1rem;
@@ -845,15 +845,67 @@ p29{
                     height: 38rem;
                 }
 
-                .titre{
-                    font-size: 1.2rem;
-                }
-                .reste{
-                    font-size: 1rem;
-                }
+               
+                
                 .titre{
                     font-size: 0.8rem;
                     width: 100%;
+                }
+                .logetnom{
+                    width: 100%;
+                    margin-right: 30%;
+                }
+                .reste{
+                   
+                    font-size: 1.5rem;
+                    height: 2vh;
+                    align-items: center;
+                    display: none;
+                 
+                    z-index:1;
+                }
+
+            
+                .navb{
+                    display: flex;
+                   justify-content:space-evenly;
+                }
+
+                .fab{
+                    display: block;
+                    justify-content: space-evenly;
+                    width: 100%;
+                    background-color:rgba(0, 0, 0, 0.555);;
+                    height: 100vh;
+                }
+
+                #ays{
+                    justify-content: center;
+                    align-items: center;
+                   text-align: center;
+                   font-size: 1rem;
+                   margin-top: 20%;
+                   margin-bottom: 50%;
+                    
+                }
+                a{
+                    margin-top: 5%;
+                    color:#9b9488;
+                }
+                
+              .croix{
+                width: 30%;
+                height: 5%;
+                border-radius: 2%;
+                background-color: rgba(0, 0, 0, 0.555);;
+                color: white;
+                border:none ;
+                display: block;
+              }
+                
+                .boss{
+                    display: flex;
+                    margin-right: 5%;
                 }
                 
                 .rond{
@@ -924,11 +976,7 @@ p29{
                                     font-size: 1.2rem; 
                                 
 }
-#ays{
-   
-    font-size: 0.8rem;
- 
- }
+
  form{
     width: 80%;
 
@@ -963,7 +1011,7 @@ p29{
                 .gauche{
                     width: 100%;
                     height: 38rem;
-                    
+                  
                 }
 
                 .titre{
@@ -1172,7 +1220,7 @@ form{
                 .gauche{
                     width: 100%;
                     height: 36rem;
-                    border-radius:  2rem;
+                  
                 }
 
                 
@@ -1362,7 +1410,8 @@ form{
         }  
         .droit{
             width: 100%;
-            height: 20rem;
+            height: 15rem;
+            margin-bottom: 5rem;
             }
             
             .text3{
@@ -1377,7 +1426,7 @@ form{
   
                 width:90%;  
                 margin: 1%;
-                margin-top: 10%;
+                margin-top: 0%;
                 margin-bottom: 0%;
                 font-size: 1rem;
         
@@ -1386,8 +1435,7 @@ form{
                 .gauche{
                     width: 100%;
                     height: 25rem;
-                    border-radius: 0rem 2rem 0rem 2rem;
-                
+                    border-radius: 0rem 0rem 0,5rem 0,5rem;
                     margin-right: 2%;
                     /* background-size:cover ; */
                 }
@@ -1395,7 +1443,8 @@ form{
                 
            
                 .titre{
-                    font-size: 0.9rem;
+                    font-size: 1rem;
+                    text-decoration: none;
                 }
                 .logetnom{
                     width: 100%;
@@ -1421,7 +1470,7 @@ form{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:rgba(0, 0, 0, 0.555);
+                    background-color:rgba(0, 0, 0, 0.932);
                     height: 90vh;
 
                 }

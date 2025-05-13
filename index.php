@@ -21,11 +21,10 @@
 </head>
 
 <body>
-    <header>
+    
     <div class="ctrl">
         <div class="gauche">
-            
-        
+    <header>
         <nav class="navb">
             <ul class="logetnom">
                 <img src="android-icon-96x96.png">
@@ -44,30 +43,26 @@
 
                 
             </ul>
-            <svg xmlns="http://www.w3.org/2000/svg" height="32" width="28" viewBox="0 0 448 512"
-                class="boss"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
-                <path fill="#030303"
-                    d="M0 96C0 78.3 14.3 64 32 64l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 128C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 288c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32L32 448c-17.7 0-32-14.3-32-32s14.3-32 32-32l384 0c17.7 0 32 14.3 32 32z" />
-            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" height="32" width="28" viewBox="0 0 448 512" class="boss"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill="#ffffff" d="M0 96C0 78.3 14.3 64 32 64l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 128C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 288c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32L32 448c-17.7 0-32-14.3-32-32s14.3-32 32-32l384 0c17.7 0 32 14.3 32 32z"/></svg>
         </nav>
+      
     </header>
-
-   </div>
-   </div>
+</div>
         
+    </div>
     <div class="ctrl">
         <div class="droit">
-            <div class="text2">
-               <p class="tex4"> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra pas cher
-                     agréée par le Ministère du Hajj en Arabie Saoudite sous le numéro 5084.
-                    Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                    années.
-                </p>
-            </div>
-           
+        <div class="text2">
+            <p class="tex4"> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra pas cher
+                  agréée par le Ministère du Hajj en Arabie Saoudite sous le numéro 5084.
+                 Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
+                 années, notre agence de voyages Hajj et Omra pas cher propose différentes formules adaptées à votre
+                 budget afin de permettre à un grand nombre de personnes de se rendre sur les terres saintes de
+                 Médine et de Makkah.
+             </p>
+         </div>
         </div>
     </div>
-</div>
     <h1>Omra & Hadj 2025</h1>
     <div class="centre">
         <div class="goos">
@@ -88,7 +83,7 @@
     </div>
     <div class="text33">
         <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan"> En savoir plus<a></button>
+        <button class="chef1"><a href="omrajan.php"> En savoir plus<a></button>
     </div>
     <div class="centre">
         
@@ -111,7 +106,7 @@
     </div>
     <div class="text33">
         <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+        <button class="chef1"><a href="omrajan.php">En savoir plus<a></button>
     </div>
     <div class="centre">
     
@@ -135,7 +130,7 @@
     </div>
     <div class="text33">
         <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+        <button class="chef1"><a href="omrajan.php">En savoir plus<a></button>
     </div>
     <div class="centre">
         <div class="goos">
@@ -155,8 +150,8 @@
         </div>
     </div>
     <div class="text33">
-        <button class="chef1"><a href="">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php">En savoir plus<a></button>
     </div>
     <h1>hajj 2025 </h1>
     <div class="centre">
@@ -196,19 +191,17 @@
         Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
     </p>
 </div>
-
-<a href="administatif2">
     <section id="www">
    
    <div class="goos3">
-
+    <h2>Visa omra</h2>
     <span>
        
         <p class="unt"></p>
     </span>
    
   </section>
-  <a>
+
 
   
  
@@ -228,13 +221,13 @@
     
     <ul class="spra">
         <span class="voix"></span>
-            
+          
         <li class="foll"><a href="omra.php">Omra 2025</a></li> 
         <li class="foll"><a href="inscription.php">Inscription Hadj 2025</a></li>                 
             <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
             <li  class="foll"><a href="administratif.php">Administratif</a></li> 
             <li class="foll"><a href="index.php">En savoir plus</a></li>  
-            <li  class="foll"> <a href="contact.php">Contact</a></li>     
+            <li  class="foll"> <a href="contact.php">Contact</a></li>       
     </ul>
    
   </footer>
