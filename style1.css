@@ -290,7 +290,7 @@ h1{
             width: 55%;
             margin-top: 2%;
             display: block;
-         background-image: url("https://i.etsystatic.com/18301877/r/il/0d1195/4551327485/il_570xN.4551327485_hcln.jpg");
+         background-image: url("https://albouraqtravel.fr/wp-content/uploads/2019/07/visas-pour-le-hajj-vision-2030.jpg");
          background-repeat: no-repeat;
          background-size: cover;
         border-radius: 1rem;
@@ -664,22 +664,23 @@ p29{
     
     @media (min-width: 1400px) and (max-width: 1980px) {
         .droit{
-            height: 40rem;
+            height: 15rem;
             }
             .gauche{
-            height: 45rem;
+            height: 50rem;
             }
             .text3{
             margin-top: 0%;
             }
+            
             .navb{
             padding: 2rem;
             }
             .tex4{
-            width:95%;
+            width:100%;
             margin-top: 10%;
             text-align: center;
-            font-size: 2.2rem;
+            font-size: 1.8rem;
             }
             .tex44{
                 width:70%;
@@ -734,10 +735,13 @@ p29{
        
        
             }
+            .trois{
+                margin-bottom: 4rem;
+            }
         }
     
     
-@media (min-width: 990px) and (max-width: 1075px) { 
+@media (min-width: 990px) and (max-width: 1300px) { 
     .text3{
         margin-top: 0%;
         height: 10%;
@@ -752,7 +756,7 @@ p29{
         
         }
         .rond{
-            height: 35vh;
+            height:25vh;
             width: 35%;
             margin-left: 65%;
         }
@@ -804,6 +808,9 @@ p29{
    
    font-size: 0.8rem;
 
+}
+.trois{
+    margin-bottom: 4rem;
 }
 
  }
@@ -992,6 +999,8 @@ p29{
         .droit{
             width: 100%;
             height: 18rem;
+            
+            margin-bottom: 15rem;
             }
           
             .text3{
@@ -999,7 +1008,7 @@ p29{
                 height: 10%;
             }
             .text2{
-                margin-bottom: 0%;
+                margin-bottom: 5%;
             }
             .tex4{
                 font-size: 1.5rem;
@@ -1196,6 +1205,7 @@ form{
         .droit{
             width: 100%;
             height: 15rem;
+            margin-bottom: 10rem;
             }
             
             .text3{
