@@ -69,8 +69,7 @@ height: 15rem;
     background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
     background-repeat: no-repeat;
     background-size: cover;
-  
-    border-radius: 1rem   ;
+    border-radius: 0rem 0rem 2rem 2rem;
 
 }
 
