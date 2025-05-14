@@ -118,7 +118,7 @@ margin-bottom:2rem;
 }
 
 .tex4{
-  color: #8b8373;
+  color: black;
   
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
   width: 95%; 
@@ -765,11 +765,11 @@ z-index: -1;
             h6{
                 margin-top: 25rem;
                 margin-left: 1rem;
-                font-size: 0.8rem;
+                font-size: 0.9rem;
                 color: black;
                 display: flex;
                 font-family:"Boldonse" ;
-                text-decoration:  0.5rem underline burlywood;
+                text-decoration:  0.2rem underline burlywood;
               }
         }
     
@@ -845,6 +845,15 @@ z-index: -1;
 .trois{
     margin-bottom: 4rem;
 }
+h6{
+    margin-top: 20rem;
+    margin-left: 0,5ch;
+    font-size: 0.7rem;
+    color: black;
+    display: flex;
+    font-family:"Boldonse" ;
+    text-decoration:  0.2rem underline burlywood;
+  }
 
  }
  
