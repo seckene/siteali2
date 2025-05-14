@@ -21,9 +21,7 @@
 </head>
 
 <body>
-    
-    <div class="ctrl">
-        <div class="gauche">
+   
     <header>
         <nav class="navb">
             <ul class="logetnom">
@@ -47,6 +45,11 @@
         </nav>
       
     </header>
+     
+    <div class="ctrl">
+        <div class="gauche">
+        <h6> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra</h6>
+
 </div>
         
     </div>
