@@ -19,7 +19,7 @@ text-align: center;
     margin-left: 5%;
     font-size: 1.4rem;
     font-family: "Boldonse";
-    color: #8b8373;
+    color: burlywood;
     text-decoration: underline;
     
 }
@@ -33,19 +33,25 @@ text-align: center;
 
 .reste{
     display: flex ;
-    font-size: 1.5rem;
+    font-size: 0.8rem;
     width: 60%;
     justify-content: space-evenly;
 }
 
 a{
-    color:#8b8373;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:burlywood;
+    
+    font-size: 0.8rem;
+    font-family: "Boldonse";
     text-decoration: none;
 }
 
 
-
+.ouff{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
 .ctrl{
     display: flex;
     justify-content: center;
@@ -69,7 +75,7 @@ height: 15rem;
 margin-top: -8rem;
 z-index: -1;
     background-repeat: no-repeat; 
-    background-image: url("https://img.freepik.com/vecteurs-libre/sainte-kaaba-mecque-arabie-saoudite-illustration-vectorielle-croquis-dessines-main_460848-10337.jpg");
+    background-image: url("ChatGPT\ Image\ 16\ mai\ 2025\,\ 10_06_09.png");
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
 margin-bottom:2rem;
@@ -88,7 +94,7 @@ margin-bottom:2rem;
 .text3{
     height: 10%;
     display: flex;
-    margin-top: 3%;
+    margin-top: 2%;
     justify-content: space-evenly;
 }
 .text33{
@@ -100,19 +106,20 @@ margin-bottom:2rem;
 .chef{
     width: 40%;
     border: none;
-    background-color: white;
+    background-color: rgb(238, 185, 117);;
     
-    border-radius:10%;
+    border-radius:5%;
  font-family: "Boldonse";
-    color: rgb(238, 185, 117);
+ 
 }
 .chef1{
     width: 15%;
-    height: 3rem;
+    height: 4rem;
     border: none;
-    border-radius:10%;
+    
+    border-radius: 0.5em;
 
-    background-color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.425);
   font-size: 1rem;
     margin-right: 2%;
 }
@@ -149,6 +156,8 @@ font-size: 1.7rem;
  background-repeat: no-repeat;
  background-size: cover;
 border-radius: 1rem;
+object-fit: cover;
+    object-position: center;
 
 }
 
@@ -287,7 +296,7 @@ h1{
     border: 6px solid black;
   }
     .goos3{
-       
+        border: 6px solid black;
             height: 30rem;
             width: 65%;
             margin-top: 2%;
@@ -588,8 +597,8 @@ p29{
     font-family:"Boldonse" ;
   }
   h6{
-    margin-top: 25rem;
-    margin-left: 1rem;
+    margin-top: 15rem;
+    
     font-size: 0.8rem;
     color: black;
     display: flex;
@@ -771,6 +780,10 @@ z-index: -1;
                 font-family:"Boldonse" ;
                 text-decoration:  0.2rem underline burlywood;
               }
+              a{
+                
+                font-size: 0.8rem;
+              }
         }
     
     
@@ -778,6 +791,9 @@ z-index: -1;
     .text3{
         margin-top: 0%;
         height: 10%;
+    }
+    .chef1{
+        width: 20%;
     }
     .text2{
         margin-bottom: 15%;
@@ -789,7 +805,7 @@ z-index: -1;
         
         }
         .rond{
-            height:25vh;
+            height:26vh;
             width: 35%;
             margin-left: 65%;
         }
@@ -837,9 +853,9 @@ z-index: -1;
     width: 35%;
     
 }
-#ays{
+a{
    
-   font-size: 0.8rem;
+    font-size: 0.6rem;
 
 }
 .trois{
@@ -854,6 +870,7 @@ h6{
     font-family:"Boldonse" ;
     text-decoration:  0.2rem underline burlywood;
   }
+  
 
  }
  
@@ -926,21 +943,22 @@ h6{
                     justify-content: space-evenly;
                     width: 100%;
                     background-color:rgba(0, 0, 0, 0.555);;
-                    height: 100vh;
+                    height: 160vh;
                 }
 
                 #ays{
                     justify-content: center;
                     align-items: center;
                    text-align: center;
-                   font-size: 1rem;
                    margin-top: 20%;
                    margin-bottom: 50%;
                     
                 }
                 a{
+                    
+                   font-size: 0.7rem;
                     margin-top: 5%;
-                    color:#9b9488;
+                    color:burlywood;
                 }
                 
               .croix{
@@ -1034,7 +1052,8 @@ h6{
    h6{
     display: none;
  }
-
+ 
+ 
  }
 
  @media (min-width: 500px) and (max-width: 599px) { 
@@ -1109,14 +1128,15 @@ h6{
                     justify-content: center;
                     align-items: center;
                    text-align: center;
-                   font-size: 1rem;
                    margin-top: 20%;
                    margin-bottom: 50%;
                     
                 }
                 a{
+                    
+                   font-size: 0.7rem;
                     margin-top: 5%;
-                    color:#9b9488;
+                    color:burlywood;
                 }
                 
               .croix{
@@ -1246,6 +1266,7 @@ form{
     display: none;
  }
 
+
 }
 @media (min-width: 421px) and (max-width: 499px) { 
    
@@ -1314,20 +1335,21 @@ form{
                     justify-content: space-evenly;
                     width: 100%;
                     background-color:rgba(0, 0, 0, 0.555);;
-                    height: 90vh;
+                    height: 110vh;
                 }
                 #ays{
                     justify-content: center;
                     align-items: center;
                    text-align: center;
-                   font-size: 1rem;
                    margin-top: 20%;
                    margin-bottom: 50%;
                     
                 }
                 a{
+                    
+                   font-size: 0.7rem;
                     margin-top: 5%;
-                    color:#9b9488;
+                    color:burlywood;
                 }
                 
               .croix{
@@ -1499,7 +1521,7 @@ form{
                 }
                 .gauche{
                     width: 100%;
-                    height: 25rem;
+                    height: 30rem;
                     border-radius: 0rem 0rem 0,5rem 0,5rem;
                     margin-right: 2%;
 
@@ -1510,7 +1532,7 @@ form{
                 
            
                 .titre{
-                    font-size: 1rem;
+                    font-size: 0.9rem;
                     text-decoration: none;
                 }
                 .logetnom{
@@ -1519,7 +1541,7 @@ form{
                 }
                 .reste{
                    
-                    font-size: 1.5rem;
+                    font-size: 0.5rem;
                     height: 2vh;
                     align-items: center;
                     display: none;
@@ -1538,21 +1560,22 @@ form{
                     justify-content: space-evenly;
                     width: 100%;
                     background-color:rgba(0, 0, 0, 0.932);
-                    height: 90vh;
+                    height: 110vh;
 
                 }
                 #ays{
                     justify-content: center;
                     align-items: center;
                    text-align: center;
-                   font-size: 1rem;
+                   font-size: 0.5rem;
                    margin-top: 20%;
                    margin-bottom: 50%;
                     
                 }
                 a{
+                    font-size: 0.5rem;
                     margin-top: 5%;
-                    color:#9b9488;
+                    color:burlywood;
                 }
                 
               .croix{
@@ -1604,6 +1627,9 @@ form{
                         }
                         .chef1{
                             width: 40%;
+                            height: 2.5rem;
+                             border-radius: 0.5em;
+                              
                             
                         }
                        

@@ -72,8 +72,8 @@
         </div>
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
     </div>
     <div class="centre">
         
@@ -95,8 +95,8 @@
       
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
     </div>
     <div class="centre">
         
@@ -118,8 +118,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+    <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -141,8 +141,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+    <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
 </div>
 
 <div class="centre">
@@ -165,8 +165,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+    <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -188,8 +188,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+    <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -211,8 +211,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+    <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
 </div>
 <div class="centre">
         
@@ -234,8 +234,8 @@
   
 </div>
 <div class="text33">
-    <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-    <button class="chef1"><a href="omrajan">En savoir plus<a></button>
+    <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+    <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
 </div>
 
 
@@ -256,11 +256,9 @@
     <ul class="spra">
         <span class="voix"></span>
             
-        <li class="foll"><a href="omra.php">Omra 2025</a></li> 
-        <li class="foll"><a href="inscription.php">Inscription Hadj 2025</a></li>                 
+        <li class="foll"><a href="omra.php">Omra 2025</a></li>           
             <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
             <li  class="foll"><a href="administratif.php">Administratif</a></li> 
-            <li class="foll"><a href="index.php">En savoir plus</a></li>  
             <li  class="foll"> <a href="contact.php">Contact</a></li>     
     </ul>
   </footer>

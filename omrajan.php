@@ -143,24 +143,23 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
  
-// Connexion PDO à la base de données
-$host = 'localhost';
-$db = 'siteali2';
-$user = 'root';
-$pass = '';
+$host = 'sql101.infinityfree.com';
+$db   = 'if0_38998203_varas3240';
+$user = 'if0_38998203';
+$pass = 'Seckene93240'; // <-- Mets ici ton vrai mot de passe
 $charset = 'utf8mb4';
- 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 $options = [
-    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, // Active l'affichage des erreurs PDO en tant qu'exceptions
-    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC, // Retourne les résultats sous forme de tableau associatif
+    PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION, 
+    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+    PDO::ATTR_EMULATE_PREPARES   => false,
 ];
- 
+
 try {
-    $pdo = new PDO($dsn, $user, $pass, $options); // Connexion à la base de données avec PDO
-    
+    $pdo = new PDO($dsn, $user, $pass, $options);
+    echo "✅ Connexion réussie à la base de données InfinityFree !";
 } catch (PDOException $e) {
-    throw new PDOException($e->getMessage(), (int)$e->getCode()); // En cas d'erreur, on affiche le message
+    throw new PDOException($e->getMessage(), (int)$e->getCode());
 }
 // Si formulaire soumis
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
@@ -178,7 +177,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $stmt = $pdo->prepare($sql);
     $stmt->execute([$nom, $cin, $date_naissance, $telephone, $email, $ville, $sexe]);
 
-    $message = "✅ Inscription enregistrée avec succès !";
 }
 ?>
 <h1>inscription Omra</h1>
@@ -246,11 +244,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <ul class="spra">
         <span class="voix"></span>
             
-        <li class="foll"><a href="omra.php">Omra 2025</a></li> 
-        <li class="foll"><a href="inscription.php">Inscription Hadj 2025</a></li>                 
+        <li class="foll"><a href="omra.php">Omra 2025</a></li>              
             <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
             <li  class="foll"><a href="administratif.php">Administratif</a></li> 
-            <li class="foll"><a href="index.php">En savoir plus</a></li>  
             <li  class="foll"> <a href="contact.php">Contact</a></li>     
     </ul>
    

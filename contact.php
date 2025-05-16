@@ -44,10 +44,6 @@
         </nav>
     </header>
 
-    <div class="ctrl">
-        
-  
-       
                       
   <div class="salif2">
     <form method="post">
@@ -61,13 +57,14 @@
       <label for="ville">Message </label>
       <input type="text" id="nom2" name="ville" required>
 
+      <div class="valide2">
       <button type="submit">S'inscrire</button>
 
-
+</div>
     </form>
     
   </div>
-  </div>
+  
     </div>
 
 
@@ -88,11 +85,9 @@
     <ul class="spra">
         <span class="voix"></span>
             
-        <li class="foll"><a href="omra.php">Omra 2025</a></li> 
-        <li class="foll"><a href="inscription.php">Inscription Hadj 2025</a></li>                 
+        <li class="foll"><a href="omra.php">Omra 2025</a></li>              
             <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
-            <li  class="foll"><a href="administratif.php">Administratif</a></li> 
-            <li class="foll"><a href="index.php">En savoir plus</a></li>  
+            <li  class="foll"><a href="administratif.php">Administratif</a></li>  
             <li  class="foll"> <a href="contact.php">Contact</a></li>     
     </ul>
    

@@ -1,23 +1,23 @@
 <?php 
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
- 
 
-$host = 'localhost';
-$db = 'siteali2';
-$user = 'root';
-$pass = '';
+
+$host = 'sql101.infinityfree.com';
+$db   = 'if0_38998203_varas3240';
+$user = 'if0_38998203';
+$pass = 'Seckene93240'; // <-- Mets ici ton vrai mot de passe
 $charset = 'utf8mb4';
- 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 $options = [
-    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, 
+    PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION, 
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+    PDO::ATTR_EMULATE_PREPARES   => false,
 ];
- 
+
 try {
     $pdo = new PDO($dsn, $user, $pass, $options);
-    
+    echo "✅ Connexion réussie à la base de données InfinityFree !";
 } catch (PDOException $e) {
     throw new PDOException($e->getMessage(), (int)$e->getCode());
 }
@@ -35,7 +35,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $stmt = $pdo->prepare($sql);
     $stmt->execute([$nom, $cin, $date_naissance, $telephone, $email, $ville, $sexe]);
 
-    $message = "✅ Inscription enregistrée avec succès !";
 }
 ?>
 

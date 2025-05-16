@@ -48,7 +48,6 @@
      
     <div class="ctrl">
         <div class="gauche">
-        <h6> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra</h6>
 
 </div>
         
@@ -85,8 +84,8 @@
         </a>
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php"> En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php"class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php" class="ouff"> En savoir plus<a></button>
     </div>
     <div class="centre">
         
@@ -108,8 +107,8 @@
            
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php">En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
     </div>
     <div class="centre">
     
@@ -132,8 +131,8 @@
         </div>
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php">En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
     </div>
     <div class="centre">
         <div class="goos">
@@ -153,8 +152,8 @@
         </div>
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php">En savoir plus<a></button>
+        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
     </div>
     <h1>hajj 2025 </h1>
     <div class="centre">
@@ -175,8 +174,8 @@
         </div>
     </div>
     <div class="text33">
-        <button class="chef1"><a href="contact.php">Nous contacter<a></button>
-        <button class="chef1"><a href="inscription.php">Inscription<a></button>
+        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
+        <button class="chef1"><a href="inscription.php" class="ouff">Inscription<a></button>
     </div>
     
  
@@ -225,11 +224,9 @@
     <ul class="spra">
         <span class="voix"></span>
           
-        <li class="foll"><a href="omra.php">Omra 2025</a></li> 
-        <li class="foll"><a href="inscription.php">Inscription Hadj 2025</a></li>                 
+        <li class="foll"><a href="omra.php">Omra 2025</a></li>           
             <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
             <li  class="foll"><a href="administratif.php">Administratif</a></li> 
-            <li class="foll"><a href="index.php">En savoir plus</a></li>  
             <li  class="foll"> <a href="contact.php">Contact</a></li>       
     </ul>
    
