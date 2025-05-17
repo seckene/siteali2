@@ -1379,8 +1379,8 @@ form{
                 margin-right: 5%;
             }
                 .rond{
-                    height: 30vh;
-                    width: 43%;
+                    height: 22vh;
+                    width: 60%;
                     margin-left: 2%;
                 }
                 .goos{
@@ -1401,6 +1401,7 @@ form{
                     }
                     .trois{
                         margin-bottom: 5%;
+                        font-size: 1.1rem;
                         } 
                         .quatre{
                             margin-top: 8%;
@@ -1431,6 +1432,7 @@ form{
                             }
                             .chef1{
                                 width: 40%;
+                                margin-bottom: 3rem;
                                 
                             }
                             footer{
@@ -1610,10 +1612,10 @@ form{
                 height: 20vh;
                 width: 60%;
                 margin-left: 2%;
-                margin-top: 2rem;
+                margin-top: 0.5rem;
             }
             .goos{
-                    height: 23rem;
+                    height: 22rem;
                     width: 95%;
                 }
                 .goos23{
@@ -1629,8 +1631,8 @@ form{
                     width: 95%;
                 }
                 .trois{
-                    margin-bottom: 5%;
-                    font-size: 1.2rem;
+                    margin-bottom: 1%;
+                    font-size: 1rem;
                     } 
                     .quatre{
                         margin-top: 8%;
