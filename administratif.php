@@ -46,7 +46,7 @@
     </header>
 
 
-<h1>Accompagnement Administratif</h1>
+<h1 class="inter">Accompagnement Administratif</h1>
     <div class="tex444">
     <p class="tex44"> 
         Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme 

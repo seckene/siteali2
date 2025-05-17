@@ -119,7 +119,7 @@ margin-bottom:2rem;
     
     border-radius: 0.5em;
 
-    background-color: rgba(0, 0, 0, 0.425);
+    background-color:RGB(177, 217, 224);
   font-size: 1rem;
     margin-right: 2%;
 }
@@ -271,6 +271,19 @@ h1{
     font-family:"Inter";
 }
 
+.inter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom:2%;
+    margin-top:8%;
+    font-size: 1.8rem;
+
+    color: burlywood;
+    
+    font-family:"Oswald";
+}
 #www{
     display: flex;
     justify-content: center;
@@ -298,7 +311,7 @@ h1{
     .goos3{
         border: 6px solid black;
             height: 30rem;
-            width: 65%;
+            width: 50%;
             margin-top: 2%;
             display: block;
          background-image: url("https://albouraqtravel.fr/wp-content/uploads/2019/07/visas-pour-le-hajj-vision-2030.jpg");
@@ -1626,7 +1639,7 @@ form{
                             margin-bottom: 10%;
                         }
                         .chef1{
-                            width: 40%;
+                            width: 45%;
                             height: 2.5rem;
                              border-radius: 0.5em;
                               

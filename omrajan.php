@@ -157,9 +157,7 @@ $options = [
 
 try {
     $pdo = new PDO($dsn, $user, $pass, $options);
-    echo "✅ Connexion réussie à la base de données InfinityFree !";
 } catch (PDOException $e) {
-    throw new PDOException($e->getMessage(), (int)$e->getCode());
 }
 // Si formulaire soumis
 if ($_SERVER["REQUEST_METHOD"] === "POST") {

@@ -17,9 +17,8 @@ $options = [
 
 try {
     $pdo = new PDO($dsn, $user, $pass, $options);
-    echo "✅ Connexion réussie à la base de données InfinityFree !";
 } catch (PDOException $e) {
-    throw new PDOException($e->getMessage(), (int)$e->getCode());
+    
 }
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $nom = $_POST['nom'];
@@ -84,7 +83,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         </nav>
     </header>
 <body>
-<h1>Inscriptions Hadj 2025</h1>
+<h1 class="inter">Inscriptions Hadj 2025</h1>
 <div class="centre">
         <div class="goos5">
             <span>
