@@ -44,6 +44,23 @@
         </nav>
     </header>
 
+
+    <h2 class="inter">Qui somme nous</h2>
+
+
+<div class="tex444">
+    
+               <p class="tex44"> Dar as'salam Voyages MC Travel est une agence de voyages Omra pas cher
+                    Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
+                    années.
+                </p>
+       </div>
+
+
+
+
+
+
     
     <h1 class="inter">Formules Omra 2025</h1>
    
@@ -55,7 +72,6 @@
                 <p class="unt">Janvier</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 janvier au 31 février)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
@@ -76,7 +92,6 @@
                     <p class="unt">février</p>
                 </span>
                 <p class="deuxx">10 jours</p>
-                <p class="trois">(Du 20 février au 31 février)</p>
                 <div class="rond">
                     <p class="quatre">A partir de 1400€</p>
                     <p class="cinque">Du<bR> 20 janvier au 31 février</p>
@@ -98,7 +113,6 @@
                 <p class="unt">Mars</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 Mars au 31 Mars)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 Mars au 31 Mars</p>
@@ -119,7 +133,6 @@
                 <p class="unt">Avril</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 Avril au 31 Avril)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 Avril au 31 Avril</p>
@@ -141,7 +154,6 @@
                 <p class="unt">Mai</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 Mai au 31 Mai)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 Mai au 31 Mai</p>
@@ -162,7 +174,6 @@
                 <p class="unt">juin</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 juin au 31 juin)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 juin au 31 juin</p>
@@ -183,7 +194,6 @@
                 <p class="unt">juillet</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 juillet au 31 juillet)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 juillet au 31 juillet</p>
@@ -204,7 +214,6 @@
                 <p class="unt">aout</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 aout au 31 aout)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 aout au 31 aout</p>
@@ -217,16 +226,10 @@
 <div class="text33">
 </div>
 
-<div class="tex444">
-               <p class="tex44"> Dar as'salam Voyages MC Travel est une agence de voyages Omra pas cher
-                    Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                    années, notre agence de voyages pas cher propose différentes formules adaptées à votre
-                    budget afin de permettre à un grand nombre de personnes de se rendre sur les terres saintes de
-                    Médine et de Makkah.
-                </p>
-       </div>
+
 
  
+
 <footer>
     <p class="lol">   </p>
     <h4>Nos partenaire</H4>

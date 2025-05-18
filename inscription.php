@@ -88,10 +88,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <div class="goos5">
             <span>
                 <p class="Omra20256">Hadj 2025</p>
-                <p class="unt"></p>
+             
             </span>
             <p class="deuxx">20 jours</p>
-            <p class="trois">(Du 20 Mars au 31 Mars)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
@@ -103,7 +102,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
    
     </div>
    
-    <h1>Programe hajj </h1>
+    <h1 class="inter">Programe hajj </h1>
     
 
 <div class="folome">
@@ -145,24 +144,128 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </p31>
 <p31>-Hébergement : Séjour à La Mecque dans un hôtel situé à 800m de l’Esplanade Durée : 5 nuits<br>
 </p31>
-<p31>-Rites : Accomplissement de la Omra </p31><br>
+<p31>-Cours de préparation au Hajj : Explication des rites du Hajj et réponses aux questions. </p31><br>
 </div>
 
 </div>
 <div class="folome">
     <div class="premierjan">
-    <h2>Quatrième-Neuvième jour</h2>
+    <h2>Quatrième sixième jour </h2>
    </div>
     <div class="janajan">
    <p31>- Programme libre :
    Profitez pleinement de la Mosquée Sacrée où une prière en à la récompense de cent milles </p31>
+   <br>
+   <p31>
+-Cours : Derniers rappels et consignes pratiques pour le Hajj (logistique, sécurité, spiritualité).</p31>
   
 </div>
 
 
 </div>
-    
+<div class="folome">
+    <div class="premierjan">
+    <h2>Septième jour </h2>
+   </div>
+    <div class="janajan">
+   <p31>- Départ pour Mina : En bus climatisés.
 
+</p31>
+<br>
+
+   <p31>-Hébergement : Camp sous tentes à Mina.</p31>
+   <br>
+
+   <p31>
+   -Rites : Prières à Mina (Dhor, Asr, Maghrib, Isha et Fajr) selon les rites du Hajj.</p31>
+
+</div>
+
+
+</div>
+
+
+<div class="folome">
+    <div class="premierjan">
+    <h2> Huitième jour</h2>
+   </div>
+    <div class="janajan">
+   <p31>-Départ pour Arafat : Après le lever du soleil.</p31>
+   <br>
+
+   <p31>
+  -Station à Arafat : Invocation et recueillement jusqu’au coucher du soleil..</p31>
+   <br>
+
+   <p31>
+   -Départ pour Mouzdalifah : Prière de Maghrib et Isha combinées, collecte des cailloux.
+   </p31>
+
+   <br>
+   
+   <p31>
+   -Nuitée : À la belle étoile à Mouzdalifah.
+   </p31>
+   <br>
+
+   <p31>
+   Neuvième jour (10 Dhoul-Hijja – Jour de l’Aïd)
+</p31>
+</div>
+
+
+</div>
+
+
+
+
+<div class="folome">
+    <div class="premierjan">
+    <h2> 
+    Dixième et onzième jours </h2>
+   </div>
+    <div class="janajan">
+   <p31>- Rites : Lapidation des trois stèles (Jamrât).</p31>
+   <br>
+
+   <p31>-Hébergement : Dernière(s) nuit(s) à Mina.</p31>
+   <br>
+
+   <p31>
+
+-Fin du Hajj : Retour à La Mecque en fin de journée du 12 ou 13 selon le groupe.
+   </p31>
+
+</div>
+
+
+</div>
+
+
+
+<div class="folome">
+    <div class="premierjan">
+    <h2>
+    Derniers jours </h2>
+</div>
+<div class="janajan">
+<p31>
+-Tawaf d’adieu (Tawaf al-Wada)
+</p31>
+   <br>
+    
+   <p31>
+-Transfert retour : Vers l’aéroport de Jeddah ou Médine selon le vol.
+</p31>
+   <br>
+    
+   <p31>
+-Retour : Vol retour vers Paris CDG.
+
+</p31>
+
+</div>
+</div>
 
     <div class="site">
         

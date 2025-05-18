@@ -74,7 +74,6 @@
                 <p class="unt">Janvier</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 janvier au 31 février)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
@@ -96,7 +95,6 @@
                     <p class="unt">février</p>
                 </span>
                 <p class="deuxx">10 jours</p>
-                <p class="trois">(Du 20 février au 31 février)</p>
                 <div class="rond">
                     <p class="quatre">A partir de 1400€</p>
                     <p class="cinque">Du<bR> 20 janvier au 31 février</p>
@@ -121,7 +119,6 @@
                 <p class="unt">Mars</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 MARS au 31 MARS)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 MARS au 31 MARS</p>
@@ -142,7 +139,6 @@
                 <p class="unt">Avril</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <p class="trois">(Du 20 AVRIL au 31 AVRIL)</p>
             <div class="rond">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 AVRIL au 31 AVRIL</p>
@@ -161,10 +157,8 @@
         <a href="inscription.php">
             <span>
                 <p class="Omra20256">Hadj 2025</p>
-                <p class="unt"></p>
             </span>
             <p class="deuxx">20 jours</p>
-            <p class="trois">(Du 20 Mars au 31 Mars)</p>
             <div class="rond">
                 <p class="quatre">A partir de 7500€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
@@ -193,9 +187,18 @@
         Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
     </p>
 </div>
+
+
+
+
+<a href="administatif2.php">
     <section id="www">
    
+
+
    <div class="goos3">
+
+   
     <h2>Visa omra</h2>
     <span>
        
@@ -203,7 +206,7 @@
     </span>
    
   </section>
-
+  </a>
 
   
  

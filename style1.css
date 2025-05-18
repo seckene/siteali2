@@ -209,16 +209,9 @@ span{
     margin-left: 10%;
     text-decoration: underline burlywood;
     font-family: "Oswald";
+    margin-bottom: 16%;
 }
-.trois{
-    display: flex;
-    font-size: 1.5rem;
-    color: whitesmoke;
-    margin-top: 2%;
-    margin-left: 2%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-margin-bottom: 16%;
-}        
+      
 .trois3{
     display: flex;
     font-size: 1rem;
@@ -339,13 +332,15 @@ h1{
     }
     .goos22{
         height: 35rem;
-        width: 60%;
+        width: 70%;
+        opacity: 100%;
         margin-top: 2%;
         display: block;
-     background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/562349970.jpg?k=2061be325cb2645208dc3a4b792bae747edbb4f24d8eaf506f17f425227b9e99&o=&hp=1");
+     background-image: url("https://www.kayak.fr/rimg/himg/fd/b2/32/expedia_group-3727719-3371e0-943967.jpg?width=836&height=607&crop=true");
      background-repeat: no-repeat;
      background-size: cover;
     border-radius: 1rem;
+   
 
     
     }
@@ -355,7 +350,7 @@ h1{
         margin-top: 10%;
 
         display: block;
-     background-image: url("https://www.ubparis.com/cache/img/hotel-urban-bivouac-petit-dejeuner-206198-1920-1280-landscape.jpg");
+     background-image: url("https://www.vallondevalrugues.com/_novaimg/4858879-1473035_0_952_4793_2248_2200_1032.jpg");
      background-repeat: no-repeat;
      background-size: cover;
     border-radius: 1rem;
@@ -506,7 +501,8 @@ h4{
     display: block;
     font-size: 1rem;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-width: 40%;
+width: 30%;
+ text-align: center;
 }
 .premierjan{
     display: flex;
@@ -522,12 +518,15 @@ width: 40%;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 
 }
 
 p31{
     color: #8b8373;
+
+    
+   
 
     margin-right: 1.5rem;
     
@@ -550,10 +549,13 @@ p29{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-left: 1rem;
-    font-family:"Oswald" ;
+    font-family:"Boldonse" ;
     text-align:left;
+    opacity: 100%;
+    color: white;
+    margin-top: 8rem;
 }
 
 .tgggggg{
@@ -883,7 +885,14 @@ h6{
     font-family:"Boldonse" ;
     text-decoration:  0.2rem underline burlywood;
   }
-  
+  .trois3{
+    color: white;
+    width: 70%;
+      font-size: 0.8rem;
+      
+      margin-top: 10rem;
+     
+  }
 
  }
  
@@ -1066,7 +1075,26 @@ h6{
     display: none;
  }
  
+ .mocotadim{
+    flex-wrap: wrap;
+   }
+   .gg{
+   
+     width: 80%;
+   }
  
+   .dd{
+     width: 100%;
+   }
+ 
+   .trois3{
+    color: white;
+    width: 70%;
+      font-size: 0.8rem;
+      
+      margin-top: 8rem;
+     
+  }
  }
 
  @media (min-width: 500px) and (max-width: 599px) { 
@@ -1279,6 +1307,25 @@ form{
     display: none;
  }
 
+ .mocotadim{
+    flex-wrap: wrap;
+   }
+   .gg{
+   
+     width: 80%;
+   }
+ 
+   .dd{
+     width: 100%;
+   }
+   .trois3{
+    color: white;
+    width: 90%;
+      font-size: 0.8rem;
+      
+      margin-top: 4rem;
+     
+  }
 
 }
 @media (min-width: 421px) and (max-width: 499px) { 
@@ -1290,7 +1337,7 @@ form{
         .droit{
             width: 100%;
             height: 15rem;
-            margin-bottom: 10rem;
+            margin-bottom: 8rem;
             }
             
             .text3{
@@ -1308,7 +1355,7 @@ form{
                 margin: 1%;
                 margin-top: 10%;
                 margin-bottom: 0%;
-                font-size: 1rem;
+                font-size: 1.1rem;
         
                 
                 }
@@ -1485,11 +1532,15 @@ p31{
 .metsa{
     display: block;
 }  
-.trois3{
 
-    font-size: 0.8rem;
-   
-}
+.trois3{
+    color: white;
+    width: 90%;
+      font-size: 0.8rem;
+      
+      margin-top: 4rem;
+     
+  }
 form{
     width: 90%;
 
@@ -1497,7 +1548,23 @@ form{
    h6{
     display: none;
  }
+ 
+ .mocotadim{
+    flex-wrap: wrap;
+   }
+   .gg{
+   
+     width: 80%;
+   }
+ 
+   .dd{
+     width: 100%;
+   }
 
+   .deuxx{
+    margin-bottom: 13%;
+  }
+   
 }
             
 
@@ -1513,7 +1580,7 @@ form{
         .droit{
             width: 100%;
             height: 15rem;
-            margin-bottom: 5rem;
+            margin-bottom: 2.5rem;
             }
             
             .text3{
@@ -1621,6 +1688,7 @@ form{
                 .goos23{
                     height: 23rem;
                     width: 95%;
+                    margin-bottom:5rem;
                 }
                 .goos22{
                     height: 23rem;
@@ -1708,7 +1776,7 @@ form{
                             
                             .tex44{
                                 width:95%;  
-                                font-size: 1rem;
+                                font-size: 0.9rem;
                                 margin-bottom: 5%;
                                
                                 }
@@ -1735,7 +1803,7 @@ text-align: center;
     font-family:"Boldonse" ;
 }
 .folome{
-    margin-top: 10%;
+    margin-top: 0%;
     display: block;
     justify-content: center;
     align-items: center;
@@ -1753,8 +1821,11 @@ width: 80%;
     display: block;
 }  
 .trois3{
-  
-    font-size: 0.8rem;
+  color: white;
+  width: 90%;
+    font-size: 0.6rem;
+    
+    margin-top: 6rem;
    
 }
 form{
@@ -1765,5 +1836,22 @@ form{
     display: none;
  }
 
+ .mocotadim{
+   flex-wrap: wrap;
+  }
+  .gg{
+  
+    width: 80%;
+  }
+
+  .dd{
+    
+    margin-top: 18rem;
+    width: 100%;
+  }
+
+  .deuxx{
+    margin-bottom: 8%;
+  }
 }
 
