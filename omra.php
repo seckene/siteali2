@@ -45,8 +45,6 @@
     </header>
 
 
-    <h2 class="inter">Qui somme nous</h2>
-
 
 <div class="tex444">
     
@@ -85,7 +83,7 @@
     </div>
     <div class="centre">
         
-            <div class="goos">
+            <div class="goosA">
             <a href="omrajan.php">
                 <span>
                     <p class="Omra2025">Omra</p>
@@ -126,7 +124,7 @@
 </div>
 <div class="centre">
         
-        <div class="goos">
+        <div class="goosA">
         <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
@@ -167,7 +165,7 @@
 </div>
 <div class="centre">
         
-        <div class="goos">
+        <div class="goosA">
         <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
@@ -207,7 +205,7 @@
 </div>
 <div class="centre">
         
-        <div class="goos">
+        <div class="goosA">
         <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
@@ -228,30 +226,6 @@
 
 
 
- 
-
-<footer>
-    <p class="lol">   </p>
-    <h4>Nos partenaire</H4>
-    
-    <ul class="sprat" >
-         
-           
-        <li class="foll2"><img src="hotel noir.png" alt=""></li>
-        <li class="foll2"><img src="hotel noir.png" alt=""></li>
-        <li class="foll2"><img src="hotel noir.png" alt=""></li>
-       
-        
-    </ul>
-    <ul class="spra">
-        <span class="voix"></span>
-            
-        <li class="foll"><a href="omra.php">Omra 2025</a></li>           
-            <li class="foll"> <a href="inscription.php">Inscription Hadj 2025</a></li>
-            <li  class="foll"><a href="administratif.php">Administratif</a></li> 
-            <li  class="foll"> <a href="contact.php">Contact</a></li>     
-    </ul>
-  </footer>
 
   
   <script src="ex.js"></script>

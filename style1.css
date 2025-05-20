@@ -160,6 +160,45 @@ object-fit: cover;
     object-position: center;
 
 }
+.goosA{
+    height: 34rem;
+    width: 60%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("ChatGPT2.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+object-fit: cover;
+    object-position: center;
+
+}
+.goosB{
+    height: 34rem;
+    width: 60%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+object-fit: cover;
+    object-position: center;
+
+}
+.goosC{
+    height: 34rem;
+    width: 60%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("ChatGPT2.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+object-fit: cover;
+    object-position: center;
+
+}
 
 .centre{
     display: flex;
@@ -222,7 +261,7 @@ margin-bottom: 1%;
 }
 
 .rond{
-    background-color: rgba(219, 166, 96, 0.568);
+    background-color:#ccb293da;
 border: 2px solid whitesmoke;
     height: 28vh;
     width: 28%;
@@ -465,6 +504,7 @@ h4{
             display: flex;
             justify-content: center;
             align-items: center;
+            margin-bottom: 5rem;
         }
         .salif2{
             display: flex;
@@ -682,6 +722,15 @@ z-index: -1;
         .goos{
         height: 55rem;
         }
+        .goos{
+            height: 55rem;
+            }.goosA{
+                height: 55rem;
+                }.goosB{
+                    height: 55rem;
+                    }.goosC{
+                        height: 55rem;
+                        }
         .goos5{
         height: 55rem;
         }
@@ -771,6 +820,13 @@ z-index: -1;
             .goos{
             height: 40rem;
             }
+            .goosA{
+                height: 40rem;
+                } .goosB{
+                    height: 40rem;
+                    } .goosC{
+                        height: 40rem;
+                        }
             .goos5{
             height: 40rem;
             }
@@ -849,6 +905,18 @@ z-index: -1;
             width: 70%;
             height: 35rem;
         }
+
+        .goosA{
+            width: 70%;
+            height: 35rem;
+        } .goosB{
+            width: 70%;
+            height: 35rem;
+        } .goosC{
+            width: 70%;
+            height: 35rem;
+        }
+
         .goos5{
             width: 70%;
             height: 35rem;
@@ -1024,6 +1092,16 @@ h6{
                     margin-left: 2%;
                 }
                 .goos{
+                        height: 30rem;
+                        width: 80%;
+                    }
+                    .goosA{
+                        height: 30rem;
+                        width: 80%;
+                    } .goosB{
+                        height: 30rem;
+                        width: 80%;
+                    } .goosC{
                         height: 30rem;
                         width: 80%;
                     }
@@ -1226,6 +1304,16 @@ h6{
                     margin-left: 2%;
                 }
                 .goos{
+                        height: 30rem;
+                        width: 90%;
+                    }
+                    .goosA{
+                        height: 30rem;
+                        width: 90%;
+                    }  .goosB{
+                        height: 30rem;
+                        width: 90%;
+                    }  .goosC{
                         height: 30rem;
                         width: 90%;
                     }
@@ -1465,6 +1553,17 @@ form{
                         height: 25rem;
                         width: 95%;
                     }
+
+                    .goosA{
+                        height: 25rem;
+                        width: 95%;
+                    } .goosB{
+                        height: 25rem;
+                        width: 95%;
+                    } .goosC{
+                        height: 25rem;
+                        width: 95%;
+                    }
                     .goos23{
                         height: 25rem;
                         width: 95%;
@@ -1644,7 +1743,7 @@ form{
                     width: 100%;
                     height: 30rem;
                     border-radius: 0rem 0rem 0,5rem 0,5rem;
-                    margin-right: 2%;
+                    margin-right: 0%;
 
                    
                 }
@@ -1716,10 +1815,20 @@ form{
                
                 height: 20vh;
                 width: 60%;
-                margin-left: 2%;
+                margin-left: 38%;
                 margin-top: 0.5rem;
             }
             .goos{
+                    height: 22rem;
+                    width: 95%;
+                }
+                .goosA{
+                    height: 22rem;
+                    width: 95%;
+                }.goosB{
+                    height: 22rem;
+                    width: 95%;
+                }.goosC{
                     height: 22rem;
                     width: 95%;
                 }
