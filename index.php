@@ -46,21 +46,30 @@
       
     </header>
      
-    <div class="ctrl">
-        <div class="gauche">
+   
 
+    <div class="ctrl">
+    
+        <div class="gauche">
+       
+        <div class="ctrl">
+    <p class="pippoi">
+    Découvrez nos services pour l'organisation de votre Omra et Hadj en toute sérénité.<br>
+    
+   
+</p>
+     
+ 
 </div>
-        
+  
+         
+</div>
     </div>
     <div class="ctrl">
         <div class="droit">
         <div class="text2">
-            <p class="tex4"> Dar as'salam Voyages MC Travel est une agence de voyages de Hajj et Omra pas cher
-                  agréée par le Ministère du Hajj en Arabie Saoudite sous le numéro 5084.
-                 Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                 années, notre agence de voyages Hajj et Omra pas cher propose différentes formules adaptées à votre
-                 budget afin de permettre à un grand nombre de personnes de se rendre sur les terres saintes de
-                 Médine et de Makkah.
+            <p class="tex4">Dar as'salam Voyages MC Travel est une agence spécialisée dans l’organisation du Hajj et de l’Omra, agréée par le Ministère du Hajj en Arabie Saoudite (n°5084).
+            Nous proposons plusieurs formules accessibles et adaptées à tous les budgets, afin d’accompagner un large public vers les lieux saints de Médine et Makkah dans les meilleures conditions.
              </p>
          </div>
         </div>

@@ -564,10 +564,11 @@ p29{
 }
 
 #valide{
-    margin-top: 2%;
+    margin-top: 4%;
     background-color: burlywood;      /* Couleur de fond (bleu) */
     color: white;                   /* Couleur du texte */
-    border: none;                   /* Pas de bordure */
+    border: none;    
+    height: 3rem;               /* Pas de bordure */
     padding: 10px 20px;             /* Espace intérieur */
     font-size: 16px;                /* Taille de la police */
     border-radius: 5px;             /* Coins arrondis */
@@ -620,6 +621,26 @@ p29{
     font-family:"Boldonse" ;
     text-decoration:  0.5rem underline burlywood;
   }
+  
+.pippoi
+{
+    color: white;
+    margin-top: 20rem;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 60%;
+    font-size: 1rem;
+    color: white;
+    font-family: "boldonse";
+    
+}
+
+.tg{
+    color: white;
+}
+
+
 @media (min-width: 1981px) and (max-width: 3000px) {
     .droit{
         height: 40rem;
@@ -896,10 +917,10 @@ h6{
 
  }
  
-@media (min-width: 600px) and (max-width: 990px) { 
+@media (min-width: 600px) and (max-width: 989px) { 
    
     .ctrl{
-        display: block;
+        display: flex;
         margin: 0%;
         }  
         .droit{
@@ -916,7 +937,6 @@ h6{
             .gauche{
                 width: 100%;
                 height: 38rem;
-                background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
             }
 
             .text2{
@@ -1095,12 +1115,18 @@ h6{
       margin-top: 8rem;
      
   }
+  .pippoi
+{
+    margin-top: 15rem;
+    width: 80%;
+}
+
  }
 
  @media (min-width: 500px) and (max-width: 599px) { 
    
     .ctrl{
-        display: block;
+        display: flex;
         margin: 0%;
         }  
         .droit{
@@ -1127,7 +1153,7 @@ h6{
                 .gauche{
                     width: 100%;
                     height: 38rem;
-                    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
+                   
                 }
 
                 .titre{
@@ -1326,12 +1352,17 @@ form{
       margin-top: 4rem;
      
   }
-
+  .pippoi
+  {
+      margin-top: 15rem;
+      width: 90%;
+  }
+  
 }
 @media (min-width: 421px) and (max-width: 499px) { 
    
     .ctrl{
-        display: block;
+        display: flex;
         margin: 0%;
         }  
         .droit{
@@ -1362,7 +1393,7 @@ form{
                 .gauche{
                     width: 100%;
                     height: 36rem;
-                    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
+                    
                 }
 
                 
@@ -1565,6 +1596,14 @@ form{
     margin-bottom: 13%;
   }
    
+
+  .pippoi
+  {
+      margin-top: 15rem;
+      width: 90%;
+      font-size: 0.8rem;
+  }
+
 }
             
 
@@ -1574,13 +1613,13 @@ form{
 @media (min-width: 300px) and (max-width: 420px) { 
    
     .ctrl{
-        display: block;
+        display: flex;
         margin: 0%;
         }  
         .droit{
             width: 100%;
             height: 15rem;
-            margin-bottom: 2.5rem;
+            margin-bottom: 0.5rem;
             }
             
             .text3{
@@ -1607,8 +1646,7 @@ form{
                     border-radius: 0rem 0rem 0,5rem 0,5rem;
                     margin-right: 2%;
 
-                    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
-                    /* background-size:cover ; */
+                   
                 }
 
                 
@@ -1853,5 +1891,12 @@ form{
   .deuxx{
     margin-bottom: 8%;
   }
+  .pippoi
+  {
+      margin-top: 13rem;
+      width: 95%;
+      font-size: 0.8rem;
+  }
+ 
 }
 

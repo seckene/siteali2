@@ -45,7 +45,7 @@
     </header>
 
     
-    <h1>Programe Omra </h1>
+    <h1 class="inter">Programe Omra </h1>
     <div class="centre">
         <div class="goos22">
             <span>
