@@ -53,7 +53,7 @@
         <div class="gauche">
        
         <div class="ctrl">
-    <p class="pippoi">
+    <p class="pippoi1">
     Découvrez nos services pour l'organisation de votre Omra et Hadj en toute sérénité.<br>
     
    
@@ -77,13 +77,13 @@
     <h1>Omra & Hadj 2025</h1>
     <div class="centre">
         <div class="goos">
-        <a href="omrajan.php">
+        <a href="omra.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Janvier</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
@@ -98,7 +98,7 @@
     <div class="centre">
         
             <div class="goosA">
-            <a href="omrajan.php">
+            <a href="omra.php">
                 <span>
                     <p class="Omra2025">Omra</p>
                     <p class="unt">février</p>
@@ -122,13 +122,13 @@
     </div>
     <div class="centre">
         <div class="goosB">
-        <a href="omrajan.php">
+        <a href="omra.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Mars</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 MARS au 31 MARS</p>
 
@@ -142,7 +142,7 @@
     </div>
     <div class="centre">
         <div class="goosC">
-        <a href="omrajan.php">
+        <a href="omra.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Avril</p>
@@ -168,7 +168,7 @@
                 <p class="Omra20256">Hadj 2025</p>
             </span>
             <p class="deuxx">20 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 7500€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 

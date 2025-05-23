@@ -50,7 +50,8 @@
     
                <p class="tex44"> Dar as'salam Voyages MC Travel est une agence de voyages Omra pas cher
                     Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                    années.
+                    années.<br> <br> 
+                    
                 </p>
        </div>
 
@@ -60,7 +61,6 @@
 
 
     
-    <h1 class="inter">Formules Omra 2025</h1>
    
     <div class="centre">
         <div class="goos">
@@ -70,7 +70,7 @@
                 <p class="unt">Janvier</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
@@ -111,7 +111,7 @@
                 <p class="unt">Mars</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 Mars au 31 Mars</p>
 
@@ -152,7 +152,7 @@
                 <p class="unt">Mai</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 Mai au 31 Mai</p>
 
@@ -192,7 +192,7 @@
                 <p class="unt">juillet</p>
             </span>
             <p class="deuxx">10 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 juillet au 31 juillet</p>
 
@@ -223,9 +223,93 @@
 </div>
 <div class="text33">
 </div>
+<div class="text33">
+</div>
+<div class="centre">
+        
+        <div class="goos">
+        <a href="omrajan.php">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">Septembre</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <div class="rondj">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 septembre au 31 septembre</p>
+
+            </div>
+             </a>
+        </div>
+  
+</div>
+
+<div class="text33">
+</div>
+<div class="centre">
+        
+        <div class="goosA">
+        <a href="omrajan.php">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">Octobre</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 octobre au 31 octobre</p>
+
+            </div>
+             </a>
+        </div>
+  
+</div>
 
 
+<div class="text33">
+</div>
+<div class="centre">
+        
+        <div class="goos">
+        <a href="omrajan.php">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">Novembre</p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <div class="rondj">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 novembre au 30 novembre</p>
 
+            </div>
+             </a>
+        </div>
+  
+</div>
+
+<div class="text33">
+</div>
+<div class="centre">
+        
+        <div class="goosA">
+        <a href="omrajan.php">
+            <span>
+                <p class="Omra2025">Omra</p>
+                <p class="unt">Decembre </p>
+            </span>
+            <p class="deuxx">10 jours</p>
+            <div class="rond">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 decembre  au 31 decembre </p>
+
+            </div>
+             </a>
+        </div>
+  
+</div>
+
+<div class="text33">
+</div>
 
   
   <script src="ex.js"></script>

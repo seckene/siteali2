@@ -43,30 +43,29 @@
             </svg>
         </nav>
     </header>
+    <div class="ctrl">
+    <div class="gauche5">
+<div class="ctrl">
+    <p class="pippoi">
+    Découvrons le programme ensemble
+</p>
+</div>
+</div>
+</div>
 
-    
-    <h1 class="inter">Programe Omra </h1>
-    <div class="centre">
-        <div class="goos22">
-            <span>
-                <p class="Omra2025">Omra</p>
-                <p class="unt">Programe</p>
-            </span>
-            <p class="trois3">Offrez-vous un séjour unique dans cette chambre 5 étoiles alliant confort moderne et élégance. Spacieuse et soigneusement décorée, elle dispose d’un lit king-size, d’un mobilier haut de gamme et d’une atmosphère apaisante. Depuis votre fenêtre, profitez d’une vue directe et majestueuse sur la Kaaba, un privilège rare et inoubliable pour un moment spirituel et apaisant.</p>
-        
-            
-        </div>
-    </div>
 
-<div class="folome">
+  <div class="folome">
     <div class="premierjan">
     <h2>Premier jours</h2>
    </div>
+   
     <div class="janajan">
    <p31> -Départ / Arrivée : Paris CDG / Médine </p31><br>
    <p31>-Transfert : Bus climatisés – de l’aéroport de Médine à l’hôtel.</p31><br>
    <p31>-Hébergement : Séjour à Médine dans un hôtel situé à 450m de l’Esplanade</p31><br>
     <p31>-Durée : 4 nuits</p31>
+    
+
 </div>
 
 </div>
@@ -117,6 +116,55 @@
     <h2>Dixième jour</h2>
    </div>
     <div class="janajan">
+   <p31> Parmi les visites prévues durant votre séjour :<br> -le Mont Ouhoud,<br> -le cimetière d’Al-Baqi’,<br> -l’Université islamique de Médine <br> -le musée de La Mecque.</p31>
+ 
+</div>
+
+
+
+</div>
+        
+    </div>
+
+
+    <section id="www">
+   
+   <div class="goosE">
+   <p class="Omra20255">Al Baqi</p>
+           <br>
+  </div>
+ 
+  <div class="goosF">
+   <p class="Omra20255">Mount Uhud</p>
+           <br>
+  </div>
+ </section>
+
+
+ <section id="www">
+   
+   <div class="goosG">
+   <span>
+   <p class="Omra20255">Musées</p>
+           
+</span>
+  </div>
+ 
+  <div class="goosH">
+   <span>
+   <p class="Omra20255">JAMI3A</p>
+
+   </span>
+  
+ </section>
+
+
+
+ <div class="folome">
+    <div class="premierjan">
+    <h2>Dixième jour</h2>
+   </div>
+    <div class="janajan">
    <p31> -Transfert : Bus climatisés<br> – De l’hôtel vers l’aéroport
    Vol : Régulier Jeddah Paris (CDG) </p31>
  
@@ -125,20 +173,12 @@
 
 
 </div>
-<h2>Hôtel 5 étoiles</h2>
-<div class="centre">
-        <div class="goos23">
-        
-            <span class="metsa">
-                <p class="trois">-Petit déjeuner </p>
-                <p class="trois"> -Déjeuner </p>
-                
-                <p class="trois"> -Dîner inclus </p>
-            </span>
-            
-        </div>
         
     </div>
+
+
+
+
     <?php 
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
@@ -177,7 +217,13 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 }
 ?>
-<h1>inscription Omra</h1>
+
+
+
+<div class="espaces"></div>
+
+<h1 class="inter">inscription Omra</h1>
+<div class="cache">
   <div class="salif">
     <form method="post">
 
@@ -212,7 +258,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       <button type="submit" id="valide">S'inscrire</button>
       </div>
     </form>
-    
+</div>
   </div>
   </div>
 

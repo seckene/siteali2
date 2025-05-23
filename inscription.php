@@ -91,7 +91,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
              
             </span>
             <p class="deuxx">20 jours</p>
-            <div class="rond">
+            <div class="rondj">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
@@ -309,7 +309,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
   </div>
   </div>
 
-  <div></div>
+
 
   
 </body>

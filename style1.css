@@ -44,8 +44,19 @@ a{
     font-size: 0.8rem;
     font-family: "Boldonse";
     text-decoration: none;
+    outline: none;
+    text-decoration: none;
 }
 
+a:focus,
+a:active {
+  outline: none;
+  background: none;
+}
+
+a {
+    -webkit-tap-highlight-color: transparent;
+  }
 
 .ouff{
     color: white;
@@ -63,11 +74,25 @@ margin: 0.2%;
 }
 
 .droit{
-width: 70%;
-margin-bottom: 10rem;
+width: 80%;
+margin-bottom: 3rem;
 height: 15rem;
 
 }
+
+.gauche5{
+    width: 100%;
+    height: 55rem;
+margin-top: -8rem;
+z-index: -1;
+    background-repeat: no-repeat; 
+    background-image: url("dreerrernn.jpg");
+    background-size: cover;
+    border-radius: 0rem 0rem 2rem 2rem;
+margin-bottom:2rem;
+
+}
+
 
 .gauche{
     width: 100%;
@@ -160,6 +185,19 @@ object-fit: cover;
     object-position: center;
 
 }
+.goos5{
+    height: 34rem;
+    width: 60%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+object-fit: cover;
+    object-position: center;
+
+}
 .goosA{
     height: 34rem;
     width: 60%;
@@ -199,6 +237,79 @@ object-fit: cover;
     object-position: center;
 
 }
+
+
+.goosE{
+    height: 30rem;
+    width: 50%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Al-Baqi_Cemetery_2021.jpg/1200px-Al-Baqi_Cemetery_2021.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+margin: 2%;
+display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+}
+
+.goosF{
+    height: 30rem;
+    width: 50%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://scth.scene7.com/is/image/scth/uhud-mount-1:crop-760x570?defaultImage=uhud-mount-1");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+margin: 2%;
+display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+}
+
+
+
+
+.goosG{
+    height: 30rem;
+    width: 50%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://www.visitsaudi.com/content/dam/wvs/stories/kisswa-factory-new.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+margin: 2%;
+display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+}
+
+.goosH{
+    height: 30rem;
+    width: 50%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://www.islam-oumma.fr/wp-content/uploads/2023/01/Universite-de-Medine.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+margin: 2%;
+display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+}
+
 
 .centre{
     display: flex;
@@ -261,12 +372,22 @@ margin-bottom: 1%;
 }
 
 .rond{
-    background-color:#ccb293da;
-border: 2px solid whitesmoke;
-    height: 28vh;
+    background-color:#C3CDDE;
+border: 3px solid #C3CDDE ;
+    height: 29vh;
     width: 28%;
 
-    font-family: "Oswald";
+    font-family: "Boldonse";
+    margin-left: 72%;
+    border-radius: 10%;
+}
+.rondj{
+    background-color:#B7DAE0;
+border: 3px solid  #B7DAE0 ;
+    height: 29vh;
+    width: 28%;
+
+    font-family: "Boldonse";
     margin-left: 72%;
     border-radius: 10%;
 }
@@ -274,16 +395,17 @@ border: 2px solid whitesmoke;
     padding-top: 20%;
 }
 .quatre{
+    
     color: white;
-    font-size: 1.3rem;
+    font-size: 0.8rem;
     display: flex;
     justify-content: center;
 text-align: center;
 margin-top: 20%;
 }
 .cinque{
-    color: white;
-    font-size: 1.2rem;
+    color:white ;
+    font-size: 0.8rem;
     display: flex;
     justify-content: center;
 text-align: center;
@@ -357,59 +479,19 @@ h1{
         
         }
        
-    .goos5{
-        height: 35rem;
-        width: 60%;
-        margin-top: 2%;
-        display: block;
-     background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
-     background-repeat: no-repeat;
-     background-size: cover;
-  
-    border-radius: 1rem;
-    
-    }
-    .goos22{
-        height: 35rem;
-        width: 70%;
-        opacity: 100%;
-        margin-top: 2%;
-        display: block;
-     background-image: url("https://www.kayak.fr/rimg/himg/fd/b2/32/expedia_group-3727719-3371e0-943967.jpg?width=836&height=607&crop=true");
-     background-repeat: no-repeat;
-     background-size: cover;
-    border-radius: 1rem;
-   
-
-    
-    }
-    .goos23{
-        height: 35rem;
-        width: 60%;
-        margin-top: 10%;
-
-        display: block;
-     background-image: url("https://www.vallondevalrugues.com/_novaimg/4858879-1473035_0_952_4793_2248_2200_1032.jpg");
-     background-repeat: no-repeat;
-     background-size: cover;
-    border-radius: 1rem;
- 
-    
-    }
     
         .goos3:hover{
             border: 6px solid black;
           }
         h2{
-            font-size: 2rem;
+            font-size: 1.5rem;
             justify-content: center;
            text-align: center;
-           color: #a79f8f;
-           text-decoration: underline burlywood;
+           color: burlywood;
            margin-top: 9%;
            margin-bottom: 5%;
 
-           font-family: "Permanent Marker";
+           font-family: "Boldonse";
            
         }
 .passtext{
@@ -474,6 +556,7 @@ h4{
    align-items: center;
    text-align: center;
    color: black;
+   margin-top: 6rem;
    
  
     }
@@ -493,10 +576,11 @@ h4{
 
         label{
             display: block;
-        font-size: 0.8rem;
+        font-size: 0.6rem;
         font-family:"boldonse";
-        width: 90%;
+        width: 80%;
         color: burlywood;
+        margin-top: 1%;
       
         }
 
@@ -505,7 +589,20 @@ h4{
             justify-content: center;
             align-items: center;
             margin-bottom: 5rem;
+          width: 50%;
+    background-color:#2f505dc5;
+    border: 8rem solid B7DAE0;
+    border-radius:1rem ;
+          
         }
+
+.cache{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
         .salif2{
             display: flex;
             justify-content: center;
@@ -515,18 +612,20 @@ h4{
 
         #nom{
             height: 2rem;
-            width: 100%;
+            width:100%;
             border: 2px solid black;
             border-radius: 2rem;
         }
         #nom2{
-            height: 15rem;
+            height: 20rem;
             width: 100%;
             text-align: center;
         }
         form{
-         width: 50%;
-    
+         width: 80%;
+   margin-top: 2rem;
+   
+   margin-bottom: 2rem;
         }
 .site{
    display: block;
@@ -604,7 +703,7 @@ p29{
 }
 
 #valide{
-    margin-top: 4%;
+    margin-top: 2%;
     background-color: burlywood;      /* Couleur de fond (bleu) */
     color: white;                   /* Couleur du texte */
     border: none;    
@@ -669,7 +768,20 @@ p29{
     display: block;
     justify-content: center;
     text-align: center;
-    width: 60%;
+ 
+    font-size: 1.5rem;
+    color: white;
+    font-family: "boldonse";
+    
+}
+.pippoi1
+{
+    color: white;
+    margin-top: 20rem;
+    display: block;
+    justify-content: center;
+    text-align: center;
+ 
     font-size: 1rem;
     color: white;
     font-family: "boldonse";
@@ -678,6 +790,10 @@ p29{
 
 .tg{
     color: white;
+}
+
+.espaces{
+    margin-top: 10rem;
 }
 
 
@@ -690,6 +806,11 @@ p29{
         margin-top: -14rem;
 z-index: -1;
         }
+        .gauche5{
+            height: 75rem;
+            margin-top: -14rem;
+    z-index: -1;
+            }
         .text3{
         margin-top: 0%;
         }
@@ -716,6 +837,11 @@ z-index: -1;
         margin-top: 20rem;
         margin-left: 70%;
         }
+        .rondj{
+            height: 15vh;
+            margin-top: 20rem;
+            margin-left: 70%;
+            }
         .quatre{
         margin-top: 10%;
         }
@@ -787,6 +913,11 @@ z-index: -1;
             margin-top: -11rem;
             z-index: -1;
             }
+            .gauche5{
+                height: 60rem;
+                margin-top: -11rem;
+                z-index: -1;
+                }
             .text3{
             margin-top: 0%;
             }
@@ -814,6 +945,11 @@ z-index: -1;
             margin-top: 10rem;
             margin-left: 70%;
             }
+            .rondj{
+                height: 20vh;
+                margin-top: 10rem;
+                margin-left: 70%;
+                }
             .quatre{
             margin-top: 10%;
             }
@@ -901,6 +1037,11 @@ z-index: -1;
             width: 35%;
             margin-left: 65%;
         }
+        .rondj{
+            height:26vh;
+            width: 35%;
+            margin-left: 65%;
+        }
         .goos{
             width: 70%;
             height: 35rem;
@@ -932,10 +1073,10 @@ z-index: -1;
                             }
                          
                             h2{
-                                font-size: 2rem;
+                                font-size: 1.5rem;
                                 justify-content: center;
                                text-align: center;
-                               color: #a79f8f;
+                             
                                text-decoration: underline burlywood;
                                margin-top: 10%;
                                margin-bottom: 10%;
@@ -982,7 +1123,10 @@ h6{
       margin-top: 10rem;
      
   }
-
+  .tex444{
+    margin-top: 2rem;
+  }
+  
  }
  
 @media (min-width: 600px) and (max-width: 989px) { 
@@ -994,6 +1138,7 @@ h6{
         .droit{
             width: 100%;
             height: 20rem;
+            margin-bottom: 0rem;
             }
             
             
@@ -1006,6 +1151,11 @@ h6{
                 width: 100%;
                 height: 38rem;
             }
+ 
+            .gauche5{
+                width: 100%;
+                height: 38rem;
+            }
 
             .text2{
                 height: 65%;
@@ -1014,14 +1164,11 @@ h6{
             .tex4{
             
                 font-size: 1.5rem;
-             width: 80%;
+             width: 90%;
                 margin-top: 10%;
                 
                 }
-                .gauche{
-                    height: 38rem;
-                }
-
+               
                
                 
                 .titre{
@@ -1052,8 +1199,10 @@ h6{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:rgba(0, 0, 0, 0.555);;
+                    background-color:rgb(0, 0, 0);;
                     height: 160vh;
+                    border-bottom-left-radius:1.5rem ;
+border-top-left-radius:1.5rem ;
                 }
 
                 #ays{
@@ -1074,8 +1223,8 @@ h6{
               .croix{
                 width: 30%;
                 height: 5%;
-                border-radius: 2%;
-                background-color: rgba(0, 0, 0, 0.555);;
+                border-radius: 2rem;
+                background-color: rgb(0, 0, 0);;
                 color: white;
                 border:none ;
                 display: block;
@@ -1089,7 +1238,14 @@ h6{
                 .rond{
                     height: 30vh;
                     width: 43%;
-                    margin-left: 2%;
+                    
+                    margin-left: 52%;
+                }
+                .rondj{
+                    height: 30vh;
+                    width: 43%;
+                    
+                    margin-left: 52%;
                 }
                 .goos{
                         height: 30rem;
@@ -1113,6 +1269,23 @@ h6{
                         height: 30rem;
                         width: 95%;
                     }
+                    .goosE{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosF{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosG{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosH{
+                        height: 30rem;
+                        width: 95%;
+                    }
+
                     .goos5{
                         height: 30rem;
                         width: 80%;
@@ -1135,10 +1308,10 @@ h6{
                             }
                          
                             h2{
-                                font-size: 2rem;
+                                font-size:1.5rem;
                                 justify-content: center;
                                text-align: center;
-                               color: #a79f8f;
+                               
                                text-decoration: underline burlywood;
                                margin-top: 10%;
                                margin-bottom: 10%;
@@ -1198,7 +1371,23 @@ h6{
     margin-top: 15rem;
     width: 80%;
 }
-
+.pippoi1{
+    margin-top: 15rem;
+    width: 80%;  
+}
+.tex444{
+    margin-top: 2rem;
+  }
+  #www{
+    flex-wrap: wrap;
+     
+   }
+   .janajan{
+    width: 50%;
+   }
+   .salif{
+    width: 80%;
+  }
  }
 
  @media (min-width: 500px) and (max-width: 599px) { 
@@ -1211,7 +1400,7 @@ h6{
             width: 100%;
             height: 18rem;
             
-            margin-bottom: 15rem;
+            margin-bottom: 5rem;
             }
           
             .text3{
@@ -1229,6 +1418,11 @@ h6{
                 
                 }
                 .gauche{
+                    width: 100%;
+                    height: 38rem;
+                   
+                }
+                .gauche5{
                     width: 100%;
                     height: 38rem;
                    
@@ -1265,8 +1459,10 @@ h6{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:rgba(0, 0, 0, 0.555);;
+                    background-color:rgb(0, 0, 0);;
                     height: 100vh;
+                    border-bottom-left-radius:1.5rem ;
+border-top-left-radius:1.5rem ;
                 }
 
                 #ays{
@@ -1287,8 +1483,8 @@ h6{
               .croix{
                 width: 30%;
                 height: 5%;
-                border-radius: 2%;
-                background-color: rgba(0, 0, 0, 0.555);;
+                border-radius: 2rem;
+                background-color: rgb(0, 0, 0);;
                 color: white;
                 border:none ;
                 display: block;
@@ -1301,7 +1497,12 @@ h6{
                 .rond{
                     height: 30vh;
                     width: 43%;
-                    margin-left: 2%;
+                    margin-left: 52%;
+                }
+                .rondj{
+                    height: 30vh;
+                    width: 43%;
+                    margin-left: 52%;
                 }
                 .goos{
                         height: 30rem;
@@ -1322,6 +1523,22 @@ h6{
                         width: 95%;
                     }
                     .goos22{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosE{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosF{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosG{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goosH{
                         height: 30rem;
                         width: 95%;
                     }
@@ -1347,10 +1564,9 @@ h6{
                             }
                          
                             h2{
-                                font-size: 2rem;
+                                font-size: 1.5rem;
                                 justify-content: center;
                                text-align: center;
-                               color: #a79f8f;
                                text-decoration: underline burlywood;
                                margin-top: 10%;
                                margin-bottom: 10%;
@@ -1367,7 +1583,7 @@ h6{
                                 
                             }
                             .tex44{
-                                width:80%;  
+                                width:90%;  
                                 font-size: 1.3rem;
                                 margin-bottom: 5%;
                                
@@ -1445,7 +1661,22 @@ form{
       margin-top: 15rem;
       width: 90%;
   }
-  
+
+  .pippoi1{
+    margin-top: 15rem;
+    width: 90%;
+  }
+  .tex444{
+    margin-top: 2rem;
+  }
+  #www{
+    flex-wrap: wrap;
+     
+   }
+   
+ .salif{
+    width: 80%;
+  }
 }
 @media (min-width: 421px) and (max-width: 499px) { 
    
@@ -1456,7 +1687,7 @@ form{
         .droit{
             width: 100%;
             height: 15rem;
-            margin-bottom: 8rem;
+            margin-bottom: 0rem;
             }
             
             .text3{
@@ -1479,6 +1710,11 @@ form{
                 
                 }
                 .gauche{
+                    width: 100%;
+                    height: 36rem;
+                    
+                }
+                .gauche5{
                     width: 100%;
                     height: 36rem;
                     
@@ -1513,8 +1749,10 @@ form{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:rgba(0, 0, 0, 0.555);;
+                    background-color:rgb(0, 0, 0);;
                     height: 110vh;
+                    border-bottom-left-radius:1.5rem ;
+border-top-left-radius:1.5rem ;
                 }
                 #ays{
                     justify-content: center;
@@ -1532,11 +1770,12 @@ form{
                 }
                 
               .croix{
+                
                 width: 30%;
                 height: 5%;
-                border-radius: 3%;
+                border-radius: 2rem;
                 border:none ;
-                background-color: rgba(0, 0, 0, 0.555);;
+                background-color: rgb(0, 0, 0);;
                 color: white;
                 display: block;
               }
@@ -1547,7 +1786,12 @@ form{
                 .rond{
                     height: 22vh;
                     width: 60%;
-                    margin-left: 2%;
+                    margin-left: 38%;
+                }
+                .rondj{
+                    height: 22vh;
+                    width: 60%;
+                    margin-left: 38%;
                 }
                 .goos{
                         height: 25rem;
@@ -1569,6 +1813,19 @@ form{
                         width: 95%;
                     }
                     .goos22{
+                        height: 25rem;
+                        width: 95%;
+                    }
+                    .goosE{
+                        height: 25rem;
+                        width: 95%;
+                    } .goosF{
+                        height: 25rem;
+                        width: 95%;
+                    } .goosG{
+                        height: 25rem;
+                        width: 95%;
+                    } .goosH{
                         height: 25rem;
                         width: 95%;
                     }
@@ -1599,10 +1856,9 @@ form{
                             
                             }
                             h2{
-                                font-size: 2rem;
+                                font-size: 1.5rem;
                                 justify-content: center;
                                text-align: center;
-                               color: #a79f8f;
                                text-decoration: underline burlywood;
                                margin-top: 10%;
                                margin-bottom: 10%;
@@ -1702,6 +1958,19 @@ form{
       width: 90%;
       font-size: 0.8rem;
   }
+  .pippoi1
+  {
+      margin-top: 15rem;
+      width: 90%;
+      font-size: 0.8rem;
+  }
+  .tex444{
+    margin-top: 0rem;
+  }
+  
+ .salif{
+    width: 100%;
+  }
 
 }
             
@@ -1716,9 +1985,9 @@ form{
         margin: 0%;
         }  
         .droit{
-            width: 100%;
+            width: 95%;
             height: 15rem;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.8rem;
             }
             
             .text3{
@@ -1731,11 +2000,11 @@ form{
             }
             .tex4{
   
-                width:90%;  
+                width:100%;  
                 margin: 1%;
                 margin-top: 0%;
                 margin-bottom: 0%;
-                font-size: 1rem;
+                font-size: 1.1rem;
         
                 
                 }
@@ -1747,7 +2016,14 @@ form{
 
                    
                 }
+                .gauche5{
+                    width: 100%;
+                    height: 30rem;
+                    border-radius: 0rem 0rem 0,5rem 0,5rem;
+                    margin-right: 0%;
 
+                   
+                }
                 
            
                 .titre{
@@ -1778,9 +2054,10 @@ form{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:rgba(0, 0, 0, 0.932);
+                    background-color:rgb(0, 0, 0);
                     height: 110vh;
-
+border-bottom-left-radius:1.5rem ;
+border-top-left-radius:1.5rem ;
                 }
                 #ays{
                     justify-content: center;
@@ -1802,9 +2079,10 @@ form{
                 height: 5%;
                 border-radius: 2%;
                 border:none ;
-                background-color:rgba(0, 0, 0, 0.555);
+                background-color:rgb(0, 0, 0);
                 color:white ;
                 display: block;
+                border-radius: 1.5rem;
               }
               .boss{
                 display: flex;
@@ -1812,6 +2090,13 @@ form{
             }
 
             .rond{
+               
+                height: 20vh;
+                width: 60%;
+                margin-left: 38%;
+                margin-top: 0.5rem;
+            }
+            .rondj{
                
                 height: 20vh;
                 width: 60%;
@@ -1841,6 +2126,24 @@ form{
                     height: 23rem;
                     width: 95%;
                 }
+                .goosE{
+                    height: 23rem;
+                    width: 95%;
+                }
+                .goosF{
+                    height: 23rem;
+                    width: 95%;
+                }
+                .goosG{
+                    height: 23rem;
+                    width: 95%;
+                }
+
+                .goosH{
+                    height: 23rem;
+                    width: 95%;
+                }
+
                 .goos5{
                     height: 23rem;
                     width: 95%;
@@ -2006,6 +2309,21 @@ form{
       width: 95%;
       font-size: 0.8rem;
   }
- 
+  .pippoi1
+  {
+      margin-top: 13rem;
+      width: 95%;
+      font-size: 0.8rem;
+  }
+  .tex444{
+    margin-top: 2rem;
+  }
+ .inter{
+    margin-top: 3rem;
+    font-size: 1.2rem;
+ }
+ .salif{
+  width: 100%;
+}
 }
 
