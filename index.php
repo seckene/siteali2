@@ -220,8 +220,12 @@
   
  
  
- 
+  <!-- <footer>
+  <a href="mentions-legales.html">Mentions légales</a>
+</footer>
+  -->
     <script src="ex.js"></script>
+
 </body>
 
 </html>

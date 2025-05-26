@@ -21,18 +21,18 @@
         <nav class="navb">
             <ul class="logetnom">
                 <img src="android-icon-96x96.png">
-                <li class="titre">Dar as'salam</li>
+                <li class="titre44">Dar as'salam</li>
             </ul>
 
             <ul class="reste">
                 <div class="fab">
                     <button class="croix">X</button>
-                    <li id="ays"><a href="index.php"> Accueil</a></li>
-                    <li id="ays"><a href="omra.php">Omra 2025</a></li>
-                    <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
-                    <li id="ays"><a href="administratif.php">Administratif</a></li>
+                    <li id="ays"><a href="index.php"class="lienA"> Accueil</a></li>
+                    <li id="ays"><a href="omra.php"class="lienA">Omra 2025</a></li>
+                    <li id="ays"><a href="inscription.php"class="lienA">Inscription Hadj 2025</a></li>
+                    <li id="ays"><a href="administratif.php"class="lienA">Administratif</a></li>
                    
-                    <li id="ays"><a href="contact.php"> Contact</a></li>
+                    <li id="ays"><a href="contact.php"class="lienA"> Contact</a></li>
 
                 </div>
             </ul>
@@ -44,30 +44,45 @@
         </nav>
     </header>
 
-                      
-  <div class="salif2">
+  
+
+    <div class="site">
+        
+  <h2>Formulaire de contact</h2>
+  <div class="cache">
+
+  <div class="salif">
     <form method="post">
 
-    <label for="nom" > Nom</label>
-      <input type="text" id="nom"  name="nom" required >
+    <label for="nom">Nom </label>
+      <input type="text" id="nom" name="nom" required>
 
-      <label for="email">Email </label>
+
+
+      <label for="nom">Prénom </label>
+      <input type="text" id="nom" name="nom" required>
+
+
+      <label for="email">Email (facultatif)</label>
       <input type="email" id="nom" name="email">
 
-      <label for="ville">Message </label>
-      <input type="text" id="nom2" name="ville" required>
+      <label for="text">Message</label>
+      <input type="text" id="message" name="text">
 
+      
+      </span>
+      
       <div class="valide2">
-      <button type="submit">S'inscrire</button>
-
-</div>
+      <button type="submit" id="valide">Envoyer</button>
+      </div>
     </form>
     
   </div>
+  </div>
+</div>
+
+
   
-    </div>
-
-
  
     <script src="ex.js"></script>
 </body>

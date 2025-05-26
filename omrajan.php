@@ -21,26 +21,23 @@
         <nav class="navb">
             <ul class="logetnom">
                 <img src="android-icon-96x96.png">
-                <li class="titre">Dar as'salam</li>
+                <li class="titre33">Dar as'salam</li>
             </ul>
 
             <ul class="reste">
                 <div class="fab">
                     <button class="croix">X</button>
-                    <li id="ays"><a href="index.php"> Accueil</a></li>
-                    <li id="ays"><a href="omra.php">Omra 2025</a></li>
-                    <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
-                    <li id="ays"><a href="administratif.php">Administratif</a></li>
+                    <li id="ays"><a href="index.php" class="oiq"> Accueil</a></li>
+                    <li id="ays"><a href="omra.php"class="oiq">Omra 2025</a></li>
+                    <li id="ays"><a href="inscription.php" class="oiq">Inscription Hadj 2025</a></li>
+                    <li id="ays"><a href="administratif.php" class="oiq">Administratif</a></li>
                    
-                    <li id="ays"><a href="contact.php"> Contact</a></li>
+                    <li id="ays"><a href="contact.php"class="oiq"> Contact</a></li>
 
                 </div>
             </ul>
-            <svg xmlns="http://www.w3.org/2000/svg" height="32" width="28" viewBox="0 0 448 512"
-                class="boss"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
-                <path fill="#030303"
-                    d="M0 96C0 78.3 14.3 64 32 64l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 128C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 288c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32L32 448c-17.7 0-32-14.3-32-32s14.3-32 32-32l384 0c17.7 0 32 14.3 32 32z" />
-            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" height="32" width="28" viewBox="0 0 448 512" class="boss"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill="#ffffff" d="M0 96C0 78.3 14.3 64 32 64l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 128C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 288c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32L32 448c-17.7 0-32-14.3-32-32s14.3-32 32-32l384 0c17.7 0 32 14.3 32 32z"/></svg>
+
         </nav>
     </header>
     <div class="ctrl">

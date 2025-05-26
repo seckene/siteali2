@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{  background-color:white;
+    
 }
 .navb{display: flex;
     align-items: center;
@@ -19,9 +20,22 @@ text-align: center;
     margin-left: 5%;
     font-size: 1.4rem;
     font-family: "Boldonse";
-    color: burlywood;
-    text-decoration: underline;
+    color: white;
     
+}
+.titre44{
+    margin-left: 5%;
+    font-size: 1.4rem;
+    font-family: "Boldonse";
+    color: burlywood;
+    
+}
+.titre33{
+    
+    margin-left: 5%;
+    font-size: 1.4rem;
+    font-family: "Boldonse";
+    color: white;
 }
 .logetnom{
     display: flex ;
@@ -39,6 +53,17 @@ text-align: center;
 }
 
 a{
+    color:white;
+    
+    font-size: 0.8rem;
+    font-family: "Boldonse";
+    text-decoration: none;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.lienA{
     color:burlywood;
     
     font-size: 0.8rem;
@@ -48,6 +73,10 @@ a{
     text-decoration: none;
 }
 
+
+.oiq{
+    color: white;
+}
 a:focus,
 a:active {
   outline: none;
@@ -70,7 +99,7 @@ a {
     flex-wrap: wrap;
 margin-top: 2rem;
 width: 100%;
-margin: 0.2%;
+
 }
 
 .droit{
@@ -86,7 +115,7 @@ height: 15rem;
 margin-top: -8rem;
 z-index: -1;
     background-repeat: no-repeat; 
-    background-image: url("dreerrernn.jpg");
+    background-image: url("vrai.png");
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
 margin-bottom:2rem;
@@ -507,9 +536,10 @@ h1{
 }
 
 footer{
-    margin-top: 2%;
-    background-color: black;
-    height: 20rem;
+    text-align: center; 
+    padding: 1rem; 
+    background-color: rgb(0, 0, 0);
+    
 }
 .foll{
     margin-top: 2%;
@@ -576,7 +606,7 @@ h4{
 
         label{
             display: block;
-        font-size: 0.6rem;
+        font-size: 0.8rem;
         font-family:"boldonse";
         width: 80%;
         color: burlywood;
@@ -590,7 +620,7 @@ h4{
             align-items: center;
             margin-bottom: 5rem;
           width: 50%;
-    background-color:#2f505dc5;
+    background-color:#ABD1D8;
     border: 8rem solid B7DAE0;
     border-radius:1rem ;
           
@@ -611,15 +641,22 @@ align-items: center;
         }
 
         #nom{
-            height: 2rem;
+            height: 2.5rem;
             width:100%;
             border: 2px solid black;
-            border-radius: 2rem;
+            border-radius: 0.5rem;
         }
         #nom2{
             height: 20rem;
             width: 100%;
             text-align: center;
+        }
+        #message{
+            
+            height: 10rem;
+            width:100%;
+            border: 2px solid black;
+            border-radius: 1rem;
         }
         form{
          width: 80%;
@@ -763,27 +800,24 @@ p29{
   
 .pippoi
 {
-    color: white;
     margin-top: 20rem;
     display: block;
     justify-content: center;
     text-align: center;
  
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     color: white;
     font-family: "boldonse";
     
 }
 .pippoi1
 {
-    color: white;
     margin-top: 20rem;
     display: block;
     justify-content: center;
     text-align: center;
- 
-    font-size: 1rem;
     color: white;
+    font-size: 1.2rem;
     font-family: "boldonse";
     
 }
@@ -869,7 +903,7 @@ z-index: -1;
         width: 40%;
         }
         footer{
-        height: 30rem;
+        height: 3rem;
         }
         .Omra20256{
         margin-left: 0%;
@@ -900,6 +934,8 @@ z-index: -1;
             font-family:"Boldonse" ;
             text-decoration:  0.5rem underline burlywood;
           }
+
+
     }
     
     
@@ -913,11 +949,14 @@ z-index: -1;
             margin-top: -11rem;
             z-index: -1;
             }
-            .gauche5{
+            .gauche5 {
+                width: 100%;
+                object-fit: cover; /* ou contain selon le besoin */
+                display: block;
                 height: 60rem;
-                margin-top: -11rem;
-                z-index: -1;
-                }
+               margin-top: -14%;
+                z-index: -1; /* ou supprime-le si pas nécessaire */
+            }
             .text3{
             margin-top: 0%;
             }
@@ -975,7 +1014,7 @@ z-index: -1;
             width: 40%;
             }
             footer{
-            height: 30rem;
+            height: 3rem;
             }
             .Omra20256{
             margin-left: 0%;
@@ -1103,6 +1142,10 @@ a{
     font-size: 0.6rem;
 
 }
+
+.lienA{
+    font-size: 0.6rem;}
+
 .trois{
     margin-bottom: 4rem;
 }
@@ -1175,6 +1218,14 @@ h6{
                     font-size: 0.8rem;
                     width: 100%;
                 }
+                
+                .titre44{
+                    font-size: 0.8rem;
+                    width: 100%;
+                }
+                
+.titre33{ font-size: 0.8rem;
+    width: 100%;}
                 .logetnom{
                     width: 100%;
                     margin-right: 30%;
@@ -1218,6 +1269,12 @@ border-top-left-radius:1.5rem ;
                    font-size: 0.7rem;
                     margin-top: 5%;
                     color:burlywood;
+                }
+                .lienA{
+                    
+                   font-size: 0.7rem;
+                   margin-top: 5%;
+                   color:burlywood;
                 }
                 
               .croix{
@@ -1298,13 +1355,13 @@ border-top-left-radius:1.5rem ;
                             }
                            
                             .goos2{
-                                height: 20em;
-                                width: 50%;
+                                height: 35em;
+                                width: 95%;
                                 margin-bottom: 10%;
                             }
                             .goos3{
-                                height: 20rem;
-                                width: 50%;
+                                height: 35rem;
+                                width: 95%;
                             }
                          
                             h2{
@@ -1324,7 +1381,7 @@ border-top-left-radius:1.5rem ;
                             footer{
                                 margin-top: 15%;
                                 background-color: black;
-                                height: 16rem;
+                               
                                 
                             }
                             .tex44{
@@ -1428,11 +1485,15 @@ border-top-left-radius:1.5rem ;
                    
                 }
 
-                .titre{
+                .titre44{
                     font-size: 1.2rem;
                 }
            
                 .titre{
+                    font-size: 1.2rem;
+                }
+           
+                .titre33{
                     font-size: 0.9rem;
                 }
                 .logetnom{
@@ -1478,6 +1539,14 @@ border-top-left-radius:1.5rem ;
                    font-size: 0.7rem;
                     margin-top: 5%;
                     color:burlywood;
+                }
+
+
+                .lienA{
+                    
+                   font-size: 0.7rem;
+                   margin-top: 5%;
+                   color:burlywood;
                 }
                 
               .croix{
@@ -1554,13 +1623,13 @@ border-top-left-radius:1.5rem ;
                             }
                             
                             .goos2{
-                                height: 15em;
-                                width: 50%;
+                                height: 20em;
+                                width: 95%;
                                 margin-bottom: 10%;
                             }
                             .goos3{
-                                height: 15rem;
-                                width: 50%;
+                                height: 20rem;
+                                width: 95%;
                             }
                          
                             h2{
@@ -1579,7 +1648,7 @@ border-top-left-radius:1.5rem ;
                             footer{
                                 margin-top: 15%;
                                 background-color: black;
-                                height: 13rem;
+                              
                                 
                             }
                             .tex44{
@@ -1725,6 +1794,14 @@ form{
                 .titre{
                     font-size: 0.9rem;
                 }
+                .titre44{
+                    font-size: 0.9rem;
+                }
+                .titre33{
+                    
+                    font-size: 0.9rem;
+
+                }
                 .logetnom{
                     width: 100%;
                     margin-right: 30%;
@@ -1767,6 +1844,12 @@ border-top-left-radius:1.5rem ;
                    font-size: 0.7rem;
                     margin-top: 5%;
                     color:burlywood;
+                }
+                .lienA{
+                    
+                   font-size: 0.7rem;
+                   margin-top: 5%;
+                   color:burlywood;
                 }
                 
               .croix{
@@ -1871,8 +1954,7 @@ border-top-left-radius:1.5rem ;
                             footer{
                                 margin-top: 15%;
                                 background-color: black;
-                                height: 13rem;
-                                
+                               
                             }
                             .tex44{
                                 width:95%;  
@@ -2030,6 +2112,15 @@ form{
                     font-size: 0.9rem;
                     text-decoration: none;
                 }
+                .titre44{
+                    font-size: 0.9rem;
+                    text-decoration: none;
+                }
+                .titre33{
+                
+                    font-size: 0.9rem;
+                    text-decoration: none;
+                }
                 .logetnom{
                     width: 100%;
                     margin-right: 15%;
@@ -2073,7 +2164,12 @@ border-top-left-radius:1.5rem ;
                     margin-top: 5%;
                     color:burlywood;
                 }
-                
+                .lienA{
+                    
+                    font-size: 0.5rem;
+                    margin-top: 5%;
+                    color:burlywood;
+                }
               .croix{
                 width: 30%;
                 height: 5%;
@@ -2201,7 +2297,7 @@ border-top-left-radius:1.5rem ;
                               footer{
                                 margin-top: 15%;
                                 background-color: black;
-                                height: 13rem;
+                             
                                 
                             }
                             .foll{
@@ -2323,7 +2419,20 @@ form{
     font-size: 1.2rem;
  }
  .salif{
-  width: 100%;
+  width: 90%;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+
+.cache{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+label{
+font-size: 0.6rem;
 }
 }
 

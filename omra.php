@@ -21,18 +21,18 @@
         <nav class="navb">
             <ul class="logetnom">
                 <img src="android-icon-96x96.png">
-                <li class="titre">Dar as'salam</li>
+                <li class="titre44">Dar as'salam</li>
             </ul>
 
             <ul class="reste">
                 <div class="fab">
                     <button class="croix">X</button>
-                    <li id="ays"><a href="index.php"> Accueil</a></li>
-                    <li id="ays"><a href="omra.php">Omra 2025</a></li>
-                    <li id="ays"><a href="inscription.php">Inscription Hadj 2025</a></li>
-                    <li id="ays"><a href="administratif.php">Administratif</a></li>
-             
-                    <li id="ays"><a href="contact.php"> Contact</a></li>
+                    <li id="ays"><a href="index.php"class="lienA"> Accueil</a></li>
+                    <li id="ays"><a href="omra.php"class="lienA">Omra 2025</a></li>
+                    <li id="ays"><a href="inscription.php"class="lienA">Inscription Hadj 2025</a></li>
+                    <li id="ays"><a href="administratif.php"class="lienA">Administratif</a></li>
+                   
+                    <li id="ays"><a href="contact.php"class="lienA"> Contact</a></li>
 
                 </div>
             </ul>
@@ -46,14 +46,8 @@
 
 
 
-<div class="tex444">
-    
-               <p class="tex44"> Dar as'salam Voyages MC Travel est une agence de voyages Omra pas cher
-                    Riche et forte de son expérience dans l’organisation de Hajj et de Omra pas cher depuis plusieurs
-                    années.<br> <br> 
-                    
-                </p>
-       </div>
+    <h1 class="inter">Omra 2025 </h1>
+                
 
 
 
