@@ -115,7 +115,7 @@ height: 15rem;
 margin-top: -8rem;
 z-index: -1;
     background-repeat: no-repeat; 
-    background-image: url("vrai.png");
+    background-image: url("ChatGPT\ Image\ 16\ mai\ 2025\,\ 10_06_09.png");
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
 margin-bottom:2rem;
@@ -129,7 +129,7 @@ margin-bottom:2rem;
 margin-top: -8rem;
 z-index: -1;
     background-repeat: no-repeat; 
-    background-image: url("ChatGPT\ Image\ 16\ mai\ 2025\,\ 10_06_09.png");
+    background-image: url("vrai.png");
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
 margin-bottom:2rem;
@@ -181,7 +181,7 @@ margin-bottom:2rem;
 .tex4{
   color: black;
   
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-family:'Segoe UI';
   width: 95%; 
 margin-top: 6rem;
 margin-bottom: 10rem;
@@ -358,11 +358,11 @@ span{
 }
 .Omra20255{
     display: flex;
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     color: white;
     margin-top: 4%;
     text-decoration: underline burlywood;
-    margin-left: 5%;
+   
     font-family: "Oswald";
 }
 .Omra20256{
@@ -620,7 +620,7 @@ h4{
             align-items: center;
             margin-bottom: 5rem;
           width: 50%;
-    background-color:#ABD1D8;
+    background-color:black;
     border: 8rem solid B7DAE0;
     border-radius:1rem ;
           
@@ -812,7 +812,7 @@ p29{
 }
 .pippoi1
 {
-    margin-top: 20rem;
+    margin-top: 15rem;
     display: block;
     justify-content: center;
     text-align: center;
@@ -946,7 +946,7 @@ z-index: -1;
             }
             .gauche{
             height: 60rem;
-            margin-top: -11rem;
+            margin-top: -13rem;
             z-index: -1;
             }
             .gauche5 {
@@ -965,7 +965,7 @@ z-index: -1;
             padding: 2rem;
             }
             .tex4{
-            width:100%;
+            width:80%;
             margin-top: 10%;
             text-align: center;
             font-size: 1.8rem;
@@ -975,6 +975,12 @@ z-index: -1;
                 margin-bottom: 0%;
                 text-align: center;
                 font-size: 2.2rem;
+                }
+                .pippoi1{
+                    font-size: 1.3rem;
+                }
+                .pippoi{
+                    font-size: 1.7rem;
                 }
             .trois{
             margin-bottom: 0%;
@@ -2160,7 +2166,7 @@ border-top-left-radius:1.5rem ;
                     
                 }
                 a{
-                    font-size: 0.5rem;
+                    font-size: 0.6rem;
                     margin-top: 5%;
                     color:burlywood;
                 }

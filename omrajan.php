@@ -149,7 +149,7 @@
  
   <div class="goosH">
    <span>
-   <p class="Omra20255">JAMI3A</p>
+   <p class="Omra20255">université de medine</p>
 
    </span>
   
