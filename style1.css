@@ -181,7 +181,7 @@ margin-bottom:2rem;
 .tex4{
   color: black;
   
-  font-family:'Segoe UI';
+  font-family:"Noto Serif";
   width: 95%; 
 margin-top: 6rem;
 margin-bottom: 10rem;
@@ -596,7 +596,7 @@ h4{
         font-size: 1.8rem;
         color: black;
    
-        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+        font-family:"Noto Serif";
 
         margin-bottom: 5%;
         }
@@ -1012,12 +1012,12 @@ z-index: -1;
             height: 40rem;
             }
             .goos3{
-            height: 38rem;
+            height: 40rem;
             width: 50%;
             }
             .goos2{
             height: 40rem;
-            width: 40%;
+            width: 50%;
             }
             footer{
             height: 3rem;
@@ -1878,7 +1878,7 @@ border-top-left-radius:1.5rem ;
                     margin-left: 38%;
                 }
                 .rondj{
-                    height: 22vh;
+                    height: 21vh;
                     width: 60%;
                     margin-left: 38%;
                 }
@@ -1923,7 +1923,7 @@ border-top-left-radius:1.5rem ;
                         width: 95%;
                     }
                     .trois{
-                        margin-bottom: 5%;
+                        margin-bottom: 3%;
                         font-size: 1.1rem;
                         } 
                         .quatre{
@@ -2036,7 +2036,7 @@ form{
    }
 
    .deuxx{
-    margin-bottom: 13%;
+    margin-bottom: 9%;
   }
    
 
