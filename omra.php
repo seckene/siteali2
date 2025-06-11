@@ -63,7 +63,7 @@
 
     
    
-    <div class="centre">
+    <div class="ligne-cartes">
         <div class="goos">
         <a href="omrajan.php">
             <span>
@@ -77,12 +77,10 @@
 
             </div>
 </a>
-        </div>
+       
     </div>
-    <div class="text33">
-      
-    </div>
-    <div class="centre">
+   
+
         
             <div class="goosA">
             <a href="omrajan.php">
@@ -99,11 +97,9 @@
 </a>
             </div>
       
-    </div>
-    <div class="text33">
-      
-    </div>
-    <div class="centre">
+    
+ 
+  
         
         <div class="goos">
         <a href="omrajan.php">
@@ -118,12 +114,10 @@
 
             </div>
 </a>
-        </div>
-  
-</div>
-<div class="text33">
-</div>
-<div class="centre">
+    
+  </div>
+
+
         
         <div class="goosA">
         <a href="omrajan.php">
@@ -140,11 +134,9 @@
 </a>
         </div>
   
-</div>
-<div class="text33">
-</div>
 
-<div class="centre">
+
+
         
         <div class="goos">
         <a href="omrajan.php">
@@ -161,10 +153,7 @@
 </a>
         </div>
   
-</div>
-<div class="text33">
-</div>
-<div class="centre">
+
         
         <div class="goosA">
         <a href="omrajan.php">
@@ -180,11 +169,8 @@
             </div>
             </a> 
        </div>
-  
-</div>
-<div class="text33">
-</div>
-<div class="centre">
+
+
         
         <div class="goos">
         <a href="omrajan.php">
@@ -201,10 +187,6 @@
              </a>
         </div>
   
-</div>
-<div class="text33">
-</div>
-<div class="centre">
         
         <div class="goosA">
         <a href="omrajan.php">
@@ -221,12 +203,6 @@
 </a>
         </div>
   
-</div>
-<div class="text33">
-</div>
-<div class="text33">
-</div>
-<div class="centre">
         
         <div class="goos">
         <a href="omrajan.php">
@@ -243,11 +219,8 @@
              </a>
         </div>
   
-</div>
 
-<div class="text33">
-</div>
-<div class="centre">
+
         
         <div class="goosA">
         <a href="omrajan.php">
@@ -264,13 +237,9 @@
              </a>
         </div>
   
-</div>
 
 
-<div class="text33">
-</div>
-<div class="centre">
-        
+
         <div class="goos">
         <a href="omrajan.php">
             <span>
@@ -286,11 +255,8 @@
              </a>
         </div>
   
-</div>
 
-<div class="text33">
-</div>
-<div class="centre">
+
         
         <div class="goosA">
         <a href="omrajan.php">
@@ -306,12 +272,12 @@
             </div>
              </a>
         </div>
-  
-</div>
 
-<div class="text33">
-</div>
 
+
+</div>
+</div>
   
   <script src="ex.js"></script>
 </body>
+</html>

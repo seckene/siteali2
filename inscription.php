@@ -88,7 +88,23 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     </header>
 <body>
 <h1 class="inter">Inscriptions Hadj 2025</h1>
-<div class="centre">
+
+<div class="ligne-cartes23">
+        <div class="goos5">
+            
+            <span>
+                <p class="Omra20256">Hadj 2025</p>
+               
+            </span>
+            <p class="deuxx">20 jours</p>
+            <div class="rondj">
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+
+                
+            </div>
+            
+        </div>
         <div class="goos5">
             <span>
                 <p class="Omra20256">Hadj 2025</p>
@@ -103,7 +119,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             </div>
             
         </div>
-   
     </div>
    
     <h1 class="inter">Programe hajj </h1>

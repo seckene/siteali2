@@ -83,10 +83,11 @@
          </div>
         </div>
     </div>
-    <h1>Omra & Hadj 2025</h1>
+    <h1>Omra 2025</h1>
+    <div class="ligne-cartes">
     <div class="centre">
         <div class="goos">
-        <a href="omra.php">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Janvier</p>
@@ -100,14 +101,11 @@
         </div>
         </a>
     </div>
-    <div class="text33">
-        <button class="chef1"><a href="contact.php"class="ouff">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php" class="ouff"> En savoir plus<a></button>
-    </div>
+   
     <div class="centre">
         
             <div class="goosA">
-            <a href="omra.php">
+            <a href="omrajan.php">
                 <span>
                     <p class="Omra2025">Omra</p>
                     <p class="unt">février</p>
@@ -121,17 +119,13 @@
                 </a>
             </div>
            
-    </div>
-    <div class="text33">
-        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
-    </div>
-    <div class="centre">
+
+   
     
     </div>
     <div class="centre">
         <div class="goosB">
-        <a href="omra.php">
+        <a href="omrajan.php">
             <span>
                 <p class="Omra2025">Omra</p>
                 <p class="unt">Mars</p>
@@ -145,57 +139,46 @@
             </a>
         </div>
     </div>
-    <div class="text33">
-        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
-    </div>
-    <div class="centre">
-        <div class="goosC">
-        <a href="omra.php">
-            <span>
-                <p class="Omra2025">Omra</p>
-                <p class="unt">Avril</p>
-            </span>
-            <p class="deuxx">10 jours</p>
-            <div class="rond">
-                <p class="quatre">A partir de 1400€</p>
-                <p class="cinque">Du<bR> 20 AVRIL au 31 AVRIL</p>
+</div>
+    
+</div>
+    
+    
+<h1>Hadj 2025</h1>
 
-            </div>
-</a>
-        </div>
-    </div>
-    <div class="text33">
-        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
-        <button class="chef1"><a href="omrajan.php" class="ouff">En savoir plus<a></button>
-    </div>
-    <h1>hajj 2025 </h1>
-    <div class="centre">
+ 
+<div class="ligne-cartes23">
         <div class="goos5">
-        <a href="inscription.php">
+            
             <span>
                 <p class="Omra20256">Hadj 2025</p>
+               
             </span>
-            <p class="deuxx">20 jours</p>
+            <p class="deuxx">22 jours</p>
             <div class="rondj">
-                <p class="quatre">A partir de 7500€</p>
-                <p class="cinque">Du<bR> 20 janvier au 31 février</p>
+                <p class="quatre">A partir de 1400€</p>
+                <p class="cinque">Du<bR> 20 Mai au 11 juin</p>
 
+                
             </div>
-</a>
+            
         </div>
+        
+       <div class="centre">
+       <p class="tex7">
+       Depuis 2021, les autorités saoudiennes ont mis en place une nouvelle organisation du Grand Pèlerinage via la plateforme Nusuk sur laquelle les futurs pèlerins doivent désormais acheter leur forfait directement auprès d’agences saoudiennes locales. Un partenariat entre ces derniers et les agences françaises a été établi afin qu’elles puissent être aux cotés des futurs pèlerins français depuis le choix du package et l’enregistrement des formalités administratives sur Nusuk jusqu’à l’encadrement tout le long du séjour.
+</p>
     </div>
-    <div class="text33">
-        <button class="chef1"><a href="contact.php" class="ouff">Nous contacter<a></button>
-        <button class="chef1"><a href="inscription.php" class="ouff">Inscription<a></button>
-    </div>
-    
- 
+        </div>
+  
 
     <h1>Accompagnement Administratif</h1>
-    <div class="tex444">
-    <p class="tex44"> 
-        Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
+    
+    <div class="ligne-cartes23">
+    
+       <div class="centre">
+       <p class="tex77">
+       Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
         
         
         La demande de visa pour le Hajj ou la Omra
@@ -203,28 +186,35 @@
         L’aide pour les personnes ayant un passeport étranger
         
         Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
+  
     </p>
+    </div>
+    
+        <div class="goos3">
+             
+        </div>
+        <p class="tex78">
+       Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
+        
+        
+        La demande de visa pour le Hajj ou la Omra
+        
+        L’aide pour les personnes ayant un passeport étranger
+        
+        Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
+  
+    </p>
+        
+        </div>
+        
+        
+    
+    
 </div>
 
 
 
 
-<a href="administatif2.php">
-    <section id="www">
-   
-
-
-   <div class="goos3">
-
-   
-    <h2>Visa omra</h2>
-    <span>
-       
-        <p class="unt"></p>
-    </span>
-   
-  </section>
-  </a>
 
   
  

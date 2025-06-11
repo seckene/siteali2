@@ -1,11 +1,11 @@
 let reste =document.querySelector(".reste")
 let burger=document.querySelector(".boss")
 let  fab=document.querySelector(".fab")
-let titre=document.querySelector(".titre")
+let titre=document.querySelector(".titre44")
 console.log(titre)
 
 burger.addEventListener("click",()=>{
-    titre.style.display="none"
+   
     reste.style.display= "block" ;
     burger.style.display="none"
     if (window.innerWidth<600) {
