@@ -15,6 +15,8 @@ body{  background-color:white;
 li{
     display: flex;
 align-items: center;
+
+
 text-align: center;
 }
 .titre{
@@ -22,6 +24,10 @@ text-align: center;
     font-size: 1.4rem;
     font-family: "Boldonse";
     color: white;
+    
+    letter-spacing: 0.1rem;
+    text-shadow:  0 4px 5px rgba(0, 0, 0, 0.1);
+    
     
 }
 .titre44{
@@ -55,6 +61,9 @@ text-align: center;
 
 a{
     color:white;
+    
+    letter-spacing: 0.1rem;
+    text-shadow:  0 4px 5px rgba(0, 0, 0, 0.1);
     
     font-size: 0.8rem;
     font-family: "Boldonse";
@@ -565,7 +574,6 @@ h1{
       opacity: 70%;
   }
     .goos3{
-        border: 6px solid black;
             height: 30rem;
             width: 50%;
             margin-top: 2%;
@@ -583,12 +591,10 @@ h1{
        
     
         .goos3:hover{
-            border: 6px solid black;
+            scale: 95%;
+            transition: transform 0.6s ease; 
+            box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.2);
         
-                scale: 95%;
-                  transition: transform 0.6s ease;
-                  opacity: 70%;
-              
           }
         h2{
             font-size: 1.5rem;
@@ -891,13 +897,15 @@ p29{
 }
 .pippoi1
 {
-    margin-top: 30rem;
+    margin-top: 18rem;
     display: block;
     justify-content: center;
     text-align: center;
     color: white;
     font-size: 1.2rem;
     font-family: "boldonse";
+    letter-spacing: 0.1rem;
+    text-shadow:  0 4px 5px rgba(0, 0, 0, 0.1);
     
 }
 
