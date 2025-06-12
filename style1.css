@@ -1177,13 +1177,13 @@ z-index: -1;
         
         }
         .rond{
-            height:32vh;
+            height:25vh;
             width: 65%;
             margin-left: 33%;
         }
         .rondj{
             
-            height:32vh;
+            height:25vh;
             width: 65%;
             margin-left: 33%;
         }
@@ -1400,14 +1400,14 @@ border-top-left-radius:1.5rem ;
                 }
                 
                 .rond{
-                    height: 30vh;
+                    height: 20vh;
                     width: 45%;
                     
             margin-top: 8rem;
                     margin-left: 50%;
                 }
                 .rondj{
-                    height: 30vh;
+                    height: 20vh;
                     width: 45%;
                     
             margin-top: 8rem;
@@ -1732,14 +1732,14 @@ border-top-left-radius:1.5rem ;
                 }
                   
                 .rond{
-                    height: 30vh;
+                    height: 20vh;
                     width: 50%;
                     
             margin-top: 8rem;
                     margin-left: 50%;
                 }
                 .rondj{
-                    height: 30vh;
+                    height: 20vh;
                     width: 50%;
                     
             margin-top: 8rem;
@@ -2096,14 +2096,14 @@ border-top-left-radius:1.5rem ;
                 margin-right: 5%;
             }
             .rond{
-                height: 30vh;
+                height: 20vh;
                 width: 50%;
                 
         margin-top: 5rem;
                 margin-left: 50%;
             }
             .rondj{
-                height: 30vh;
+                height: 20vh;
                 width: 50%;
                 
         margin-top: 5rem;
