@@ -148,7 +148,9 @@
 
  
 <div class="ligne-cartes23">
+    
         <div class="goos5">
+       <a href="inscription.php">
             
             <span>
                 <p class="Omra20256">Hadj 2025</p>
@@ -161,13 +163,15 @@
 
                 
             </div>
-            
+
         </div>
+</a>
         
        <div class="centre">
        <p class="tex7">
        Depuis 2021, les autorités saoudiennes ont mis en place une nouvelle organisation du Grand Pèlerinage via la plateforme Nusuk sur laquelle les futurs pèlerins doivent désormais acheter leur forfait directement auprès d’agences saoudiennes locales. Un partenariat entre ces derniers et les agences françaises a été établi afin qu’elles puissent être aux cotés des futurs pèlerins français depuis le choix du package et l’enregistrement des formalités administratives sur Nusuk jusqu’à l’encadrement tout le long du séjour.
-</p>
+
+    </p>
     </div>
         </div>
   
@@ -186,13 +190,17 @@
         L’aide pour les personnes ayant un passeport étranger
         
         Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
+   
   
     </p>
     </div>
     
+    <a href="administratif.php">
         <div class="goos3">
-             
+            Visa omra 2025
+        </a>
         </div>
+
         <p class="tex78">
        Apres plusieurs années d’expérience, l’agence vous accompagne dans toutes les étapes de votre voyage, y compris les démarches importantes comme :
         
@@ -202,7 +210,7 @@
         L’aide pour les personnes ayant un passeport étranger
         
         Notre but est de vous faciliter au maximum l'organisation de votre pèlerinage, avec un service complet, simple et fiable.
-  
+     
     </p>
         
         </div>
@@ -215,18 +223,17 @@
 
 
 
-
-  
- 
- 
-  <!-- <footer>
-  <a href="mentions-legales.html">Mentions légales</a>
+<footer class="footer">
+    <p>© 2025 Dar as'salam - Tous droits réservés</p>
+    <p>
+        <a href="mailto:contact@darassalam.com" class="footer-link">Contactez-nous</a> |
+        <a href="/mentions-legales" class="footer-link">Mentions légales</a>
+    </p>
 </footer>
-  -->
+
+ 
     <script src="ex.js"></script>
 
 </body>
 
 </html>
-
-

@@ -64,6 +64,8 @@ a{
     
     letter-spacing: 0.1rem;
     text-shadow:  0 4px 5px rgba(0, 0, 0, 0.1);
+    letter-spacing: 0.1rem;
+    text-shadow:  0 4px 5px rgba(0, 0, 0, 0.1);
     
     font-size: 0.8rem;
     font-family: "Boldonse";
@@ -912,6 +914,18 @@ p29{
 .tg{
     color: white;
 }
+.footer {
+    background-color:#C9DCE9;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    text-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.footer-link {
+    color: burlywood;
+    text-decoration: none;
+}
 
 .espaces{
     margin-top: 10rem;
@@ -1164,6 +1178,9 @@ z-index: -1;
                 
                 font-size: 0.8rem;
               }
+              .footer {
+                height: 6rem;
+              }
         }
     
     
@@ -1279,7 +1296,7 @@ h6{
             margin-bottom: 0rem;
             }
             
-            
+           
             .text3{
                 margin-top: 15%;
                 height: 10%;
@@ -1287,12 +1304,12 @@ h6{
             
             .gauche{
                 width: 100%;
-                height: 38rem;
+                height: 42rem;
             }
  
             .gauche5{
                 width: 100%;
-                height: 38rem;
+                height: 42rem;
             }
 
             .text2{
@@ -1420,6 +1437,34 @@ border-top-left-radius:1.5rem ;
                     
             margin-top: 8rem;
                     margin-left:50%;
+                }  .goosA:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }  .goosB:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }  .goosC:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }
+                
+                .goos5:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }
+                .goos3:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
                 }
                 .goos{
                         height: 30rem;
@@ -1573,7 +1618,8 @@ border-top-left-radius:1.5rem ;
   }
   .ligne-cartes {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
     
@@ -1586,7 +1632,8 @@ border-top-left-radius:1.5rem ;
 
 .ligne-cartes23 {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
      
@@ -1758,6 +1805,34 @@ border-top-left-radius:1.5rem ;
                         width: 100%;
                         
                     margin-bottom: 2rem;
+                    }  .goosA:hover{
+                        scale: none;
+                        transition: none; 
+                        box-shadow: none; 
+                        
+                    }  .goosB:hover{
+                        scale: none;
+                        transition: none; 
+                        box-shadow: none; 
+                        
+                    }  .goosC:hover{
+                        scale: none;
+                        transition: none; 
+                        box-shadow: none; 
+                        
+                    }
+                    
+                    .goos5:hover{
+                        scale: none;
+                        transition: none; 
+                        box-shadow: none; 
+                        
+                    }
+                    .goos3:hover{
+                        scale: none;
+                        transition: none; 
+                        box-shadow: none; 
+                        
                     }
                     .goosA{
                         height: 30rem;
@@ -1939,7 +2014,8 @@ form{
   }
   .ligne-cartes {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
 }
@@ -1951,7 +2027,8 @@ form{
 
 .ligne-cartes23 {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
      
@@ -2116,6 +2193,34 @@ border-top-left-radius:1.5rem ;
                 
         margin-top: 5rem;
                 margin-left:50%;
+            }  .goosA:hover{
+                scale: none;
+                transition: none; 
+                box-shadow: none; 
+                
+            }  .goosB:hover{
+                scale: none;
+                transition: none; 
+                box-shadow: none; 
+                
+            }  .goosC:hover{
+                scale: none;
+                transition: none; 
+                box-shadow: none; 
+                
+            }
+            
+            .goos5:hover{
+                scale: none;
+                transition: none; 
+                box-shadow: none; 
+                
+            }
+            .goos3:hover{
+                scale: none;
+                transition: none; 
+                box-shadow: none; 
+                
             }
                 .goos{
                         height: 25rem;
@@ -2304,7 +2409,8 @@ form{
   }
   .ligne-cartes {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
 }
@@ -2316,7 +2422,8 @@ form{
 
 .ligne-cartes23 {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
      
@@ -2396,7 +2503,7 @@ form{
                 }
                 .gauche5{
                     width: 100%;
-                    height: 30rem;
+                    height: 32rem;
                     border-radius: 0rem 0rem 0,5rem 0,5rem;
                     margin-right: 0%;
 
@@ -2543,7 +2650,35 @@ border-top-left-radius:1.5rem ;
                     height: 23rem;
                     width: 95%;
                 }
-
+                .goosA:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }  .goosB:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }  .goosC:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }
+                
+                .goos5:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }
+                .goos3:hover{
+                    scale: none;
+                    transition: none; 
+                    box-shadow: none; 
+                    
+                }
                 .goos5{
                     height: 23rem;
                     width: 95%;
@@ -2741,7 +2876,8 @@ font-size: 0.6rem;
 }
 .ligne-cartes {
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     margin-left: 0rem;
     margin-right: 0REM;
     
@@ -2756,6 +2892,8 @@ font-size: 0.6rem;
 
 .ligne-cartes23 {
     display: flex;
+    justify-content: center;
+    align-items: center;
     
     margin-left: 0rem;
     margin-right: 0REM;
@@ -2768,4 +2906,3 @@ font-size: 0.6rem;
 }
 
 }
-
