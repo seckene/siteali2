@@ -9,8 +9,19 @@ body{  background-color:white;
 .navb{display: flex;
     align-items: center;
     margin-bottom: 1rem;
-    
-    
+   
+  
+    /* 
+     width: 100%;
+    position: fixed;
+    background: rgba(20, 20, 20, 0.322);
+border: 2px solid rgba(255, 255, 255, 0.05);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+backdrop-filter: blur(2.5px);
+
+    border-bottom-left-radius:1rem ;
+    z-index: 1;
+    border-bottom-right-radius:1rem ; */
 }
 li{
     display: flex;
@@ -720,8 +731,9 @@ h4{
           width: 40%;
     border-radius:1rem ;
     background: rgba(255, 255, 255, 0.356);
-    box-shadow: 0 4px 60px rgb(222, 184, 135);
+box-shadow: 0 4px 60px rgb(158, 151, 151);
 backdrop-filter: blur(5.6px);
+
         }
 
 .cache{
@@ -776,7 +788,7 @@ align-items: center;
     display: block;
     font-size: 1rem;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-width: 30%;
+width: 40%;
  text-align: center;
 }
 .premierjan{
@@ -793,6 +805,12 @@ width: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
+    
+    
+
+
+    margin-left: 1rem;
+    margin-right:1rem ;
 
 
 }
@@ -800,10 +818,6 @@ width: 30%;
 p31{
     color: #8b8373;
 
-    
-   
-
-    margin-right: 1.5rem;
     
 }
 p29{
@@ -965,6 +979,7 @@ p29{
     margin-bottom: 10px; 
     margin-left: 3REM;
     margin-right: 3REM;
+    margin-top: 5rem;
 }
 
 .ligne-cartes23 > div {
@@ -1418,19 +1433,20 @@ border-top-left-radius:1.5rem ;
                    text-align: center;
                    margin-top: 20%;
                    margin-bottom: 50%;
+                   color: white;
                     
                 }
                 a{
                     
                    font-size: 0.7rem;
                     margin-top: 5%;
-                    color:burlywood;
+                    color: white;
                 }
                 .lienA{
                     
                    font-size: 0.7rem;
                    margin-top: 5%;
-                   color:burlywood;
+                   color: white;
                 }
                 
               .croix{
@@ -1643,8 +1659,29 @@ border-top-left-radius:1.5rem ;
      
    }
    .janajan{
-    width: 50%;
-   }
+    display: block;
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+width: 100%;
+text-align: center;
+}
+.premierjan{
+    display: flex;
+ margin-right: 1.5rem;
+    justify-content: center;
+    color: burlywood;
+    align-items: center;
+    font-size: 2rem;
+    font-family:"Boldonse" ;
+}
+.folome{
+    margin-top: 10%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+
+}
    .salif{
     width: 80%;
   }
@@ -1792,7 +1829,7 @@ border-top-left-radius:1.5rem ;
                     
                    font-size: 0.7rem;
                     margin-top: 5%;
-                    color:burlywood;
+                    color: white;
                 }
 
 
@@ -1800,7 +1837,7 @@ border-top-left-radius:1.5rem ;
                     
                    font-size: 0.7rem;
                    margin-top: 5%;
-                   color:burlywood;
+                   color: white;
                 }
                 
               .croix{
@@ -2195,13 +2232,13 @@ border-top-left-radius:1.5rem ;
                     
                    font-size: 0.7rem;
                     margin-top: 5%;
-                    color:burlywood;
+                    color: white;
                 }
                 .lienA{
                     
                    font-size: 0.7rem;
                    margin-top: 5%;
-                   color:burlywood;
+                   color: white;
                 }
                 
               .croix{
@@ -2595,7 +2632,7 @@ form{
                     display: block;
                     justify-content: space-evenly;
                     width: 100%;
-                    background-color:rgb(0, 0, 0);
+                    background-color:rgba(20, 20, 20, 0.815);
                     height: 110vh;
 border-bottom-left-radius:1.5rem ;
 border-top-left-radius:1.5rem ;
@@ -2611,14 +2648,13 @@ border-top-left-radius:1.5rem ;
                 }
                 a{
                     font-size: 0.6rem;
-                    margin-top: 5%;
-                    color:burlywood;
+                    margin-top: 5%;     color: white;
                 }
                 .lienA{
                     
                     font-size: 0.5rem;
                     margin-top: 5%;
-                    color:burlywood;
+                    color: white;
                 }
               .croix{
                 width: 30%;
@@ -2830,6 +2866,7 @@ border-top-left-radius:1.5rem ;
     font-size: 1rem;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 width: 100%;
+
 text-align: center;
 }
 .premierjan{
@@ -2848,6 +2885,8 @@ text-align: center;
     align-items: center;
     
 
+    margin-left: 1rem;
+    margin-right:1rem ;
 }
 
 p31{
@@ -2915,6 +2954,7 @@ form{
   width: 90%;
   border-radius: 0.5rem;
   margin-bottom: 2rem;
+  
 }
 
 
