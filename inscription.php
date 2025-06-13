@@ -60,7 +60,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </head>
 
 <body>
-    <header>
         <nav class="navb">
             <ul class="logetnom">
                 <img src="android-icon-96x96.png">
@@ -85,7 +84,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     d="M0 96C0 78.3 14.3 64 32 64l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 128C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 288c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32L32 448c-17.7 0-32-14.3-32-32s14.3-32 32-32l384 0c17.7 0 32 14.3 32 32z" />
             </svg>
         </nav>
-    </header>
 <body>
 <h1 class="inter">Inscriptions Hadj 2025</h1>
 
@@ -96,9 +94,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <p class="Omra20256">Hadj 2025</p>
                
             </span>
-            <p class="deuxx">20 jours</p>
-            <div class="rondj">
-                <p class="quatre">A partir de 1400€</p>
+            <p class="deuxx">PACKAGE LUXURY</p>
+            <div class="rondj3">
+                <p class="quatre">A partir de 8500€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
                 
@@ -110,9 +108,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <p class="Omra20256">Hadj 2025</p>
              
             </span>
-            <p class="deuxx">20 jours</p>
-            <div class="rondj">
-                <p class="quatre">A partir de 1400€</p>
+            <p class="deuxx">PACKAGE PREMIUM</p>
+            <div class="rondj3">
+                <p class="quatre">A partir de 6500€</p>
                 <p class="cinque">Du<bR> 20 janvier au 31 février</p>
 
                 
@@ -286,53 +284,18 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </div>
 </div>
 
-    <div class="site">
-        
-  <h2>Formulaire d'inscriptions Hadj 2025</h2>
-  <div class="cache">
-
-  <div class="salif">
-    <form method="post">
-
-    <label for="nom">Nom complet</label>
-      <input type="text" id="nom" name="nom" required>
-
-      <label for="cin">Numéro de CIN / Passeport</label>
-      <input type="text" id="nom" name="cin" required>
-
-      <label for="date_naissance">Date de naissance</label>
-      <input type="date" id="nom" name="date_naissance" required>
-
-      <label for="telephone">Téléphone</label>
-      <input type="tel" id="nom" name="telephone" required>
-
-      <label for="email">Email (facultatif)</label>
-      <input type="email" id="nom" name="email">
-
-      <label for="ville">Ville de résidence</label>
-      <input type="text" id="nom" name="ville" required>
-
-      <label for="sexe">Sexe</label>
-      <select id="nom" name="sexe" required>
-        <option value="">-- Sélectionnez --</option>
-        <option value="Homme">Homme</option>
-        <option value="Femme">Femme</option>
-      </select>
-      
-      </span>
-      
-      <div class="valide2">
-      <button type="submit" id="valide">S'inscrire</button>
-      </div>
-    </form>
-    
-  </div>
-  </div>
-</div>
-
+ 
 
   
 </body>
+
+<footer class="footer">
+    <p>© 2025 Dar as'salam - Tous droits réservés</p>
+    <p>
+        <a href="mailto:contact@darassalam.com" class="footer-link">Contactez-nous</a> |
+        <a href="/mentions-legales" class="footer-link">Mentions légales</a>
+    </p>
+</footer>
 
 
     <script src="ex.js"></script>

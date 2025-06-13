@@ -66,7 +66,6 @@
     <section id="www">
    
     <div class="goos2">
-            <p class="Omra20255">Passeports Etrangers</p>
             <br>
    </div>
 
@@ -74,7 +73,7 @@
    
    <div class="goos3">
    <a href="administatif2.php">
-    <p class="Omra20255">Visa Arabie Saoudite</p>
+    <p class="Omra20255">Visa Omra 2025</p>
   
 </a>
     </div>
@@ -85,6 +84,15 @@
 
 
   
+
+<footer class="footer">
+    <p>© 2025 Dar as'salam - Tous droits réservés</p>
+    <p>
+        <a href="mailto:contact@darassalam.com" class="footer-link">Contactez-nous</a> |
+        <a href="/mentions-legales" class="footer-link">Mentions légales</a>
+    </p>
+</footer>
+
   
     <script src="ex.js"></script>
 </body>

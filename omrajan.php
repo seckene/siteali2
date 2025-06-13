@@ -128,9 +128,8 @@
         
     </div>
 
+    <div class="ligne-cartes23">
 
-    <section id="www">
-   
    <div class="goosE">
    <p class="Omra20255">Al Baqi</p>
            <br>
@@ -140,26 +139,11 @@
    <p class="Omra20255">Mount Uhud</p>
            <br>
   </div>
- </section>
-
-
- <section id="www">
-   
-   <div class="goosG">
-   <span>
-   <p class="Omra20255">Musées</p>
-           
-</span>
-  </div>
  
-  <div class="goosH">
-   <span>
-   <p class="Omra20255">université de medine</p>
-
+   
    </span>
-  
- </section>
-
+  </div>
+  </div>
 
 
  <div class="folome">
@@ -170,7 +154,7 @@
    <p31> -Transfert : Bus climatisés<br> – De l’hôtel vers l’aéroport
    Vol : Régulier Jeddah Paris (CDG) </p31>
  
-</div>
+
 
 
 

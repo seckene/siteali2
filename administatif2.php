@@ -116,6 +116,15 @@ Il est fortement recommandé de soumettre votre demande avant votre départ. En 
 </body>
 
   
+
+<footer class="footer">
+    <p>© 2025 Dar as'salam - Tous droits réservés</p>
+    <p>
+        <a href="mailto:contact@darassalam.com" class="footer-link">Contactez-nous</a> |
+        <a href="/mentions-legales" class="footer-link">Mentions légales</a>
+    </p>
+</footer>
+
  
     <script src="ex.js"></script>
 </body>

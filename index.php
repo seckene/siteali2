@@ -157,7 +157,7 @@
                
             </span>
             <p class="deuxx">22 jours</p>
-            <div class="rondj">
+            <div class="rondj3">
                 <p class="quatre">A partir de 1400€</p>
                 <p class="cinque">Du<bR> 20 Mai au 11 juin</p>
 
@@ -195,7 +195,7 @@
     </p>
     </div>
     
-    <a href="administratif.php">
+    <a href="administatif2.php">
         <div class="goos3">
             Visa omra 2025
         </a>
